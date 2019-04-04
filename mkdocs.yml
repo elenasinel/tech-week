@@ -1,0 +1,30 @@
+site_name: 'Teens In AI Tech Week Hack'
+nav:
+  - Hackathon Guide: "index.md"
+  - About: "about.md"
+  - FAQ: "faq.md"
+
+theme:
+  name: 'material'
+  favicon: 'images/teens-in-ai-full.png'
+  palette:
+    primary: "Deep Purple"
+    accent: "Deep Purple"
+  logo: "images/teens-in-ai-full.png"
+
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/AcornHack'
+    - type: 'twitter'
+      link: 'https://twitter.com/TeensInAI'
+ 
+
+markdown_extensions:
+    - toc:
+        permalink: True
+        separator: "_"
+    - admonition
+
+

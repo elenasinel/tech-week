@@ -72,7 +72,14 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 ## Resources
 ### How best to put your entry online
-### Suggestions of tools to use to maximise your hacking productivity 
+### Suggestions of tools to use to maximise your hacking productivity
+* [Trello](https://trello.com) - A simple way to manage your tasks within your team.
+* [Google Drive](https://drive.google.com) - Create a shared folder within your team to keep track of documents, spreadsheets, pictures and videos!
+* [Slack](https://slack.com) - The best way to communicate within your team.
+* [GitHub](https://github.com) - The way you need to store all the code you write and work collaboratively on your project.
+* [Canva](https://canva.com) - The easiest and quickest way to make posters, logos and designs for the project.
+* [Marvel](https://marvelapp.com) - Create mockups for mobile apps with this fantastic tool.
+
 ### Working with data
 ### Business Model Canvas
 ### Tips for Pitch Video

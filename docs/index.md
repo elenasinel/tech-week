@@ -4,8 +4,6 @@
 
 
 ## What is the Teens In AI London Tech Week Hackathon?
-> To celebrate London Tech Week, Founders4Schools, Teens in AI and CognitionX  are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence. We are on a mission to encourage young people to pursue computing and technology, and to promote diversity in this ever-growing field.
-
 
 ### Challenges
 This year we are focusing on [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). Within their teams, young people can 
@@ -75,14 +73,6 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 ## Resources
 ### How best to put your entry online
 ### Suggestions of tools to use to maximise your hacking productivity 
-
-* [Trello](https://trello.com) - A great way to manage tasks within your team.
-* [Slack](https://slack.com) - The best way to comunicate with your fellow hackers during the hack.
-* [Github](https://github.com) - This one is required. Put your code on GitHub so that you can all collaborate on it.
-* [Marvel](https://marvelapp.com) - An easy and straight forward way to design apps.
-* [Canva](https://canva.com) - By far the fastest way to create stunning posters.
-* [Google Drive](https://drive.google.com) - Create a shared folder on Google Drive to keep track of any documents, pictures, slideshows, videos and more!
-
 ### Working with data
 ### Business Model Canvas
 ### Tips for Pitch Video

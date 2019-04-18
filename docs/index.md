@@ -9,6 +9,7 @@ title: London Tech Week Hack
 ## What is the Teens In AI London Tech Week Hackathon?
 
 ### Challenges
+
 This year we are focusing on [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). Within their teams, young people can 
 Focus on any one of the goals and tackle them using open source machine learning tools.
 

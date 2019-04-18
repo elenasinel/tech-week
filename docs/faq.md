@@ -1,3 +1,6 @@
+---
+title: FAQ
+---
 # FAQ
 
 ## What is a Hackathon?

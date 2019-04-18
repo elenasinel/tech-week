@@ -1,3 +1,6 @@
+---
+title: London Tech Week Hack
+---
 # Hackathon Guide
 !!! Info
 	This site provides much of the information you'll need to prepare your Teens in AI Hack competition entries, and links to resources to help you create a great project.

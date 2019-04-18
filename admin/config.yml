@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Teens-in-AI/tech-week
 #publish_mode: editorial_workflow
-media_folder: "site/images"
+media_folder: "docs/images"
 public_folder: "images"
 collections:
   - name: "doc"

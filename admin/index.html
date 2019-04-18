@@ -9,7 +9,15 @@
 <body>
 <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
 <script>
-    //CMS.registerPreviewStyle("/preview.css");
+    const DocPreview = createClass({
+        render: function() {
+            return h("div", {"className": "md-content__inner md-typeset"}, this.props.widgetFor("body"));
+        }
+    });
+    CMS.registerPreviewTemplate("doc", DocPreview);
+
+    CMS.registerPreviewStyle("/admin/preview.css");
+    CMS.registerPreviewStyle("/admin/preview-palette.css");
 </script>
 </body>
 </html>

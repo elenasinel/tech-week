@@ -20,7 +20,7 @@ Diverse teams of 2-4 students will be designing a product that solves a challeng
 
 
 
-\### Challenges
+## Challenges
 
 
 
@@ -29,13 +29,17 @@ Focus on any one of the goals and tackle them using open source machine learning
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5G0ndS3uRdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here are some inspirational videos for you:
+## **Here are some inspirational videos for you:**
 
-<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=mJ6rjJiIHyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mJ6rjJiIHyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=rQqao37u1wU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=ba1tND0B0xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rQqao37u1wU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ba1tND0B0xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Judging Criteria
 

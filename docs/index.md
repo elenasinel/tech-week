@@ -60,7 +60,7 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 ## How to Enter
 
 1. Create teams of 2-4 students - max 2 teams per school
-2. Host an event 10-24 May and invite mentors (2-3 ML/AI Developers, 1-2 Design Thinkers, 1-2 Entrepreneurs, 1-2 Ethicists) to ideate and help you submit videos by 24 May on DevPost (submission rules and Devpost link to be shared)
+2. Host an event 10-24 May and invite mentors (2-3 machine learning and artificial intelligence Developers, 1-2 Design Thinkers, 1-2 Entrepreneurs, 1-2 Ethicists) to ideate and help you submit videos by 24 May on DevPost (submission rules and Devpost link to be shared)
 3. If your team is selected into 20 Finalist teams, it will be invited to CogX AI Festival for inspiration on Monday morning 10 June
 4. Teams will return to school and carry on building their projects with the help of mentors
 5. Teams will submit a video pitch of their final project on 11th June by 5 pm on Devpost (link to be shared)
@@ -71,7 +71,7 @@ Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submi
 ### Rules
 
 * Participants must be between the ages of 11 and 18.
-* Each group must be made up of 2-4 members and has to be diverse, unless it is a single gender school
+* Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
 * You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th for Round 1 and 5 pm June 11th for the Final Round.
 * You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.
 * You must be able to demonstrate that everyone within your group has contributed.
@@ -90,7 +90,7 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 **Final Round**: Finals Demo Day: (June 10th and 12th at CogX)
 
-* 10 June: Come and get inspired at Europe's largest festival for AI, CogX for free! Ideate the product you will develop along with your team of 4!
+* 10 June: Come and get inspired at Europe's largest festival for AI, CogX for free! Ideate the product you will develop alongside your entire team!
 * 11 June: Build your project with the help of expert mentors and submit your project on Devpost
 * 12 June: Demo Day in front of Judges - 2 hrs on Lightning Stage > Judges decide on the final winners (waiting for Tabitha to confirm)
 * 12 June: The winning team presents at CogX final stage 

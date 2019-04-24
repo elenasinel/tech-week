@@ -8,7 +8,7 @@ title: London Tech Week Hack
 
 ## What is the Teens In AI London Tech Week Hackathon?
 
-To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CognitionX](https://cognitionx.com/directory/news/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
+To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CogX2019](https://cogx.co/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
 
 We are on a mission to encourage young people to pursue computing and technology, and promote diversity in this ever-growing field.
 
@@ -103,17 +103,15 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 Guidance: Click here to learn more about working with data.
 
-
-
 ## **Datasets**
 
-[Kaggle](https://www.kaggle.com/datasets)
+[Kaggle](https://www.kaggle.com/datasets)
 
-[UCI Machine Learning Repository ](http://archive.ics.uci.edu/ml/datasets.html)
+[UCI Machine Learning Repository ](http://archive.ics.uci.edu/ml/datasets.html)
 
-[UN ](http://www.un.org/en/databases/index.html)
+[UN ](http://www.un.org/en/databases/index.html)
 
-[World Health Organization ](http://apps.who.int/gho/data/node.resources)
+[World Health Organization ](http://apps.who.int/gho/data/node.resources)
 
 [CDC ](https://wonder.cdc.gov/Welcome.html)
 
@@ -136,8 +134,6 @@ Wikipedia Corpus: https://nlp.cs.nyu.edu/wikipedia-data/
 Spoken Digit: https://github.com/Jakobovski/free-spoken-digit-dataset
 
 Sentiment Analysis: http://help.sentiment140.com/for-students/
-
-
 
 ### Business Model Canvas
 

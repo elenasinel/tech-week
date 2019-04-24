@@ -1,12 +1,22 @@
 ---
 title: London Tech Week Hack
 ---
-# Hackathon Guide
+**\*\*\*This is a "work in progress" doc and is constantly getting updated\*\*\***
+
+**Want to contribute to this guide or donate a resource?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions
+
+**Want to sponsor the hack and join Deepmind and Alan Turing Institute at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io
+
+
+
+# **Teens in AI Hackathon Guide**
 
 !!! Info
 	This site provides much of the information you'll need to prepare your Teens in AI Hack competition entries, and links to resources to help you create a great project.
 
-## What is the Teens In AI London Tech Week Hackathon?
+
+
+## **What is Teens In AI London Tech Week Hackathon?**
 
 To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CogX2019](https://cogx.co/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
 
@@ -23,7 +33,7 @@ Focus on any one of the goals and tackle them using open source machine learning
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5G0ndS3uRdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## **Here are some inspirational videos for you:**
+## Want Some Inspiration?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mJ6rjJiIHyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -31,7 +41,7 @@ Focus on any one of the goals and tackle them using open source machine learning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ba1tND0B0xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Judging Criteria
+## **Judging Criteria**
 
 Our panel of judges will analyse projects based on the criteria listed below. They will base their judgement on both the product you produce, the code you write and your video pitch.
 
@@ -40,14 +50,14 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 * Technical Complexity
 * Social Impact
 
-### Prizes
+## **Prizes**
 
 * **Pitch at [CogX](https://cogx.co)** - Pitch your project at CogX to investors, developers and industry experts. You never know, a good pitch could get your business up and running in no time!
 * **Attend [Pitch@Palace](https://pitchatpalace.com/)** - Attend Pitch@Palace! You'll have the opportunity to mingle with world-renowned entrepreneurs! 
 * **Work Experience via [Workfinder](https://www.workfinder.com/)** - Gain work experience in the field of your choice with our partner Workfinder!
 * **Use of [Tech Nation Digital Business Academy](https://digitalbusinessacademy.technation.io/)** - Use Technation's Digital Business Academy Platform to expand your know-how and skills in ever-growing tech markets.
 
-## How to Enter
+## **How to Enter**
 
 1. Create teams of 2-4 students - max 2 teams per school
 2. Host an event 10-24 May and invite mentors (2-3 machine learning and artificial intelligence Developers, 1-2 Design Thinkers, 1-2 Entrepreneurs, 1-2 Ethicists) to ideate and help you submit videos by 24 May on DevPost (submission rules and Devpost link to be shared)
@@ -59,7 +69,7 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
 
-## Rules
+## **Rules**
 
 * Participants must be between the ages of 11 and 18.
 * Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
@@ -69,7 +79,7 @@ Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submi
 * Parents are not allowed to mentor teams where participants are their children due to conflict of interest
 * Code needs to be new and will be verified - it must not belong to any previous project
 
-## Hackathon Schedule
+## **Hackathon Schedule**
 
 Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
 ### In Depth Schedule
@@ -101,7 +111,7 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 ## **Working with data**
 
-Guidance: Click here to learn more about working with data.
+Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.pdf) to learn more about working with data.
 
 ## **Datasets**
 

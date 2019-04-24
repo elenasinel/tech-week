@@ -1,8 +1,6 @@
 ---
 title: MENTORS BRIEF
 ---
-# ****
-
 **This is a "work in progress" doc and is constantly getting updated.**
 
 Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
@@ -105,6 +103,8 @@ Since we often lack design thinkers, you may end up roaming around more than one
 
 
 ## **WHAT’S IN IT FOR YOU?**
+
+_**\*\** Mentors of top 20 teams who get into the Finals (Demo Day) will receive FREE tickets to**_ [_**CogX2019**_](https://cogx.co/)_****_
 
 ## _**Expect to learn**_
 

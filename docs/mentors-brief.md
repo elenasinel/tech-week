@@ -5,13 +5,15 @@ title: MENTORS BRIEF
 
 Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
 
-**Want to contribute to this guide or donate a resource? Please email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions**
+**Want to contribute to this guide or donate a resource?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions
+
+**Want to sponsor the hack and join Deepmind and Alan Turing Institute at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io 
 
 ****
 
-**MENTORS BRIEF**
+# **MENTORS BRIEF**
 
-**Teens in AI Hackathon - London Tech Week**
+## **Teens in AI Hackathon - London Tech Week**
 
 ****
 
@@ -23,7 +25,7 @@ To celebrate London Tech Week, Founders4Schools, Teens in AI and CognitionX are 
 
 We are on a mission to encourage young people to pursue computing and technology, and to promote diversity in this ever-growing field.
 
-## **London Tech Week Teens in AI Hack:**
+## **KEY DATES:**
 
 **Round 1:** Video pitch: (competition opens May 10, 2019/ closes May 24, 2019)
 
@@ -92,15 +94,11 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 **ENTREPRENEURS**
 
-Some knowledge of business models, pitching and marketing - your expertise will be vital throughout the building process, particularly when teams will be finalising their pitch decks to post on Devpost and getting ready for the demo and presentation in front of judges.
-
-Teams will have 3 minutes to pitch and 2 minutes to respond to Judges' questions.
-
-Since we often lack design thinkers, you may end up roaming around more than one teams.
+Some knowledge of business models, pitching and marketing - your expertise will be vital throughout the building process, particularly when teams will be finalising their pitch decks to post on Devpost for Round 1 judging (deadline 24 May) and getting ready for the demo and presentation in front of judges at Cogx2019 on 12 June.
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
-
+Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
 
 ## **WHAT’S IN IT FOR YOU?**
 

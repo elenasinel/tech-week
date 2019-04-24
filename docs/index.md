@@ -12,17 +12,11 @@ To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.o
 
 We are on a mission to encourage young people to pursue computing and technology, and promote diversity in this ever-growing field.
 
-
-
 Diverse teams of 2-4 students will be designing a product that solves a challenge proposed with the use of AI, they will then go on to create this product and create a short 3-minute video pitching this product.
 
 ![](/images/whatsapp-image-2019-04-23-at-4.17.31-pm.jpeg)
 
-
-
-## Challenges
-
-
+## **Challenges**
 
 This year we are focusing on [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). Within their teams, young people can 
 Focus on any one of the goals and tackle them using open source machine learning tools.
@@ -33,11 +27,7 @@ Focus on any one of the goals and tackle them using open source machine learning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mJ6rjJiIHyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQqao37u1wU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ba1tND0B0xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -65,10 +55,11 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 4. Teams will return to school and carry on building their projects with the help of mentors
 5. Teams will submit a video pitch of their final project on 11th June by 5 pm on Devpost (link to be shared)
 
-\### DevPost
+## **DevPost**
+
 Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
 
-### Rules
+## Rules
 
 * Participants must be between the ages of 11 and 18.
 * Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
@@ -95,11 +86,11 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 * 12 June: Demo Day in front of Judges - 2 hrs on Lightning Stage > Judges decide on the final winners (waiting for Tabitha to confirm)
 * 12 June: The winning team presents at CogX final stage 
 
-## Resources
+## **Resources**
 
-### How best to put your entry online
+### **How best to put your entry online**
 
-### Suggestions of tools to use to maximise your hacking productivity
+### **Suggestions of tools to use to maximise your hacking productivity**
 
 * [Trello](https://trello.com) - A simple way to manage your tasks within your team.
 * [Google Drive](https://drive.google.com) - Create a shared folder within your team to keep track of documents, spreadsheets, pictures and videos!
@@ -108,7 +99,45 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 * [Canva](https://canva.com) - The easiest and quickest way to make posters, logos and designs for the project.
 * [Marvel](https://marvelapp.com) - Create mockups for mobile apps with this fantastic tool.
 
-### Working with data
+## **Working with data**
+
+Guidance: Click here to learn more about working with data.
+
+
+
+## **Datasets**
+
+[Kaggle](https://www.kaggle.com/datasets)
+
+[UCI Machine Learning Repository ](http://archive.ics.uci.edu/ml/datasets.html)
+
+[UN ](http://www.un.org/en/databases/index.html)
+
+[World Health Organization ](http://apps.who.int/gho/data/node.resources)
+
+[CDC ](https://wonder.cdc.gov/Welcome.html)
+
+Federal Highway Administration: https://nhts.ornl.gov/
+
+Datahub Collections: https://datahub.io/collections
+
+Awesome Public Datasets: https://github.com/awesomedata/awesome-public-datasets
+
+MS Coco: http://cocodataset.org/#home
+
+ImageNet: http://www.image-net.org/
+
+Open Images: https://storage.googleapis.com/openimages/web/index.html
+
+Twenty Newsgroups (UCI): https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
+
+Wikipedia Corpus: https://nlp.cs.nyu.edu/wikipedia-data/
+
+Spoken Digit: https://github.com/Jakobovski/free-spoken-digit-dataset
+
+Sentiment Analysis: http://help.sentiment140.com/for-students/
+
+
 
 ### Business Model Canvas
 

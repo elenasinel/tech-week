@@ -40,8 +40,6 @@ We are on a mission to encourage young people to pursue computing and technology
 
 ## **Hear from a mentor...**
 
-## 
-
 _“Being a Mentor at the #teensinAI hackathon, meant being there to support and accompany young people through a very intense weekend where they had to work collaboratively and think creatively with a group of girls they had never met before._ 
 
 _Our role as mentors is to remind them to make the most out of the experience, reminding them to have fun, but at the same time, encourage them to work to their fullest potential. We are there to make sure that the team dynamics are positive and that everyone is involved. It was one of the greatest experiences I have ever had._

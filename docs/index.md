@@ -90,7 +90,9 @@ Put the URL of your pitch video in the "Video demo"
 
 You can also upload a zip file when you submit your project.
 
-## **Submitting your project**
+## 
+
+**Submitting your project**
 
 **<iframe width="560" height="315" src="https://www.youtube.com/embed/vCa7QFFthfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>**
 
@@ -98,7 +100,7 @@ You can also upload a zip file when you submit your project.
 
 Teams will upload all code to GitHub. GitHub is a tool that developers and teams use to work together on their projects. You must use GitHub to store your code. Doing this is very simple. You must also attach a README.md to GitHub with instructions on how to run your code.
 
-When you are ready to submit to devpost, you will add the link to your GitHub repository so that our judges can analyse your work.
+When you are ready to submit to devpost, you will add the link to your GitHub repository so that our judges can analyse your work.
 
 # **Competition Rules**
 
@@ -115,11 +117,9 @@ Teams will upload all code to GitHub. GitHub is a tool that developers and teams
 
 Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
 
-## 
 **In Depth Schedule**
 
-## 
-**Round 1: Video pitch**
+## **Round 1: Video pitch**
 
 * Competition opens May 10, 2019
 * All videos must be submitted by May 24, 2019 on Devpost (link to be added)
@@ -131,25 +131,22 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 * 12 June: Demo Day in front of Judges 
 * 12 June: Winners announced
 
-
-
-
-
 # **Resources**
 
 ## **1. Machine Learning/ Artificial Intelligence**
 
 We have comprehensive guides that go over the basics of Machine Learning/AI as well as basics of programming. Find these below.
 
-[Intro to Python Tutorial](https://teens-in-ai.github.io/tech-week/resources/PythonWorkshop.pdf) - [Sammy Hass](https://github.com/SammyHass) (17), Teens in AI Ambassador
+[
+Intro to Python Tutorial](https://teens-in-ai.github.io/tech-week/resources/PythonWorkshop.pdf) - [Sammy Hass](https://github.com/SammyHass)
+ (17), Teens in AI Ambassador
 
-[Intro to Neural Networks](https://github.com/KiranArun/Neural_Networks-101-demo) - [Kirun Arun](https://github.com/KiranArun) (17), AI Accelerator Winner 2018
+[Intro to Neural Networks](https://github.com/KiranArun/Neural_Networks-101-demo) - [Kirun Arun
+](https://github.com/KiranArun) (17), AI Accelerator Winner 2018
 
 [Intro to Reinforcement Learning](https://github.com/KiranArun/Reinforcement_Learning-101-demo) - [Kirun Arun](https://github.com/KiranArun)
 
 [Intro to AI](https://github.com/life-efficient/Academy-of-AI) - [Harry Berg](https://github.com/life-efficient), Founder of Students4AI (Imperial College London)
-
-
 
 ## **2. Human-Centred Design in Artificial Intelligence**
 
@@ -157,21 +154,19 @@ We have comprehensive guides that go over the basics of Machine Learning/AI as w
 
 ## **4. Maths for Machine Learning**
 
-
-
 ## **5. Business Model Canvas**
 
-****[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
+\*\*\*\*[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
 
-The Business Model Canvas (BMC), is a strategic management and entrepreneurial tool. It allows you to describe, design, challenge, invent, and pivot your business model.
+The Business Model Canvas (BMC), is a strategic management and entrepreneurial tool. It allows you to describe, design, challenge, invent, and pivot your business model.
 
-There are many resources on the web about the Business Model Canvas, here's a [Google search](https://www.google.com.au/webhp?q=business+model+canvas) to start you off.
+There are many resources on the web about the Business Model Canvas, here's a [Google search](https://www.google.com.au/webhp?q=business+model+canvas) to start you off.
 
 [YouTube ](https://www.youtube.com/results?search_query=business+model+canvas)has many very good video resources too.
 
-A good starting place is on the Strategyzer site: https://strategyzer.com/canvas. Strategyzer have a lot of free resources on their site, but you'll need to register to access them.
+A good starting place is on the Strategyzer site: https://strategyzer.com/canvas. Strategyzer have a lot of free resources on their site, but you'll need to register to access them.
 
-Here are some videos to help you:
+Here are some videos to help you:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7mEISPNVv3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -179,21 +174,17 @@ There are many resources on the web about the Business Model Canvas, here's a [G
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aN36EcTE54Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 # **The Pitch Video**
 
-****[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
+\*\*\*\*[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
 
 Your pitch video is a core component of your Teens in AI Hack submissions, and should be a maximum of three (3) minutes.
 
-You should aim to communicate your business canvas, demonstrate your prototype, and engage would-be users in 3 minutes. Use the video medium to create excitement and demand for your solution. What evidence can you provide or discuss that adds credibility to your team and your solution? Do you need more resources to take it to the next level – would your video attract crowd funding, the interest of an angel investors or philanthropist – or just get you on the news?
+You should aim to communicate your business canvas, demonstrate your prototype, and engage would-be users in 3 minutes. Use the video medium to create excitement and demand for your solution. What evidence can you provide or discuss that adds credibility to your team and your solution? Do you need more resources to take it to the next level – would your video attract crowd funding, the interest of an angel investors or philanthropist – or just get you on the news?
 
 ALL participants needs to speak in the video! 
 
-You are encouraged to include your team name, team members, and to talk about how your project is innovative, has impact and relates to the UN Sustainable Development Goals.
-
-
+You are encouraged to include your team name, team members, and to talk about how your project is innovative, has impact and relates to the UN Sustainable Development Goals.
 
 ## **Working with data**
 
@@ -233,7 +224,7 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [Sentiment Analysis](http://help.sentiment140.com/for-students/)
 
-### ****
+### \*\*\*\*
 
 ### **Suggestions of tools to use to maximise your hacking productivity**
 
@@ -243,8 +234,6 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 * [GitHub](https://github.com) - The way you need to store all the code you write and work collaboratively on your project.
 * [Canva](https://canva.com) - The easiest and quickest way to make posters, logos and designs for the project.
 * [Marvel](https://marvelapp.com) - Create mockups for mobile apps with this fantastic tool.
-
-
 
 ### 
 

@@ -63,9 +63,35 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 4. Teams will return to school and carry on building their projects with the help of mentors
 5. Teams will submit a video pitch of their final project on 11th June by 5 pm on Devpost (link to be shared)
 
-## **DevPost**
+# **DevPost**
 
 Teens in AI Hack will use [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
+
+## **You will need to do the following:**
+
+Register all participants for the Teens in AI hackathon in DevPost. To do this click the \[Register for this hackathon] button on the Teens in AI page, and sign up. Once you have created a DevPost account you will be able to create project pages.
+
+Create a DevPost project page for your Teens in AI project - you can do this via the \[Enter a submission] button on the Teens in AI page, or via your Portfolio in DevPost.
+
+Submit your DevPost project to the Teens in AI hackathon
+
+## **When creating and editing your DevPost project make sure you:**
+
+Invite your team members onto the project via email.
+
+Describe your project thoroughly in the "Here's the whole story" section. 
+
+Put the links to your app and other resources (such as your BMC, screengrabs, etc.) in the "Try it out" field. You can add multiple links.
+
+Upload images, such as screenshots, in the "Image Gallery"
+
+Put the URL of your pitch video in the "Video demo"
+
+You can also upload a zip file when you submit your project.
+
+## **Submitting your project**
+
+**<iframe width="560" height="315" src="https://www.youtube.com/embed/vCa7QFFthfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>**
 
 ## **GitHub**
 
@@ -130,6 +156,20 @@ We have comprehensive guides that go over the basics of Machine Learning/AI as w
 
 [Intro to AI](https://github.com/life-efficient/Academy-of-AI) - [Harry Berg](https://github.com/life-efficient), Founder of Students4AI (Imperial College London)
 
+
+
+### **Business Model Canvas**
+
+****[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
+
+### **Tips for Pitch Video**
+
+****[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
+
+### Maths for Machine Learning
+
+![](/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)
+
 ## **Working with data**
 
 Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.pdf) to learn more about working with data.
@@ -168,14 +208,6 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [Sentiment Analysis](http://help.sentiment140.com/for-students/)
 
-### **Business Model Canvas**
-
-****[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
-
-### **Tips for Pitch Video**
-
-****[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
-
-### Maths for Machine Learning
+### 
 
 ![](/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)

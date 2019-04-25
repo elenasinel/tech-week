@@ -122,13 +122,13 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 We have comprehensive guides that go over the basics of Machine Learning/AI as well as basics of programming. Find these below.
 
-Python Tutorial - Sammy Hass
+[Intro to Python Tutorial](https://teens-in-ai.github.io/tech-week/resources/PythonWorkshop.pdf) - [Sammy Hass](https://github.com/SammyHass) (17), Teens in AI Ambassador
 
-Intro to Neural Networks - Kirun Arun
+[Intro to Neural Networks](https://github.com/KiranArun/Neural_Networks-101-demo) - [Kirun Arun](https://github.com/KiranArun) (17), AI Accelerator Winner 2018
 
-Intro to Reinforcement Learning - Kirun Arun
+[Intro to Reinforcement Learning](https://github.com/KiranArun/Reinforcement_Learning-101-demo) - [Kirun Arun](https://github.com/KiranArun)
 
-
+[Intro to AI](https://github.com/life-efficient/Academy-of-AI) - [Harry Berg](https://github.com/life-efficient), Founder of Students4AI (Imperial College London)
 
 ## **Working with data**
 

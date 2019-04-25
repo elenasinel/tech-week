@@ -150,3 +150,5 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 ### Tips for Pitch Video 
 
 ### Maths for Machine Learning
+
+![](/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)

@@ -5,16 +5,12 @@ title: London Tech Week Hack
 
 **Want to contribute to this guide or donate a resource?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions
 
-**Want to sponsor the hack and join Deepmind and Alan Turing Institute at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io
-
-
+**Want to sponsor the hack and join Deepmind and Alan Turing Institute at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io
 
 # **Teens in AI Hackathon Guide**
 
 !!! Info
 	This site provides much of the information you'll need to prepare your Teens in AI Hack competition entries, and links to resources to help you create a great project.
-
-
 
 ## **What is Teens In AI London Tech Week Hackathon?**
 
@@ -125,25 +121,25 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [CDC ](https://wonder.cdc.gov/Welcome.html)
 
-Federal Highway Administration: https://nhts.ornl.gov/
+[Federal Highway Administration](https://nhts.ornl.gov/)
 
-Datahub Collections: https://datahub.io/collections
+[Datahub Collections](https://datahub.io/collections)
 
-Awesome Public Datasets: https://github.com/awesomedata/awesome-public-datasets
+[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
-MS Coco: http://cocodataset.org/#home
+[MS Coco](http://cocodataset.org/#home)
 
-ImageNet: http://www.image-net.org/
+[ImageNet](http://www.image-net.org/)
 
-Open Images: https://storage.googleapis.com/openimages/web/index.html
+[Open Images](https://storage.googleapis.com/openimages/web/index.html)
 
-Twenty Newsgroups (UCI): https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
+[Twenty Newsgroups (UCI)](https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups)
 
-Wikipedia Corpus: https://nlp.cs.nyu.edu/wikipedia-data/
+[Wikipedia Corpus](https://nlp.cs.nyu.edu/wikipedia-data/)
 
-Spoken Digit: https://github.com/Jakobovski/free-spoken-digit-dataset
+[Spoken Digit](https://github.com/Jakobovski/free-spoken-digit-dataset)
 
-Sentiment Analysis: http://help.sentiment140.com/for-students/
+[Sentiment Analysis](http://help.sentiment140.com/for-students/)
 
 ### Business Model Canvas
 

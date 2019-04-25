@@ -1,6 +1,8 @@
 ---
 title: London Tech Week Hack
 ---
+![](/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)
+
 **\*\*\*This is a "work in progress" doc and is constantly getting updated\*\*\***
 
 **Want to contribute to this guide or donate a resource?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions
@@ -146,7 +148,5 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 
 ### Tips for Pitch Video 
-
-
 
 ### Maths for Machine Learning

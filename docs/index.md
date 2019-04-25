@@ -16,7 +16,7 @@ title: London Tech Week Hack
 
 ## **What is Teens In AI London Tech Week Hackathon?**
 
-To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CogX2019](https://cogx.co/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
+To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CogX](https://cogx.co/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
 
 We are on a mission to encourage young people to pursue computing and technology, and promote diversity in this ever-growing field.
 
@@ -65,17 +65,24 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 ## **DevPost**
 
-Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
+Teens in AI Hack will use [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
+
+## **GitHub**
+
+Teams will upload all code to GitHub. GitHub is a tool that developers and teams use to work together on their projects. You must use GitHub to store your code. Doing this is very simple. You must also attach a README.md to GitHub with instructions on how to run your code.
+
+When you are ready to submit to devpost, you will add the link to your GitHub repository so that our judges can analyse your work.
 
 ## **Rules**
 
-* Participants must be between the ages of 11 and 18.
+* Participants must be between the ages of 11 and 18 and be studying in a secondary school, Sixth Form or College based in one of London Boroughs
 * Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
 * You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th for Round 1 and 5 pm June 11th for the Final Round.
 * You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.
 * You must be able to demonstrate that everyone within your group has contributed.
 * Parents are not allowed to mentor teams where participants are their children due to conflict of interest
 * Code needs to be new and will be verified - it must not belong to any previous project
+* You are not expected to build a fully working product, but a Minimum Viable Product - a working prototype
 
 ## **Hackathon Schedule**
 
@@ -94,7 +101,9 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 * 12 June: Demo Day in front of Judges - 2 hrs on Lightning Stage > Judges decide on the final winners (waiting for Tabitha to confirm)
 * 12 June: The winning team presents at CogX final stage 
 
-## **Resources**
+
+
+# **Resources**
 
 ### **How best to put your entry online**
 
@@ -106,6 +115,20 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 * [GitHub](https://github.com) - The way you need to store all the code you write and work collaboratively on your project.
 * [Canva](https://canva.com) - The easiest and quickest way to make posters, logos and designs for the project.
 * [Marvel](https://marvelapp.com) - Create mockups for mobile apps with this fantastic tool.
+
+
+
+## **Machine Learning/ Artificial Intelligence**
+
+We have comprehensive guides that go over the basics of Machine Learning/AI as well as basics of programming. Find these below.
+
+Python Tutorial - Sammy Hass
+
+Intro to Neural Networks - Kirun Arun
+
+Intro to Reinforcement Learning - Kirun Arun
+
+
 
 ## **Working with data**
 
@@ -129,6 +152,8 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
+## **Image/NLP Repos**
+
 [MS Coco](http://cocodataset.org/#home)
 
 [ImageNet](http://www.image-net.org/)
@@ -143,13 +168,13 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [Sentiment Analysis](http://help.sentiment140.com/for-students/)
 
-### Business Model Canvas
+### **Business Model Canvas**
 
-[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
+****[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
 
-### Tips for Pitch Video 
+### **Tips for Pitch Video**
 
-[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
+****[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
 
 ### Maths for Machine Learning
 

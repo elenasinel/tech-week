@@ -133,6 +133,8 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 
 
+
+
 # **Resources**
 
 ## **1. Machine Learning/ Artificial Intelligence**
@@ -149,7 +151,15 @@ We have comprehensive guides that go over the basics of Machine Learning/AI as w
 
 
 
-### **Business Model Canvas**
+## **2. Human-Centred Design in Artificial Intelligence**
+
+## **3. AI Ethics Guide**
+
+## **4. Maths for Machine Learning**
+
+
+
+## **5. Business Model Canvas**
 
 ****[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
 
@@ -161,19 +171,29 @@ There are many resources on the web about the Business Model Canvas, here's a [G
 
 A good starting place is on the Strategyzer site: https://strategyzer.com/canvas. Strategyzer have a lot of free resources on their site, but you'll need to register to access them.
 
-Here's a short introduction to the BMC:
+Here are some videos to help you:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7mEISPNVv3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzkdJiax6Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aN36EcTE54Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-
-
-### **Tips for Pitch Video**
+# **The Pitch Video**
 
 ****[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
 
-### Maths for Machine Learning
+Your pitch video is a core component of your Teens in AI Hack submissions, and should be a maximum of three (3) minutes.
 
-![](/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)
+You should aim to communicate your business canvas, demonstrate your prototype, and engage would-be users in 3 minutes. Use the video medium to create excitement and demand for your solution. What evidence can you provide or discuss that adds credibility to your team and your solution? Do you need more resources to take it to the next level – would your video attract crowd funding, the interest of an angel investors or philanthropist – or just get you on the news?
+
+ALL participants needs to speak in the video! 
+
+You are encouraged to include your team name, team members, and to talk about how your project is innovative, has impact and relates to the UN Sustainable Development Goals.
+
+
 
 ## **Working with data**
 

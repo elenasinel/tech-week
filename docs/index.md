@@ -55,13 +55,14 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 * **Work Experience via [Workfinder](https://www.workfinder.com/)** - Gain work experience in the field of your choice with our partner Workfinder!
 * **Use of [Tech Nation Digital Business Academy](https://digitalbusinessacademy.technation.io/)** - Use Technation's Digital Business Academy Platform to expand your know-how and skills in ever-growing tech markets.
 
-## **How to Enter**
+## **How to Enter - Educators**
 
 1. Create teams of 2-4 students - max 2 teams per school
-2. Host an event 10-24 May and invite mentors (2-3 machine learning and artificial intelligence Developers, 1-2 Design Thinkers, 1-2 Entrepreneurs, 1-2 Ethicists) to ideate and help you submit videos by 24 May on DevPost (submission rules and Devpost link to be shared)
+2. Run an event 10-24 May and invite mentors (2-3 machine learning and artificial intelligence Developers, 1-2 Design Thinkers, 1-2 Entrepreneurs, 1-2 Ethicists) to ideate and help you submit videos by 24 May on DevPost 
 3. If your team is selected into 20 Finalist teams, it will be invited to CogX AI Festival for inspiration on Monday morning 10 June
-4. Teams will return to school and carry on building their projects with the help of mentors
-5. Teams will submit a video pitch of their final project on 11th June by 5 pm on Devpost (link to be shared)
+4. Teams will return to school and can carry on building/modifying their projects with the help of mentors (optional)
+5. Teams return to CogX on 12th June 9 am for Demo Day
+6. Winners announced at CogX
 
 # **DevPost**
 
@@ -93,58 +94,48 @@ You can also upload a zip file when you submit your project.
 
 **<iframe width="560" height="315" src="https://www.youtube.com/embed/vCa7QFFthfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>**
 
-## **GitHub**
+# **GitHub**
 
 Teams will upload all code to GitHub. GitHub is a tool that developers and teams use to work together on their projects. You must use GitHub to store your code. Doing this is very simple. You must also attach a README.md to GitHub with instructions on how to run your code.
 
 When you are ready to submit to devpost, you will add the link to your GitHub repository so that our judges can analyse your work.
 
-## **Rules**
+# **Competition Rules**
 
 * Participants must be between the ages of 11 and 18 and be studying in a secondary school, Sixth Form or College based in one of London Boroughs
 * Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
-* You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th for Round 1 and 5 pm June 11th for the Final Round.
+* You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th on Devpost
 * You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.
 * You must be able to demonstrate that everyone within your group has contributed.
 * Parents are not allowed to mentor teams where participants are their children due to conflict of interest
 * Code needs to be new and will be verified - it must not belong to any previous project
 * You are not expected to build a fully working product, but a Minimum Viable Product - a working prototype
 
-## **Hackathon Schedule**
+# **Hackathon Schedule**
 
 Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
-### In Depth Schedule
+
+## 
+**In Depth Schedule**
+
+## 
 **Round 1: Video pitch**
 
 * Competition opens May 10, 2019
 * All videos must be submitted by May 24, 2019 on Devpost (link to be added)
 * Regional Shortlisting: (finalists announced June 1, 2019)
 
-**Final Round**: Finals Demo Day: (June 10th and 12th at CogX)
+## **Final Round**: Finals Demo Day: (June 10th and 12th at CogX)
 
-* 10 June: Come and get inspired at Europe's largest festival for AI, CogX for free! Ideate the product you will develop alongside your entire team!
-* 11 June: Build your project with the help of expert mentors and submit your project on Devpost
-* 12 June: Demo Day in front of Judges - 2 hrs on Lightning Stage > Judges decide on the final winners (waiting for Tabitha to confirm)
-* 12 June: The winning team presents at CogX final stage 
+* 10 June: Come and get inspired at Europe's largest festival for AI, CogX for free! 
+* 12 June: Demo Day in front of Judges 
+* 12 June: Winners announced
 
 
 
 # **Resources**
 
-### **How best to put your entry online**
-
-### **Suggestions of tools to use to maximise your hacking productivity**
-
-* [Trello](https://trello.com) - A simple way to manage your tasks within your team.
-* [Google Drive](https://drive.google.com) - Create a shared folder within your team to keep track of documents, spreadsheets, pictures and videos!
-* [Slack](https://slack.com) - The best way to communicate within your team.
-* [GitHub](https://github.com) - The way you need to store all the code you write and work collaboratively on your project.
-* [Canva](https://canva.com) - The easiest and quickest way to make posters, logos and designs for the project.
-* [Marvel](https://marvelapp.com) - Create mockups for mobile apps with this fantastic tool.
-
-
-
-## **Machine Learning/ Artificial Intelligence**
+## **1. Machine Learning/ Artificial Intelligence**
 
 We have comprehensive guides that go over the basics of Machine Learning/AI as well as basics of programming. Find these below.
 
@@ -161,6 +152,20 @@ We have comprehensive guides that go over the basics of Machine Learning/AI as w
 ### **Business Model Canvas**
 
 ****[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
+
+The Business Model Canvas (BMC), is a strategic management and entrepreneurial tool. It allows you to describe, design, challenge, invent, and pivot your business model.
+
+There are many resources on the web about the Business Model Canvas, here's a [Google search](https://www.google.com.au/webhp?q=business+model+canvas) to start you off.
+
+[YouTube ](https://www.youtube.com/results?search_query=business+model+canvas)has many very good video resources too.
+
+A good starting place is on the Strategyzer site: https://strategyzer.com/canvas. Strategyzer have a lot of free resources on their site, but you'll need to register to access them.
+
+Here's a short introduction to the BMC:
+
+
+
+
 
 ### **Tips for Pitch Video**
 
@@ -207,6 +212,19 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 [Spoken Digit](https://github.com/Jakobovski/free-spoken-digit-dataset)
 
 [Sentiment Analysis](http://help.sentiment140.com/for-students/)
+
+### ****
+
+### **Suggestions of tools to use to maximise your hacking productivity**
+
+* [Trello](https://trello.com) - A simple way to manage your tasks within your team.
+* [Google Drive](https://drive.google.com) - Create a shared folder within your team to keep track of documents, spreadsheets, pictures and videos!
+* [Slack](https://slack.com) - The best way to communicate within your team.
+* [GitHub](https://github.com) - The way you need to store all the code you write and work collaboratively on your project.
+* [Canva](https://canva.com) - The easiest and quickest way to make posters, logos and designs for the project.
+* [Marvel](https://marvelapp.com) - Create mockups for mobile apps with this fantastic tool.
+
+
 
 ### 
 

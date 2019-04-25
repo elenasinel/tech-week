@@ -143,4 +143,10 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 ### Business Model Canvas
 
-### Tips for Pitch Video
+
+
+### Tips for Pitch Video 
+
+
+
+### Maths for Machine Learning

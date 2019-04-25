@@ -1,6 +1,7 @@
 site_name: 'London Tech Week Hack'
 nav:
   - Hackathon Guide: "index.md"
+  - Mentors Brief: "mentors-brief.md"
   - About: "about.md"
   - FAQ: "faq.md"
 

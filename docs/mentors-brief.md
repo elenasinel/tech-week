@@ -169,3 +169,5 @@ _Be prepared to be challenged as to your knowledge and programming skills - teen
 **Join the Slack channel to help remotely: http://bit.ly/teensinaimentor**
 
 **For further info email Elena on elena.sinel@acornaspirations.co.uk**
+
+![](/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)

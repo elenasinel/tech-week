@@ -22,7 +22,7 @@ We are on a mission to encourage young people to pursue computing and technology
 
 Diverse teams of 2-4 students will be designing a product that solves a challenge proposed with the use of AI, they will then go on to create this product and create a short 3-minute video pitching this product.
 
-![](/images/whatsapp-image-2019-04-23-at-4.17.31-pm.jpeg)
+![](/images/whatsapp-image-2019-04-25-at-8.54.07-pm.jpeg)
 
 ## **Challenges**
 

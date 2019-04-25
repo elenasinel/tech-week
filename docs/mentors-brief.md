@@ -1,6 +1,8 @@
 ---
 title: MENTORS BRIEF
 ---
+![](/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)
+
 **This is a "work in progress" doc and is constantly getting updated.**
 
 Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
@@ -9,13 +11,13 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 **Want to sponsor the hack and join Deepmind and Alan Turing Institute at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io 
 
-****
+- - -
 
 # **MENTORS BRIEF**
 
 ## **Teens in AI Hackathon - London Tech Week**
 
-****
+- - -
 
 **Do you want to be challenged?** 
 
@@ -64,7 +66,7 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
-****
+- - -
 
 **DESIGN THINKERS**
 
@@ -78,7 +80,7 @@ No code will be developed until a problem is researched and fully understood and
 
 Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
 
-****
+- - -
 
 **ETHICISTS**
 
@@ -88,7 +90,7 @@ Ethics is important and should be taught alongside coding and computer science a
 
 Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
 
-****
+- - -
 
 **ENTREPRENEURS**
 
@@ -100,9 +102,9 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 ## **WHAT’S IN IT FOR YOU?**
 
-_**\*\** Mentors of top 20 teams who get into the Finals (Demo Day) will receive FREE tickets to**_ [_**CogX2019**_](https://cogx.co/)_****_
+**_\*\** Mentors of top 20 teams who get into the Finals (Demo Day) will receive FREE tickets to_** [**_CogX2019_**](https://cogx.co/)_\*\*\*\*_
 
-## _**Expect to learn**_
+## **_Expect to learn_**
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -110,7 +112,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## _**Expect to be inspired**_ 
+## **_Expect to be inspired_**
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 
@@ -162,8 +164,8 @@ _Be prepared to be challenged as to your knowledge and programming skills - teen
 
 **Event Details: http://bit.ly/teensinaicogx**
 
-**Sign up to volunteer: https://www.founders4schools.org.uk/partners/teensinai/leader/**
+**Sign up to volunteer: https://www.founders4schools.org.uk/partners/teensinai/leader/**
 
-**Join the Slack channel to help remotely: http://bit.ly/teensinaimentor**
+**Join the Slack channel to help remotely: http://bit.ly/teensinaimentor**
 
 **For further info email Elena on elena.sinel@acornaspirations.co.uk**

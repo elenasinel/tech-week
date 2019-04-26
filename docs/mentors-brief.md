@@ -23,7 +23,7 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 **Join us on the mission to inspire teens to change the world through AI.**
 
-To celebrate London Tech Week, Founders4Schools, Teens in AI and CognitionX are running a Teens in AI Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
+To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/), [Teens in AI](https://teensinai.com/) and [CogX](https://cogx.co/) are running a Teens in AI Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
 
 We are on a mission to encourage young people to pursue computing and technology, and to promote diversity in this ever-growing field.
 

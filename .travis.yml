@@ -1,0 +1,7 @@
+language: python
+python:
+  - "3.6"
+script:
+  - make build
+after_success:
+  - cd site && find -type f -exec curl -u ${FTP_USER}:${FTP_PASSWORD} --ftp-create-dirs -T {} ${FTP_HOST}{} \;

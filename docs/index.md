@@ -51,9 +51,6 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 ## **Prizes**
 
 * **Pitch at [CogX](https://cogx.co)** - Pitch your project at CogX to investors, developers and industry experts. You never know, a good pitch could get your business up and running in no time!
-* **Attend [Pitch@Palace](https://pitchatpalace.com/)** - Attend Pitch@Palace! You'll have the opportunity to mingle with world-renowned entrepreneurs! 
-* **Work Experience via [Workfinder](https://www.workfinder.com/)** - Gain work experience in the field of your choice with our partner Workfinder!
-* **Use of [Tech Nation Digital Business Academy](https://digitalbusinessacademy.technation.io/)** - Use Technation's Digital Business Academy Platform to expand your know-how and skills in ever-growing tech markets.
 
 ## **How to Enter - Educators**
 

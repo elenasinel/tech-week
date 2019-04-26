@@ -5,4 +5,5 @@ build:
 deploy: build
 	@cd site && find -type f -exec curl -u ${FTP_USER}:${FTP_PASSWORD} --ftp-create-dirs -T {} ${FTP_HOST}{} \;
 netlify: build
-	cp -r ./site/ ./site/hackathon-guide/
+	mkdir -p ./site/hackathon-guide/
+	cp -r ./site/images/ ./site/hackathon-guide/

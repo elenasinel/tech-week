@@ -62,11 +62,11 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 5. Teams return to CogX on 12th June 9 am for Demo Day
 6. Winners announced at CogX
 
-# **DevPost**
+## **DevPost**
 
 Teens in AI Hack will use [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
 
-## **You will need to do the following:**
+### **You will need to do the following:**
 
 Register all participants for the Teens in AI hackathon in DevPost. To do this click the \[Register for this hackathon] button on the Teens in AI page, and sign up. Once you have created a DevPost account you will be able to create project pages.
 
@@ -74,7 +74,7 @@ Create a DevPost project page for your Teens in AI project - you can do this via
 
 Submit your DevPost project to the Teens in AI hackathon
 
-## **When creating and editing your DevPost project make sure you:**
+### **When creating and editing your DevPost project make sure you:**
 
 Invite your team members onto the project via email.
 
@@ -88,19 +88,17 @@ Put the URL of your pitch video in the "Video demo"
 
 You can also upload a zip file when you submit your project.
 
-##
-
 **Submitting your project**
 
 **<iframe width="560" height="315" src="https://www.youtube.com/embed/vCa7QFFthfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>**
 
-# **GitHub**
+## **GitHub**
 
 Teams will upload all code to GitHub. GitHub is a tool that developers and teams use to work together on their projects. You must use GitHub to store your code. Doing this is very simple. You must also attach a README.md to GitHub with instructions on how to run your code.
 
 When you are ready to submit to devpost, you will add the link to your GitHub repository so that our judges can analyse your work.
 
-# **Competition Rules**
+## **Competition Rules**
 
 - Participants must be between the ages of 11 and 18 and be studying in a secondary school, Sixth Form or College based in one of London Boroughs
 - Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
@@ -111,7 +109,7 @@ When you are ready to submit to devpost, you will add the link to your GitHub re
 - Code needs to be new and will be verified - it must not belong to any previous project
 - You are not expected to build a fully working product, but a Minimum Viable Product - a working prototype
 
-# **Hackathon Schedule**
+## **Hackathon Schedule**
 
 Teens in AI Hack runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
 
@@ -129,9 +127,9 @@ Teens in AI Hack runs from May 10-24 (Round 1) and through to June 10-12 (Final 
 - 12 June: Demo Day in front of Judges
 - 12 June: Winners announced
 
-# **Resources**
+## **Resources**
 
-## **1. Machine Learning/ Artificial Intelligence**
+### **1. Machine Learning/ Artificial Intelligence**
 
 We have comprehensive guides that go over the basics of Machine Learning/AI as well as basics of programming. Find these below.
 
@@ -146,15 +144,15 @@ Intro to Python Tutorial](https://teens-in-ai.github.io/tech-week/resources/Pyth
 
 [Intro to AI](https://github.com/life-efficient/Academy-of-AI) - [Harry Berg](https://github.com/life-efficient), Founder of Students4AI (Imperial College London)
 
-## **2. Human-Centred Design in Artificial Intelligence**
+### **2. Human-Centred Design in Artificial Intelligence**
 
-## **3. AI Ethics Guide**
+### **3. AI Ethics Guide**
 
-## **4. Maths for Machine Learning**
+### **4. Maths for Machine Learning**
 
-## **5. Business Model Canvas**
+### **5. Business Model Canvas**
 
-\*\*\*\*[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
+**[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)**
 
 The Business Model Canvas (BMC), is a strategic management and entrepreneurial tool. It allows you to describe, design, challenge, invent, and pivot your business model.
 
@@ -172,9 +170,9 @@ Here are some videos to help you:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aN36EcTE54Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# **The Pitch Video**
+## **The Pitch Video**
 
-\*\*\*\*[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
+**[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)**
 
 Your pitch video is a core component of your Teens in AI Hack submissions, and should be a maximum of three (3) minutes.
 
@@ -221,8 +219,6 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 [Spoken Digit](https://github.com/Jakobovski/free-spoken-digit-dataset)
 
 [Sentiment Analysis](http://help.sentiment140.com/for-students/)
-
-### \*\*\*\*
 
 ### **Suggestions of tools to use to maximise your hacking productivity**
 

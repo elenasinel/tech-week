@@ -1,7 +1,8 @@
 ---
 title: London Tech Week Hack
 ---
-![](/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)
+
+![](/hackathon-guide/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)
 
 **\*\*\*This is a "work in progress" doc and is constantly getting updated\*\*\***
 
@@ -12,7 +13,7 @@ title: London Tech Week Hack
 # **Teens in AI Hackathon Guide**
 
 !!! Info
-	This site provides much of the information you'll need to prepare your Teens in AI Hack competition entries, and links to resources to help you create a great project.
+This site provides much of the information you'll need to prepare your Teens in AI Hack competition entries, and links to resources to help you create a great project.
 
 ## **What is Teens In AI London Tech Week Hackathon?**
 
@@ -22,11 +23,11 @@ We are on a mission to encourage young people to pursue computing and technology
 
 Diverse teams of 2-4 students will be designing a product that solves a challenge proposed with the use of AI, they will then go on to create this product and create a short 3-minute video pitching this product.
 
-![](/images/whatsapp-image-2019-04-25-at-8.54.07-pm.jpeg)
+![](/hackathon-guide/images/whatsapp-image-2019-04-25-at-8.54.07-pm.jpeg)
 
 ## **Challenges**
 
-This year we are focusing on [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). Within their teams, young people can 
+This year we are focusing on [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). Within their teams, young people can
 Focus on any one of the goals and tackle them using open source machine learning tools.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5G0ndS3uRdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,19 +44,19 @@ Focus on any one of the goals and tackle them using open source machine learning
 
 Our panel of judges will analyse projects based on the criteria listed below. They will base their judgement on both the product you produce, the code you write and your video pitch.
 
-* Implementation
-* Originality
-* Technical Complexity
-* Social Impact
+- Implementation
+- Originality
+- Technical Complexity
+- Social Impact
 
 ## **Prizes**
 
-* **Pitch at [CogX](https://cogx.co)** - Pitch your project at CogX to investors, developers and industry experts. You never know, a good pitch could get your business up and running in no time!
+- **Pitch at [CogX](https://cogx.co)** - Pitch your project at CogX to investors, developers and industry experts. You never know, a good pitch could get your business up and running in no time!
 
 ## **How to Enter - Educators**
 
 1. Create teams of 2-4 students - max 2 teams per school
-2. Run an event 10-24 May and invite mentors (2-3 machine learning and artificial intelligence Developers, 1-2 Design Thinkers, 1-2 Entrepreneurs, 1-2 Ethicists) to ideate and help you submit videos by 24 May on DevPost 
+2. Run an event 10-24 May and invite mentors (2-3 machine learning and artificial intelligence Developers, 1-2 Design Thinkers, 1-2 Entrepreneurs, 1-2 Ethicists) to ideate and help you submit videos by 24 May on DevPost
 3. If your team is selected into 20 Finalist teams, it will be invited to CogX AI Festival for inspiration on Monday morning 10 June
 4. Teams will return to school and can carry on building/modifying their projects with the help of mentors (optional)
 5. Teams return to CogX on 12th June 9 am for Demo Day
@@ -77,7 +78,7 @@ Submit your DevPost project to the Teens in AI hackathon
 
 Invite your team members onto the project via email.
 
-Describe your project thoroughly in the "Here's the whole story" section. 
+Describe your project thoroughly in the "Here's the whole story" section.
 
 Put the links to your app and other resources (such as your BMC, screengrabs, etc.) in the "Try it out" field. You can add multiple links.
 
@@ -87,7 +88,7 @@ Put the URL of your pitch video in the "Video demo"
 
 You can also upload a zip file when you submit your project.
 
-## 
+##
 
 **Submitting your project**
 
@@ -101,32 +102,32 @@ When you are ready to submit to devpost, you will add the link to your GitHub re
 
 # **Competition Rules**
 
-* Participants must be between the ages of 11 and 18 and be studying in a secondary school, Sixth Form or College based in one of London Boroughs
-* Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
-* You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th on Devpost
-* You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.
-* You must be able to demonstrate that everyone within your group has contributed.
-* Parents are not allowed to mentor teams where participants are their children due to conflict of interest
-* Code needs to be new and will be verified - it must not belong to any previous project
-* You are not expected to build a fully working product, but a Minimum Viable Product - a working prototype
+- Participants must be between the ages of 11 and 18 and be studying in a secondary school, Sixth Form or College based in one of London Boroughs
+- Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
+- You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th on Devpost
+- You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.
+- You must be able to demonstrate that everyone within your group has contributed.
+- Parents are not allowed to mentor teams where participants are their children due to conflict of interest
+- Code needs to be new and will be verified - it must not belong to any previous project
+- You are not expected to build a fully working product, but a Minimum Viable Product - a working prototype
 
 # **Hackathon Schedule**
 
-Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
+Teens in AI Hack runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
 
 **In Depth Schedule**
 
 ## **Round 1: Video pitch**
 
-* Competition opens May 10, 2019
-* All videos must be submitted by May 24, 2019 on Devpost (link to be added)
-* Regional Shortlisting: (finalists announced June 1, 2019)
+- Competition opens May 10, 2019
+- All videos must be submitted by May 24, 2019 on Devpost (link to be added)
+- Regional Shortlisting: (finalists announced June 1, 2019)
 
 ## **Final Round**: Finals Demo Day: (June 10th and 12th at CogX)
 
-* 10 June: Come and get inspired at Europe's largest festival for AI, CogX for free! 
-* 12 June: Demo Day in front of Judges 
-* 12 June: Winners announced
+- 10 June: Come and get inspired at Europe's largest festival for AI, CogX for free!
+- 12 June: Demo Day in front of Judges
+- 12 June: Winners announced
 
 # **Resources**
 
@@ -136,7 +137,7 @@ We have comprehensive guides that go over the basics of Machine Learning/AI as w
 
 [
 Intro to Python Tutorial](https://teens-in-ai.github.io/tech-week/resources/PythonWorkshop.pdf) - [Sammy Hass](https://github.com/SammyHass)
- (17), Teens in AI Ambassador
+(17), Teens in AI Ambassador
 
 [Intro to Neural Networks](https://github.com/KiranArun/Neural_Networks-101-demo) - [Kirun Arun
 ](https://github.com/KiranArun) (17), AI Accelerator Winner 2018
@@ -179,7 +180,7 @@ Your pitch video is a core component of your Teens in AI Hack submissions, and s
 
 You should aim to communicate your business canvas, demonstrate your prototype, and engage would-be users in 3 minutes. Use the video medium to create excitement and demand for your solution. What evidence can you provide or discuss that adds credibility to your team and your solution? Do you need more resources to take it to the next level – would your video attract crowd funding, the interest of an angel investors or philanthropist – or just get you on the news?
 
-ALL participants needs to speak in the video! 
+ALL participants needs to speak in the video!
 
 You are encouraged to include your team name, team members, and to talk about how your project is innovative, has impact and relates to the UN Sustainable Development Goals.
 
@@ -225,13 +226,13 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 ### **Suggestions of tools to use to maximise your hacking productivity**
 
-* [Trello](https://trello.com) - A simple way to manage your tasks within your team.
-* [Google Drive](https://drive.google.com) - Create a shared folder within your team to keep track of documents, spreadsheets, pictures and videos!
-* [Slack](https://slack.com) - The best way to communicate within your team.
-* [GitHub](https://github.com) - The way you need to store all the code you write and work collaboratively on your project.
-* [Canva](https://canva.com) - The easiest and quickest way to make posters, logos and designs for the project.
-* [Marvel](https://marvelapp.com) - Create mockups for mobile apps with this fantastic tool.
+- [Trello](https://trello.com) - A simple way to manage your tasks within your team.
+- [Google Drive](https://drive.google.com) - Create a shared folder within your team to keep track of documents, spreadsheets, pictures and videos!
+- [Slack](https://slack.com) - The best way to communicate within your team.
+- [GitHub](https://github.com) - The way you need to store all the code you write and work collaboratively on your project.
+- [Canva](https://canva.com) - The easiest and quickest way to make posters, logos and designs for the project.
+- [Marvel](https://marvelapp.com) - Create mockups for mobile apps with this fantastic tool.
 
-### 
+###
 
-![](/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)
+![](/hackathon-guide/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)

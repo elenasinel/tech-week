@@ -1,8 +1,7 @@
 ---
 title: MENTORS BRIEF
 ---
-
-![](/hackathon-guide/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)
+![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
 
 **This is a "work in progress" doc and is constantly getting updated.**
 
@@ -10,17 +9,17 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 **Want to contribute to this guide or donate a resource?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions
 
-**Want to sponsor the hack and join Deepmind and Alan Turing Institute at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io
+**Want to sponsor the hack and join Deepmind and Alan Turing Institute at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io 
 
----
+- - -
 
 # **MENTORS BRIEF**
 
 ## **Teens in AI Hackathon - London Tech Week**
 
----
+- - -
 
-**Do you want to be challenged?**
+**Do you want to be challenged?** 
 
 **Join us on the mission to inspire teens to change the world through AI.**
 
@@ -36,20 +35,20 @@ We are on a mission to encourage young people to pursue computing and technology
 
 **Final Round:** Demo Day (12th June at CogX)
 
-- 10 June: Come and get inspired at Europe's largest festival for AI, CogX
-- 12 June: Demo Day in front of Judges at CogX
-- Judges decide on the final winners
-- 12 June: The winning team/s attends Pitch@Palace
+* 10 June: Come and get inspired at Europe's largest festival for AI, CogX
+* 12 June: Demo Day in front of Judges at CogX 
+* Judges decide on the final winners
+* 12 June: The winning team/s attends Pitch@Palace
 
 ## **Hear from a mentor...**
 
-_“Being a Mentor at the #teensinAI hackathon, meant being there to support and accompany young people through a very intense weekend where they had to work collaboratively and think creatively with a group of girls they had never met before._
+_“Being a Mentor at the #teensinAI hackathon, meant being there to support and accompany young people through a very intense weekend where they had to work collaboratively and think creatively with a group of girls they had never met before._ 
 
 _Our role as mentors is to remind them to make the most out of the experience, reminding them to have fun, but at the same time, encourage them to work to their fullest potential. We are there to make sure that the team dynamics are positive and that everyone is involved. It was one of the greatest experiences I have ever had._
 
 _Being able to support them to solve the problems they were encountering throughout the ideation, creation and delivery processes was an incredible experience. I think mentors and participants were able to learn from each other, and I am extremely proud of my team for being able to pull it through and deliver an outstanding pitch.”_
 
-\- **ENTREPRENEUR Leticia Galdón, Founder of Paz.ai**
+\-        **ENTREPRENEUR Leticia Galdón, Founder of Paz.ai**
 
 ## **We Are Looking For:**
 
@@ -57,17 +56,17 @@ _Being able to support them to solve the problems they were encountering through
 
 **TECH MENTORS**
 
-AI/ML developers. Any stack is suitable, but an appreciation of data science and machine learning is a bonus.
+ AI/ML developers. Any stack is suitable, but an appreciation of data science and machine learning is a bonus.
 
-Teens usually have mixed experiences of coding - from none to expert. We teach them how to code in Python but some will know HTML and Java as taught at school.
+ Teens usually have mixed experiences of coding - from none to expert. We teach them how to code in Python but some will know HTML and Java as taught at school. 
 
-At Teens in AI we are technology agnostic - our toolkit contains tools from Google, Microsoft, Amazon, Intel and what not.
+At Teens in AI we are technology agnostic - our toolkit contains tools from Google, Microsoft, Amazon, Intel and what not. 
 
-Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
+Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for  more info on Challenges, Resources, Data Sets etc
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
----
+- - -
 
 **DESIGN THINKERS**
 
@@ -81,7 +80,7 @@ No code will be developed until a problem is researched and fully understood and
 
 Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
 
----
+- - -
 
 **ETHICISTS**
 
@@ -91,7 +90,7 @@ Ethics is important and should be taught alongside coding and computer science a
 
 Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
 
----
+- - -
 
 **ENTREPRENEURS**
 
@@ -103,13 +102,13 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 ## **WHAT’S IN IT FOR YOU?**
 
-**_\*\*\* Mentors of top 20 teams who get into the Finals (Demo Day) will receive FREE tickets to_** [**_CogX2019_**](https://cogx.co/)_\*\*\*\*_
+**_\*\** Mentors of top 20 teams who get into the Finals (Demo Day) will receive FREE tickets to_** [**_CogX2019_**](https://cogx.co/)_\*\*\*\*_
 
 ## **_Expect to learn_**
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
-\ **TECH MENTOR Arun Patel (Lead DevOps Engineer, Save The Children)**
+\    **TECH MENTOR Arun Patel (Lead DevOps Engineer, Save The Children)**
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
@@ -119,11 +118,11 @@ _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspi
 
 _It was amazing to watch the growth in confidence as the girls developed their ideas and turned to coding to bring them to life. I was so inspired by these young girls and what they were able to accomplish in such a short time, their ideas and solutions were truly inspiring. As a tech mentor, I provided advice, guidance and encouragement on how to work through the problems before using my insight in AI to support them when creating their solutions. As a young woman in a male-dominated industry, it was incredible to see so many teenage girls passionate about their career paths in STEM. It was an amazing experience that I can’t recommend enough – I can’t wait for the next one!”_
 
-\ **TECH MENTOR Lily Marston (Associate Cloud Solutions Architect, Microsoft)**
+\    **TECH MENTOR Lily Marston (Associate Cloud Solutions Architect, Microsoft)**
 
 _“I have been working with startups since the tech giants started up but I have never been so impressed by a team as the girls I mentored in Acorn Aspirations Girls in AI event. Their talent, teamwork, creativity and confidence was astonishing. It was my job to inspire them, but in reality, it was them who inspired me!”_
 
-\ **DESIGN THINKER Jane Evans (Founder, Janee)**
+\    **DESIGN THINKER Jane Evans (Founder, Janee)**
 
 ## **ARE YOU IN?**
 
@@ -143,9 +142,9 @@ If you wish to volunteer, but are unable to attend in person, please join the Sl
 
 ## **Rules to Follow:**
 
-_Don’t friend teens on social media channels or take their phone numbers._
+_Don’t friend teens on social media channels or take their phone numbers._ 
 
-_Don’t give out your personal information._
+_Don’t give out your personal information._ 
 
 _If you see any concerns, talk to the Child Welfare and Safety Officer at school_
 
@@ -171,4 +170,4 @@ _Be prepared to be challenged as to your knowledge and programming skills - teen
 
 **For further info email Elena on elena.sinel@acornaspirations.co.uk**
 
-![](/hackathon-guide/images/whatsapp-image-2019-04-25-at-7.27.29-pm.jpeg)
+![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)

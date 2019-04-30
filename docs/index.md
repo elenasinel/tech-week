@@ -83,6 +83,8 @@ The TeensInAI 2019 DevPost page is here:
 * Upload images, such as screenshots, in the "Image Gallery"
 * Put the URL of your pitch video in the "Video demo"
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vCa7QFFthfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **Rules**
 
 * Participants must be between the ages of 11 and 18.

@@ -173,18 +173,6 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [Sentiment Analysis](http://help.sentiment140.com/for-students/)
 
-### Business Model Canvas
-
-[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
-
-### Tips for Pitch Video
-
-[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
-
-### Maths for Machine Learning
-
-[Download our Linear Algebra for Machine Learning Guide PDF](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9) 
-
-[Download our Multi-variable Calculus for Machine Learning Guide PDF ](https://drive.google.com/open?id=1coNE2kHxBss2gHEvZrkW7cJyh6I_T8IN)
+### 
 
 ![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)

@@ -71,7 +71,19 @@ TeensInAI utilises DevPost to manage project submissions for judging. DevPost is
 
 The TeensInAI 2017 DevPost page is here:
 
-****
+**You will need to do the following:**
+
+* Register at least one person for the TeensInAI hackathon in DevPost. To do this click the \[Register for this hackathon] button on the TeensInAI page, and sign up. Once you have created a DevPost account you will be able to create project pages.
+* Create a DevPost project page for your TeensInAI project - you can do this via the \[Enter a submission] button on the TeensInAI page, or via your Portfolio in DevPost.
+* Submit your DevPost project to the TeensInAI 2019 hackathon.
+
+**When creating and editing your DevPost project make sure you:**
+
+* Invite your team members onto the project via email.
+* Describe your project thoroughly in the "Here's the whole story" section. You use Markdown for this - check out this Cheatsheet for a quick introduction to Markdown formatting.
+* Put the links to your app and other resources (such as your BMC, screengrabs, etc.) in the "Try it out" field. You can add multiple links.
+* Upload images, such as screenshots, in the "Image Gallery"
+* Put the URL of your pitch video in the "Video demo"
 
 ## **Rules**
 
@@ -119,6 +131,10 @@ Human-centered design is a creative approach to problem solving and the backbone
 [Download our Human Centred Design Guide PDF](https://drive.google.com/open?id=1iFcr90gaP-0h-z8Rs1i9TOsn2Y18KBIZ)
 
 ## **4. Business Model Canvas**
+
+The Business Model Canvas (BMC), is a strategic management and entrepreneurial tool. It allows you to describe, design, challenge, invent, and pivot your business model.
+
+A good starting place is on the [Strategyzer](https://www.strategyzer.com/canvas) sites. Strategyzer have a lot of free resources on their site, but you'll need to register to access them.
 
 [Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
 

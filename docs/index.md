@@ -67,8 +67,6 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
 
-TeensInAI utilises DevPost to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
-
 The TeensInAI 2017 DevPost page is here:
 
 **You will need to do the following:**

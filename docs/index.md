@@ -96,6 +96,18 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 ## **Resources**
 
+1. Machine Learning & Artificial Intelligence
+
+2. Ethics in AI
+
+3. Human-Centred Design
+
+4. Business Models
+
+5. Video Pitches
+
+6. Maths for Machine Learning 
+
 ### **How best to put your entry online**
 
 ### **Suggestions of tools to use to maximise your hacking productivity**
@@ -147,7 +159,7 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
 
-### Tips for Pitch Video 
+### Tips for Pitch Video
 
 [Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
 

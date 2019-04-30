@@ -138,6 +138,12 @@ A good starting place is on the [Strategyzer](https://www.strategyzer.com/canvas
 
 [Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7mEISPNVv3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzkdJiax6Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aN36EcTE54Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **5. Tips for Pitch Video**
 
 Your pitch video is a core component of your TeensInAI submissions, and should be a maximum of three (3) minutes.

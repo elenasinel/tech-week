@@ -104,15 +104,27 @@ We have comprehensive guides that go over the basics of Machine Learning/AI as w
 * [Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun)
 * [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
 
-## 2. Ethics in AI
+## **2. Ethics in AI**
 
-## 3. Human-Centred Design
+## **3. Human-Centred Design**
 
-## 4. Business Models
+Human-centered design is a creative approach to problem solving and the backbone of a product. It’s a process that starts with the people you’re designing for and ends with new solutions that are tailor made to suit their needs.
 
-## 5. Video Pitches
+[Download our Human Centred Design Guide PDF](https://drive.google.com/open?id=1iFcr90gaP-0h-z8Rs1i9TOsn2Y18KBIZ)
 
-## 6. Maths for Machine Learning 
+## **4. Business Model Canvas**
+
+[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
+
+## **5. Tips for Pitch Video**
+
+[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
+
+## **6. Maths for Machine Learning** 
+
+[Download our Linear Algebra for Machine Learning Guide PDF](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9)
+
+[Download our Multi-variable Calculus for Machine Learning Guide PDF ](https://drive.google.com/open?id=1coNE2kHxBss2gHEvZrkW7cJyh6I_T8IN)
 
 ### **How best to put your entry online**
 

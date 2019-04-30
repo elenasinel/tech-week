@@ -98,15 +98,21 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 ## **1. Machine Learning & Artificial Intelligence**
 
+We have comprehensive guides that go over the basics of Machine Learning/AI as well as basics of programming. Find these below.
+
+* [Python Tutorial - Sammy Hass](https://github.com/SammyHass)
+* [Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun)
+* [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
+
 ## 2. Ethics in AI
 
-3. Human-Centred Design
+## 3. Human-Centred Design
 
-4. Business Models
+## 4. Business Models
 
-5. Video Pitches
+## 5. Video Pitches
 
-6. Maths for Machine Learning 
+## 6. Maths for Machine Learning 
 
 ### **How best to put your entry online**
 

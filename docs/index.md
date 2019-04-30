@@ -126,27 +126,17 @@ Human-centered design is a creative approach to problem solving and the backbone
 
 Your pitch video is a core component of your TeensInAI submissions, and should be a maximum of three (3) minutes.
 
-You should aim to communicate your business canvas, demonstrate your app, and engage would-be users in 3 minutes. Use the video medium to create excitement and demand for your solution. What evidence can you provide or discuss that adds credibility to your team and your solution? Do you need more resources to take it to the next level – would your video attract crowd funding, the interest of an angel investors or philanthropist – or just get you on the news?
-
-The preferred method is to use a screencast with a voice-over narration explaining your project, your business model, and what is being show in the video. Remember that the judging panel is viewing the videos in isolation and doesn't necessarily have any context around your project.
-
-You may mix in other elements with the screencast, such as footage demonstrating the issues your projects addresses, interviews, live action material and actors (read: team members and bribeable friends!) you've filmed, et cetera - but be aware that videos that don't primarily focus on showing off the project itself will not be as valued as ones that do.
-
-You are encouraged to include your team name, team members, and to talk about how your project is innovative, has impact and relates to the University's Research Themes.
-
-Remember: Your video should not take more than a few hours out of your weekend if you keep it simple.
+You should aim to communicate your business canvas, demonstrate your product, and engage would-be users in 3 minutes. Use the video medium to create excitement and demand for your solution. What evidence can you provide or discuss that adds credibility to your team and your solution? Do you need more resources to take it to the next level – would your video attract crowd funding, the interest of an angel investors or philanthropist – or just get you on the news?
 
 **Your pitch video should include:**
 
-* Research Theme: How does your project relate to one of the University's research themes?
+* Research Theme: How does your project relate to one of the UN Sustainable Development Goals?
 * Problem: What problem does your project solve?
-* Vision: What is the vision for your business or app?
+* Vision: What is the vision for your business or product?
 * Solution and Unique Value Proposition: How do you solve the problem you just defined? What is the unique value about your solution?
-* Target Market: Who are you aiming this app at? How will it benefit them?
-* App demo: Show us how your app works! What are its core technologies? Give us a demo!
+* Target Market: Who are you aiming this product at? How will it benefit them?
+* product demo: Show us how your product works! What are its core technologies? Give us a demo!
 * Project Team: Show us your team with their names and roles!
-
-
 
 **Your pitch video could include (if you have time):**
 
@@ -161,16 +151,6 @@ Remember: Your video should not take more than a few hours out of your weekend i
 * Do you clearly identify the target market with justification?
 * Do you convincingly explain why this idea is needed with justification?
 * Do you showcase why this product/service is interesting?
-
-**Storyboarding, screencasting, and editing**
-
-To help with storyboarding your video grab this huge pack of [free storyboarding illustrations.](https://dribbble.com/shots/1083617-430-FREE-storyboard-illustrations)
-
-For screencasting check out software like [ActivePresenter](https://atomisystems.com/activepresenter/free-edition/) or [OBS](https://obsproject.com/) that will allow you to record demos of your application. If you have a Mac, Quicktime will do the job.
-
-For mixing clips together [VLC](http://www.videolan.org/vlmc/) or [LWKS](https://www.lwks.com/) may be handy.
-
-And again, if you are unsure about what you need to do, or just need a bit of help with your video, hunt down one of your TeensInAI volunteers and they'll be happy to help.
 
 [Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
 

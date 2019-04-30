@@ -94,11 +94,11 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 * 12 June: Demo Day in front of Judges - 2 hrs on Lightning Stage > Judges decide on the final winners (waiting for Tabitha to confirm)
 * 12 June: The winning team presents at CogX final stage 
 
-## **Resources**
+# **Resources**
 
-1. Machine Learning & Artificial Intelligence
+## **1. Machine Learning & Artificial Intelligence**
 
-2. Ethics in AI
+## 2. Ethics in AI
 
 3. Human-Centred Design
 

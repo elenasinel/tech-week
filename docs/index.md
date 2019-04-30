@@ -168,7 +168,7 @@ To help with storyboarding your video grab this huge pack of [free storyboarding
 
 For screencasting check out software like [ActivePresenter](https://atomisystems.com/activepresenter/free-edition/) or [OBS](https://obsproject.com/) that will allow you to record demos of your application. If you have a Mac, Quicktime will do the job.
 
-For mixing clips together the YouTube Video Editor is super user-friendly; though [VLC](http://www.videolan.org/vlmc/) or [LWKS](https://www.lwks.com/) may also be handy.
+For mixing clips together [VLC](http://www.videolan.org/vlmc/) or [LWKS](https://www.lwks.com/) may be handy.
 
 And again, if you are unsure about what you need to do, or just need a bit of help with your video, hunt down one of your TeensInAI volunteers and they'll be happy to help.
 

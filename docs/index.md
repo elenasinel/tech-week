@@ -1,7 +1,7 @@
 ---
 title: London Tech Week Hack
 ---
-![](/hackathon-guide/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
+![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
 
 **\*\*\*This is a "work in progress" doc and is constantly getting updated\*\*\***
 
@@ -22,7 +22,7 @@ We are on a mission to encourage young people to pursue computing and technology
 
 Diverse teams of 2-4 students will be designing a product that solves a challenge proposed with the use of AI, they will then go on to create this product and create a short 3-minute video pitching this product.
 
-![](/hackathon-guide/images/whatsapp-image-2019-04-25-at-8.54.07-pm.jpeg)
+![](/images/whatsapp-image-2019-04-25-at-8.54.07-pm.jpeg)
 
 ## **Challenges**
 
@@ -153,4 +153,8 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 ### Maths for Machine Learning
 
-![](/hackathon-guide/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
+[Download our Linear Algebra for Machine Learning Guide PDF](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9) 
+
+[Download our Multi-variable Calculus for Machine Learning Guide PDF ](https://drive.google.com/open?id=1coNE2kHxBss2gHEvZrkW7cJyh6I_T8IN)
+
+![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)

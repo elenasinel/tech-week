@@ -16,7 +16,7 @@ title: London Tech Week Hack
 
 ## **What is Teens In AI London Tech Week Hackathon?**
 
-To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CogX2019](https://cogx.co/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
+To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CogX](https://cogx.co/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
 
 We are on a mission to encourage young people to pursue computing and technology, and promote diversity in this ever-growing field.
 

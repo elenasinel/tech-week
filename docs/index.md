@@ -128,7 +128,7 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 Human-centered design is a creative approach to problem solving and the backbone of a product. It’s a process that starts with the people you’re designing for and ends with new solutions that are tailor made to suit their needs.
 
-[Download our Human Centred Design Guide PDF](https://drive.google.com/open?id=1iFcr90gaP-0h-z8Rs1i9TOsn2Y18KBIZ)
+[Download our Human Centred Design Guide PDF](https://drive.google.com/open?id=1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU)
 
 ## **4. Business Model Canvas**
 

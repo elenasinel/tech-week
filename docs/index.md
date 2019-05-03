@@ -118,11 +118,11 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 We have comprehensive guides that go over the basics of Machine Learning/Artificial Intelligence as well as basics of programming. Find these below.
 
+* [Getting Started with Machine Learning Guide (A Teens Perspective)  PDF](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
+* [Introduction to AI Guide PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)
 * [Python Tutorial - Sammy Hass](https://github.com/SammyHass)
 * [Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun)
 * [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
-* [Getting Started with Machine Learning Guide (A Teens Perspective)  PDF](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
-* [Introduction to AI Guide 1.5 hours PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)
 
 ## **2. Ethics in AI**
 

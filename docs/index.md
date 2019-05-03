@@ -121,8 +121,8 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 * [Python Tutorial - Sammy Hass](https://github.com/SammyHass)
 * [Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun)
 * [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
-* [Download our Guide on Getting Started with Machine Learning (A Teens Perspective)  PDF](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
-* [Download our Introduction to AI Guide PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)
+* [Getting Started with Machine Learning Guide (A Teens Perspective)  PDF](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
+* [Introduction to AI Guide 1.5 hours PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)
 
 ## **2. Ethics in AI**
 

@@ -121,6 +121,8 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 * [Python Tutorial - Sammy Hass](https://github.com/SammyHass)
 * [Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun)
 * [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
+* [Download our Guide on Getting Started with Machine Learning (A Teens Perspective)  PDF](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
+* [Download our Introduction to AI Guide PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)
 
 ## **2. Ethics in AI**
 
@@ -176,7 +178,7 @@ You should aim to communicate your business canvas, demonstrate your product, an
 
 [Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
 
-## **6. Maths for Machine Learning** 
+## **6. Maths for Machine Learning**
 
 [Download our Linear Algebra for Machine Learning Guide PDF](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9)
 

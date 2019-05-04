@@ -206,9 +206,9 @@ You should aim to communicate your business canvas, demonstrate your product, an
 
 Here are some links to some YouTube videos you may find useful when researching maths for machine learning:
 
-[Maths for Machine Learning (3 Lectures)](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4)
+[Maths for Machine Learning (3 Lectures)](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4) - Imperial College London
 
-[Maths for Machine Learning (32 Lectures)](https://www.youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z)
+[Maths for Machine Learning (32 Lectures)](https://www.youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z) - Imperial College London
 
 
 

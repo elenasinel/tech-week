@@ -124,6 +124,24 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 * [Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun)
 * [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
 
+Here are some links to some YouTube videos you may find useful when researching Machine Learning & Artificial Intelligence:
+
+[Machine Learning (20 Lectures)](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+
+[Artificial Intelligence (24 Lectures)](https://www.youtube.com/playlist?list=PL6MuV0DF6AuoviA41dtji6q-PM4hvAcNk)
+
+[Artificial Intelligence and the Future](https://www.youtube.com/watch?v=i3lEG6aRGm8&feature=youtu.be)
+
+[Artificial Intelligence and the Most Intractable Problems](https://www.youtube.com/watch?v=KF1KhuoX2w4&feature=youtu.be)
+
+[Learning How to Learn Efficiently](https://www.youtube.com/watch?v=z8937RleAZo&feature=youtu.be)
+
+[Introduction to Deep Learning](https://www.youtube.com/watch?v=JN6H4rQvwgY&feature=youtu.be)
+
+[Deep Learning (16 Lectures)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+
+[The State of Artificial Intelligence](https://www.youtube.com/watch?v=NKpuX_yzdYs&feature=youtu.be)
+
 ## **2. Ethics in AI**
 
 ## **3. Human-Centred Design**
@@ -183,6 +201,14 @@ You should aim to communicate your business canvas, demonstrate your product, an
 [Download our Linear Algebra for Machine Learning Guide PDF](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9)
 
 [Download our Multi-variable Calculus for Machine Learning Guide PDF ](https://drive.google.com/open?id=1coNE2kHxBss2gHEvZrkW7cJyh6I_T8IN)
+
+Here are some links to some YouTube videos you may find useful when researching maths for machine learning:
+
+[Maths for Machine Learning (3 Lectures)](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4)
+
+[Maths for Machine Learning (32 Lectures)](https://www.youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z)
+
+
 
 ### **How best to put your entry online**
 

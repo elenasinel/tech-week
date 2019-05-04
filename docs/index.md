@@ -259,6 +259,12 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [Sentiment Analysis](http://help.sentiment140.com/for-students/)
 
-### 
+[Data.world](https://data.world/)
+
+[Google Dataset Search](https://toolbox.google.com/datasetsearch)
+
+[Common Crawl](http://commoncrawl.org/)
+
+[Open Corporates](https://opencorporates.com/)
 
 ![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)

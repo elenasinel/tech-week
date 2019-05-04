@@ -196,6 +196,8 @@ You should aim to communicate your business canvas, demonstrate your product, an
 
 [Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/feWjx2-MLuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## **6. Maths for Machine Learning**
 
 [Download our Linear Algebra for Machine Learning Guide PDF](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9)

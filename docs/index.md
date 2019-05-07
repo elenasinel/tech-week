@@ -43,10 +43,26 @@ Focus on any one of the goals and tackle them using open source machine learning
 
 Our panel of judges will analyse projects based on the criteria listed below. They will base their judgement on both the product you produce, the code you write and your video pitch.
 
-* Implementation
-* Originality
-* Technical Complexity
-* Social Impact
+* **Design & Implementation** - Does it work? Is it implementable? Did the team think about the user interface (UI) and user experience (UX)? Was the product designed with humans in mind?
+
+
+
+* **Innovation:** How innovative / creative / unique is the idea? Was there a novel approach applied to solve the problem?
+
+
+
+* **Technical Complexity** - Is the project technically impressive? Complex?  How technically sophisticated / advanced / elegant was the solution?
+
+
+
+* **Social Impact** - How impactful is the idea? Can it impact the lives of many people in a significant way? Is the idea aligned with and addresses any of the UN Sustainable Development Goals?  
+
+
+
+* **Commercial Viability** - Is there a business potential? How original is the business model? Has the team considered route to market and has made proactive actions to execute an action plan?  Is the idea feasible, does it have economic and societal value,
+  and is it sustainable?
+
+
 
 ## **Prizes**
 
@@ -209,8 +225,6 @@ Here are some links to some YouTube videos you may find useful when researching 
 [Maths for Machine Learning (3 Lectures)](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4) - Imperial College London
 
 [Maths for Machine Learning (32 Lectures)](https://www.youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z) - Imperial College London
-
-
 
 ### **How best to put your entry online**
 

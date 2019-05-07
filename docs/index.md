@@ -43,22 +43,12 @@ Focus on any one of the goals and tackle them using open source machine learning
 
 Our panel of judges will analyse projects based on the criteria listed below. They will base their judgement on both the product you produce, the code you write and your video pitch.
 
+
+
 * **Design & Implementation** - Does it work? Is it implementable? Did the team think about the user interface (UI) and user experience (UX)? Was the product designed with humans in mind?
-
-
-
 * **Innovation:** How innovative / creative / unique is the idea? Was there a novel approach applied to solve the problem?
-
-
-
 * **Technical Complexity** - Is the project technically impressive? Complex?  How technically sophisticated / advanced / elegant was the solution?
-
-
-
 * **Social Impact** - How impactful is the idea? Can it impact the lives of many people in a significant way? Is the idea aligned with and addresses any of the UN Sustainable Development Goals?  
-
-
-
 * **Commercial Viability** - Is there a business potential? How original is the business model? Has the team considered route to market and has made proactive actions to execute an action plan?  Is the idea feasible, does it have economic and societal value,
   and is it sustainable?
 
@@ -66,10 +56,7 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 ## **Prizes**
 
-* **Pitch at [CogX](https://cogx.co)** - Pitch your project at CogX to investors, developers and industry experts. You never know, a good pitch could get your business up and running in no time!
-* **Attend [Pitch@Palace](https://pitchatpalace.com/)** - Attend Pitch@Palace! You'll have the opportunity to mingle with world-renowned entrepreneurs! 
-* **Work Experience via [Workfinder](https://www.workfinder.com/)** - Gain work experience in the field of your choice with our partner Workfinder!
-* **Use of [Tech Nation Digital Business Academy](https://digitalbusinessacademy.technation.io/)** - Use Technation's Digital Business Academy Platform to expand your know-how and skills in ever-growing tech markets.
+**TBC**
 
 ## **How to Enter**
 

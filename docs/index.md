@@ -123,11 +123,33 @@ All videos must be submitted by **5 pm May 24, 2019** on Devpost
 
 We have comprehensive guides that go over the basics of Machine Learning/Artificial Intelligence as well as basics of programming. Find these below.
 
-* [Getting Started with Machine Learning Guide (A Teens Perspective)  PDF](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
-* [Introduction to AI Guide PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)
-* [Python Tutorial - Sammy Hass](https://github.com/SammyHass)
-* [Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun)
-* [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
+[Python Tutorial - Sammy Hass](https://github.com/SammyHass)
+
+[Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun)
+
+[Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
+
+Our downloadable PDF guides:
+
+[Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
+
+[How Does Machine Learning Work (PDF)](https://drive.google.com/open?id=1eDvVetoHSkFDRWMFqOv7hAZhkR-kJa9R)
+
+[Introduction to AI Guide (PDF)](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)
+
+[The Future of AI (PDF)](https://drive.google.com/open?id=1xTvq5VPSrFujHpfv6-9mRY_B4mxRYAyb)
+
+[What is Artificial Intelligence (PDF)](https://drive.google.com/open?id=1aLIfXuxK9kDj5czLuSeso_JxATqyaN-z)
+
+[Getting Started with API’s Guide (PDF)](https://drive.google.com/open?id=19BiQNuYhHsCW863o5IvQU2L5z_k6cP2T)
+
+[Introduction to Neural Networks (PDF)](https://drive.google.com/open?id=1HMUeuAgOceytU7LtwBRiSvHfY7JPe924)
+
+[Neural Networks Challenge (PDF)](https://drive.google.com/open?id=1OIgep0Oog-4OnJ-apiNZmd7S9guJYvDl)
+
+[Reinforcement Learning Challenge (PDF)](https://drive.google.com/open?id=1Ls2nFi6UfvqF_oPeZlWzWqyKp4h-B5ec)
+
+
 
 Here are some links to some YouTube videos you may find useful when researching Machine Learning & Artificial Intelligence:
 
@@ -153,7 +175,7 @@ Here are some links to some YouTube videos you may find useful when researching 
 
 Human-centered design is a creative approach to problem solving and the backbone of a product. It’s a process that starts with the people you’re designing for and ends with new solutions that are tailor made to suit their needs.
 
-[Download our Human Centred Design Guide PDF](https://drive.google.com/open?id=1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU)
+[Download our Human Centred Design Guide (PDF)](https://drive.google.com/open?id=1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU)
 
 ## **4. Business Model Canvas**
 
@@ -161,7 +183,7 @@ The Business Model Canvas (BMC), is a strategic management and entrepreneurial t
 
 A good starting place is on the [Strategyzer](https://www.strategyzer.com/canvas) sites. Strategyzer have a lot of free resources on their site, but you'll need to register to access them.
 
-[Download our Business Model Guide PDF](http://bit.ly/2vkTfyS)
+[Download our Business Model Guide (PDF)](http://bit.ly/2vkTfyS)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7mEISPNVv3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -199,15 +221,15 @@ You should aim to communicate your business canvas, demonstrate your product, an
 * Do you convincingly explain why this idea is needed with justification?
 * Do you showcase why this product/service is interesting?
 
-[Download our Pitch Guide PDF](http://bit.ly/2vo0zK0)
+[Download our Pitch Guide (PDF)](http://bit.ly/2vo0zK0)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/feWjx2-MLuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **6. Maths for Machine Learning**
 
-[Download our Linear Algebra for Machine Learning Guide PDF](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9)
+[Download our Linear Algebra for Machine Learning Guide (PDF)](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9)
 
-[Download our Multi-variable Calculus for Machine Learning Guide PDF ](https://drive.google.com/open?id=1coNE2kHxBss2gHEvZrkW7cJyh6I_T8IN)
+[Download our Multi-variable Calculus for Machine Learning Guide (PDF)](https://drive.google.com/open?id=1coNE2kHxBss2gHEvZrkW7cJyh6I_T8IN)
 
 Here are some links to some YouTube videos you may find useful when researching maths for machine learning:
 

@@ -123,7 +123,7 @@ The TeensInAI 2019 DevPost page is here:
 
 **2. General**
 
-2.1 Each winning team must nominate the teacher to liaise with and provide their details to Teens in AI organisers following prize announcements to coordinate distribution of prizes after the event. 
+2.1 Each winning team must nominate a teacher to liaise with and provide their details to Teens in AI organisers following prize announcements to coordinate distribution of prizes after the event. 
 
 2.2 Judges expect entries to be primarily developed throughout the 10-24 May. If submissions are shown to have been worked on before then, the submission will be ineligible for prizes. This does not include reuse or extension of existing software, libraries or data sets. 
 
@@ -131,145 +131,65 @@ The TeensInAI 2019 DevPost page is here:
 
 2.4 No judges will be eligible to compete for prizes, and individuals from organisations or companies are also not eligible for prizes sponsored by their organisation. Judges reserve the right to disqualify a mentor/speaker if they perceive unfairness.
 
-4.7 Don’t do bad things. Please participate in and engage with the contest in that spirit and in good faith. You must not include submissions that are:
+2.5 Don’t do bad things. Please participate in and engage with the contest in that spirit and in good faith. You must not include submissions that are:
 
+2.5.1 potentially libellous, false, defamatory, privacy invasive or overtly political;
 
+2.5.2 material which is potentially confidential, commercially sensitive, or which would cause personal distress or loss;
 
-4.7.1 potentially libellous, false, defamatory, privacy invasive or overtly political;
+2.5.3 any commercial endorsement, promotion of any product, service or publication;
 
+2.5.4 language which is offensive, obscene or otherwise inappropriate; or misleading, deceptive, violate a third party’s rights or are otherwise contrary to law.
 
+2.6 We reserve the right to reject submissions that do not comply with the latter and spirit of these rules.
 
-4.7.2 material which is potentially confidential, commercially sensitive, or which would cause personal distress or loss;
+2.7 You agree to only include code, data, or other materials in a submission for the Teens in AI contest that you have the right to use and release consistent with these Contest Rules.
 
+2.8 Neither Teens in AI, no any of the partners, sponsors or participants claim any ownership of the Intellectual Property teams submit during Teens in AI Hackathon, nor can we provide any protection of IP or sensitive material. You own what you produce at the hack. We highly recommend you discuss the ownership of IP and division of prizes with your team members before the Hackathon begins.
 
+2.9 Entrants consent to Teens in AI and Acorn Aspirations Ltd, the primary company, use of their name, likeness, image and/or voice in any media for an unlimited period of time, without remuneration, for any publicity and marketing purposes.
 
-4.7.3 any commercial endorsement, promotion of any product, service or publication;
+2.10 Entrants grant permission to Teens in AI and Acorn Aspirations to use and reproduce any video or images produced during the hack for an unlimited period of time, without remuneration, for any publicity and marketing purposes.
 
+2.11 Submissions and comments will be posted live, but occasionally they may not make it through our anti-trolling and anti-spamming filters and may need to be moderated manually. We reserve the right to remove or not post any submission that reasonably appears to breach any of these rules.
 
+2.12 Teens in AI makes no representations or warranties of any kind, expressed or implied, including warranties of accuracy, in regard to any submissions or links published on the Teens in AI website.
 
-4.7.4 language which is offensive, obscene or otherwise inappropriate; or misleading, deceptive, violate a third party’s rights or are otherwise contrary to law.
+**3. Personal Information, Photographs and videos**
 
+3.1 Teens in AI, Acorn Aspirations and its partners may take pictures of you or record you while you are at the Teens in AI hack events. The purpose for which we may use your picture or record you is for marketing purposes, and the images or videos may be displayed on the Teens in AI or partners website and social media pages, including Facebook, Twitter and Instagram. Teens in AI will not disclose your pictures of video recordings for any other purpose other than what has been described in this clause. You consent to Teens in AI to use your picture, video recording or image for the purposes outlined in this clause. You may contact Teens in AI team to discuss how your personal information (such as your picture or video recordings) are being used, disclosed or stored. You have the right to request information that Teens in AI holds under GDPR rules. For further information regarding how Teens in AI collects, holds, uses and discloses personal information, please refer to Teens in AI [Privacy Policy](https://teensinai.com/privacy-policy/).
 
+**4. Teens in AI Code of Conduct**
 
-4.8 We reserve the right to reject submissions that do not comply with the letter and spirit of these rules.
+4.1 Teens in AI Hackathon should be an awesome experience for everyone. Be nice & play fair
 
+4.2 By participating in the hack, as an observer or a competitor, you agree to the following:
 
+4.2.1 I will treat others with respect
 
-4.9 You agree to only include code, data, or other materials in a submission for the UHack contest that you have the right to use and release consistent with these Contest Rules.
+4.2.2 I will not abuse, stalk, harass or threaten others. I will not make offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race, or religion. I will not disrupt other people or the event and I will not make inappropriate physical contact or pay unwelcome sexual attention to other participants.
 
+4.2.3 I will keep it G-rated and be mindful of language
 
+4.2.4 I will not swear or make sexist, racist, or other exclusionary jokes, which may be offensive to those around me. I will behave in a way and only submit competition material that is suitable for anyone to view, including young children.
 
-4.10 The University of Tasmania does not claim any ownership of the Intellectual Property teams submit during UHack, nor can we provide any protection of IP or sensitive material. You own what you produce at UHack. We highly recommend you discuss the ownership of IP and division of prizes with your team members before the Hackathon begins.
+4.2.5 I will respect the venue and equipment
 
+4.2.6 I will keep the venue clean and tidy and use the rubbish and recycling bins as appropriate. I will let the organisers know if there are any issues.
 
+4.2.7 I shall follow the competition rules
 
-4.11 Entrants consent to the University of Tasmania using their name, likeness, image and/or voice in any media for an unlimited period of time, without remuneration, for any publicity and marketing purposes.
+4.2.8 I will only use authorised materials that I have the right to use and release and will not submit any projects which are potentially libellous, false, defamatory or overtly political or contains material which is potentially confidential, commercially sensitive, or which would cause personal distress or loss. I will check the website and/or have a chat with one of the organisers if at any stage I am unclear on the competition rules.
 
+4.2.9 If I am feeling uncomfortable, am being harassed, notice that someone else is being harassed, or have any other concerns, I will immediately contact a my teacher or Teens in AI team.
 
+6.2.10 I will not do anything to ruin it or engage in any behaviour that violates this code of conduct. I understand that Teens in AI or event organisers may take any action they deem appropriate, including warnings or expulsion from the event. I understand that if I am removed from the event due to inappropriate behaviour, I will no longer be eligible to compete for hack prizes.
 
-4.12 Entrants grant permission to the University of Tasmania to use and reproduce any video or images produced during UHack for an unlimited period of time, without remuneration, for any publicity and marketing purposes.
+By participating in Teens in AI Hackathon, you agree to comply with [Teens in AI Code of Conduct.](https://teensinai.com/code-of-conduct/)
 
 
 
-4.13 Submissions and comments will be posted live, but occasionally they may not make it through our anti-trolling and anti-spamming filters and may need to be moderated manually. We reserve the right to remove or not post any submission that reasonably appears to breach any of these rules.
-
-
-
-4.14 The UHack team nor the University of Tasmania makes no representations or warranties of any kind, expressed or implied, including warranties of accuracy, in regard to any submissions or links published on the UHack website.
-
-
-
-5. Personal Information, Photographs and videos
-
-5.1 The University of Tasmania (“the University”) may take pictures of you or record you while you are at the UHack event. The purpose for which the University may use your picture or record you is for marketing purposes, and the images or videos may be displayed on the University’s website, the UHack website, or on the University’s social media pages, including Facebook, Twitter and Instagram. The University will not disclose your pictures of video recordings for any other purpose other than what has been described in this clause. You consent to the University to use your picture, video recording or image for the purposes outlined in this clause. You may contact the University on 03 6226 1818 to discuss how your personal information (such as your picture or video recordings) are being used, disclosed or stored. You have the right to request information that the University holds under the Right to Information Act 2009 (Tas). For further information regarding how the University collects, holds, uses and discloses personal information, please refer to the University’s Privacy Policy.
-
-
-
-5.2 Personal Information
-
-
-
-5.2.1 For further information on how your Personal Information collected during UHack is being used, disclosed and stored – or to update your Personal Information contact service.desk@utas.edu.au or phone 03 6226 1818.
-
-
-
-5.2.2 You have the right to request information we hold under the provisions of the Right to Information Act 2009.
-
-
-
-5.2.3 This information is collected for assessing, allocating and administering judging and prizes for the UHack competition and promotion of that competition.
-
-
-
-5.2.4 The intended recipients of this information are the UHack coordinators, judging panel, University of Tasmania.
-
-
-
-5.2.5 If this information is not provided you may not be eligible to participate in UHack.
-
-
-
-6. UHack Code of Conduct
-
-6.1 UHack should be an awesome experience for everyone. Be nice, play fair, or go home.
-
-
-
-6.2 By participating in UHack, as an observer or a competitor, you agree to the following:
-
-
-
-6.2.1 I will treat others with respect
-
-
-
-6.2.2 I will not abuse, stalk, harass or threaten others. I will not make offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race, or religion. I will not disrupt other people or the event and I will not make inappropriate physical contact or pay unwelcome sexual attention to other participants.
-
-
-
-6.2.3 I will keep it G-rated and be mindful of language
-
-
-
-6.2.4 I will not swear or make sexist, racist, or other exclusionary jokes, which may be offensive to those around me. I will behave in a way and only submit competition material that is suitable for anyone to view, including young children.
-
-
-
-6.2.5 I will respect the venue and equipment
-
-
-
-6.2.6 I will keep the venue clean and tidy and use the rubbish and recycling bins as appropriate. I will let the organisers know if there are any issues.
-
-
-
-6.2.7 I shall follow the competition rules
-
-
-
-6.2.8 I will only use authorised materials that I have the right to use and release and will not submit any projects which are potentially libellous, false, defamatory or overtly political or contains material which is potentially confidential, commercially sensitive, or which would cause personal distress or loss. I will check the website and/or have a chat with one of the organisers if at any stage I am unclear on the competition rules.
-
-
-
-6.2.9 I shall look after others and myself
-
-
-
-6.2.10 I will remember that we are all here to create, not party. If I am under 18, I will ensure my guardian is with me whenever I am at the venue, and if I am the guardian of a participant under 18 I will ensure I keep an eye on them. If I am feeling uncomfortable, am being harassed, notice that someone else is being harassed, or have any other concerns, I will immediately contact a UHack organiser.
-
-
-
-6.2.11 And remember that the UHack crew are in charge and have put a lot of effort in to organising a great event.
-
-
-
-6.2.12 I will not do anything to ruin it or engage in any behaviour that violates this code of conduct. I understand that the UHack organisers may take any action they deem appropriate, including warnings or expulsion from the UHack event. I understand that if I am removed from the event due to inappropriate behaviour, I will no longer be eligible to compete for UHack prizes.
-
-
-
- 
-
-## **Hackathon Schedule**
+# **Hackathon Schedule**
 
 Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
 ### In Depth Schedule

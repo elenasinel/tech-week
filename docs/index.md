@@ -63,8 +63,8 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 1. Create teams of 2-4 students - max 3 teams per school
 2. Host an event 10-24 May and invite mentors (2-3 machine learning and artificial intelligence Developers, 1-2 Design Thinkers, 1-2 Entrepreneurs, 1-2 Ethicists) to ideate and help you submit videos by 24 May on DevPost (submission rules and Devpost link to be shared)
 3. If your team is selected into 20 Finalist teams, it will be invited to CogX AI Festival for inspiration on Monday morning 10 June
-4. Teams will return to school and carry on building their projects with the help of mentors
-5. Teams will submit a video pitch of their final project on 11th June by 5 pm on Devpost (link to be shared)
+4. Teams can return to school and carry on building their projects with or without the help of mentors
+5. Teams will return to pitch live at Demo Day on 12 June 9 am at CogX
 
 ## **DevPost**
 

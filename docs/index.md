@@ -74,15 +74,15 @@ The TeensInAI 2019 DevPost page is here:
 
 **You will need to do the following:**
 
-* Register at least one person for the TeensInAI hackathon in DevPost. To do this click the \[Register for this hackathon] button on the [TeensInAI](https://teensinai.com/) page, and sign up. Once you have created a DevPost account you will be able to create project pages.
+* Register all participants (as well as responsible teacher and mentors) for the TeensInAI hackathon in DevPost. To do this click the \[Register for this hackathon] button on the [TeensInAI](https://teensinai.com/) page, and sign up. Once you have created a DevPost account you will be able to create project pages.
 * Create a DevPost project page for your TeensInAI project - you can do this via the \[Enter a submission] button on the TeensInAI page, or via your Portfolio in DevPost.
 * Submit your DevPost project to the TeensInAI 2019 hackathon.
 
 **When creating and editing your DevPost project make sure you:**
 
 * Invite your team members onto the project via email.
-* Describe your project thoroughly in the "Here's the whole story" section. You use Markdown for this - check out this Cheatsheet for a quick introduction to Markdown formatting.
-* Put the links to your app and other resources (such as your BMC, screengrabs, etc.) in the "Try it out" field. You can add multiple links.
+* Describe your project thoroughly in the "Here's the whole story" section. 
+* Put the links to your product and other resources (such as your BMC, Personna cards, etc.) in the "Try it out" field. You can add multiple links.
 * Upload images, such as screenshots, in the "Image Gallery"
 * Put the URL of your pitch video in the "Video demo"
 
@@ -91,29 +91,34 @@ The TeensInAI 2019 DevPost page is here:
 ## **Rules**
 
 * Participants must be between the ages of 11 and 18.
+* Participants must be studying at school, Sixth Form or college based in London
 * Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
-* You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th for Round 1 and 5 pm June 11th for the Final Round.
+* You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th for Round 1 
 * You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.
 * You must be able to demonstrate that everyone within your group has contributed.
-* Parents are not allowed to mentor teams where participants are their children due to conflict of interest
+* Parents are not allowed to mentor teams where participants are their children.
 * Code needs to be new and will be verified - it must not belong to any previous project
 
 ## **Hackathon Schedule**
 
 Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
 ### In Depth Schedule
+
 **Round 1: Video pitch**
 
-* Competition opens May 10, 2019
-* All videos must be submitted by May 24, 2019 on Devpost (link to be added)
-* Regional Shortlisting: (finalists announced June 1, 2019)
+Competition opens May 10, 2019
 
-**Final Round**: Finals Demo Day: (June 10th and 12th at CogX)
+All videos must be submitted by **5 pm May 24, 2019** on Devpost 
 
-* 10 June: Come and get inspired at Europe's largest festival for AI, CogX for free! Ideate the product you will develop alongside your entire team!
-* 11 June: Build your project with the help of expert mentors and submit your project on Devpost
-* 12 June: Demo Day in front of Judges - 2 hrs on Lightning Stage > Judges decide on the final winners (waiting for Tabitha to confirm)
-* 12 June: The winning team presents at CogX final stage 
+**Regional Shortlisting:** (20 finalist teams announced June 1, 2019)
+
+**Final Round: Finals Demo Day** (June 10th and 12th at CogX)
+
+**10 June:** Come and get inspired at Europe's largest festival for AI, CogX
+
+**12 June:** Demo Day in front of Judges on Impact Stage at CogX - winners announced! 
+
+
 
 # **Resources**
 

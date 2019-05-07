@@ -11,4 +11,5 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 **Social Impact:** How impactful is the idea? Can it impact the lives of many people in a significant way? Is the idea aligned with and addresses any of the UN Sustainable Development Goals?
 
-**Commercial Viability:** - Is there a business potential? How original is the business model? Has the team considered route to market and has made proactive actions to execute an action plan? Is the idea feasible, does it have economic and societal value, and is it sustainable?
+**Commercial Viability:** Is there a business potential? How original is the business model? Has the team considered route to market and has made proactive actions to execute an action plan? Is the idea feasible, does it have economic and societal value,
+ and is it sustainable?

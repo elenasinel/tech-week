@@ -135,17 +135,17 @@ Here are some links to some YouTube videos you may find useful when researching 
 
 [Artificial Intelligence (24 Lectures)](https://www.youtube.com/playlist?list=PL6MuV0DF6AuoviA41dtji6q-PM4hvAcNk) - UC Berkeley
 
-[Artificial Intelligence and the Future](https://www.youtube.com/watch?v=i3lEG6aRGm8&feature=youtu.be) - [Demis Hassabis](https://twitter.com/demishassabis)
+[Artificial Intelligence and the Future](https://www.youtube.com/watch?v=i3lEG6aRGm8&feature=youtu.be) - [Demis Hassabis](https://twitter.com/demishassabis), Deepmind
 
-[Artificial Intelligence and the Most Intractable Problems](https://www.youtube.com/watch?v=KF1KhuoX2w4&feature=youtu.be) - [Mustafa Suleyman](https://twitter.com/mustafasuleymn) 
+[Artificial Intelligence and the Most Intractable Problems](https://www.youtube.com/watch?v=KF1KhuoX2w4&feature=youtu.be) - [Mustafa Suleyman](https://twitter.com/mustafasuleymn), Deepmind 
 
-[Learning How to Learn Efficiently](https://www.youtube.com/watch?v=z8937RleAZo&feature=youtu.be) - [Nando de Freitas](https://twitter.com/nandodf)
+[Learning How to Learn Efficiently](https://www.youtube.com/watch?v=z8937RleAZo&feature=youtu.be) - [Nando de Freitas](https://twitter.com/nandodf), Deepmind
 
 [Introduction to Deep Learning](https://www.youtube.com/watch?v=JN6H4rQvwgY&feature=youtu.be) - [Alexander Amini](https://twitter.com/xanamini)
 
 [Deep Learning (16 Lectures)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) - Oxford University 
 
-[The State of Artificial Intelligence](https://www.youtube.com/watch?v=NKpuX_yzdYs&feature=youtu.be) - [Andrew Ng](https://twitter.com/AndrewYNg)
+[The State of Artificial Intelligence](https://www.youtube.com/watch?v=NKpuX_yzdYs&feature=youtu.be) - [Andrew Ng](https://twitter.com/AndrewYNg), Stanford University
 
 ## **2. Ethics in AI**
 

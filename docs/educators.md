@@ -1,5 +1,5 @@
 ---
-title: EDUCATORS
+title: EDUCATORS BRIEF
 ---
 **\*\*\*This is a "work in progress" doc and is constantly getting updated\*\*\***
 

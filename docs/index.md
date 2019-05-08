@@ -90,7 +90,7 @@ The TeensInAI 2019 DevPost page is here:
 ## **Entry Requirement Rules**
 
 * Participants must be between the ages of 11 and 18.
-* Participants must be studying in secondary school, Sixth Form or college based in London
+* Participants must be studying in a secondary school, Sixth Form or college based in London
 * Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
 * You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th for Round 1 
 * You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.

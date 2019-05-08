@@ -29,16 +29,23 @@ We are on a mission to encourage young people to pursue computing and technology
 
 ## **KEY DATES:**
 
-**Round 1:** Video pitch: (competition opens May 10, 2019/ closes May 24, 2019)
+Teens in AI Hack runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
 
-**Regional Shortlisting:** (finalists announced June 1, 2019)
+**Round 1: Video pitch**
 
-**Final Round:** Demo Day (12th June at CogX)
+Competition opens May 10, 2019
 
-* 10 June: Come and get inspired at Europe's largest festival for AI, CogX
-* 12 June: Demo Day in front of Judges at CogX 
-* Judges decide on the final winners
-* 12 June: The winning team/s attends Pitch@Palace
+All videos must be submitted by 5 pm May 24, 2019 on Devpost
+
+Regional Shortlisting: (20 finalist teams announced June 1, 2019)
+
+**Final Round: Finals Demo Day** (June 10th and 12th at CogX)
+
+10 June: Come and get inspired at Europe's largest festival for AI, CogX
+
+12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!
+
+
 
 ## **Hear from a mentor...**
 
@@ -102,10 +109,10 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 ## **WHAT’S IN IT FOR YOU?**
 
-**_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
+_**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
 _\*\*\*\*_
 
-## **_Expect to learn_**
+## _**Expect to learn**_
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -113,7 +120,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## **_Expect to be inspired_**
+## _**Expect to be inspired**_
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 

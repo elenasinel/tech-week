@@ -90,7 +90,7 @@ The TeensInAI 2019 DevPost page is here:
 ## **Entry Requirement Rules**
 
 * Participants must be between the ages of 11 and 18.
-* Participants must be studying at school, Sixth Form or college based in London
+* Participants must be studying in secondary school, Sixth Form or college based in London
 * Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
 * You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th for Round 1 
 * You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.
@@ -148,8 +148,6 @@ Our downloadable PDF guides:
 [Neural Networks Challenge (PDF)](https://drive.google.com/open?id=1OIgep0Oog-4OnJ-apiNZmd7S9guJYvDl)
 
 [Reinforcement Learning Challenge (PDF)](https://drive.google.com/open?id=1Ls2nFi6UfvqF_oPeZlWzWqyKp4h-B5ec)
-
-
 
 Here are some links to some YouTube videos you may find useful when researching Machine Learning & Artificial Intelligence:
 

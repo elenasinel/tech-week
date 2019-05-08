@@ -1,7 +1,10 @@
 site_name: "London Tech Week Hack"
 nav:
   - Hackathon Guide: "index.md"
+  - Rules of the Competition: "rules-of-the-competition.md"
+  - Judging Criteria: "judging-criteria.md"
   - Mentors Brief: "mentors-brief.md"
+  - Educators Brief: "educators.md"
   - About: "about.md"
   - FAQ: "faq.md"
 theme:

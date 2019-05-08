@@ -3,7 +3,7 @@ backend:
   repo: Teens-in-AI/tech-week
 #publish_mode: editorial_workflow
 media_folder: "docs/images"
-public_folder: "hackathon-guide/images"
+public_folder: "images"
 collections:
   - name: "doc"
     label: "Documentation"

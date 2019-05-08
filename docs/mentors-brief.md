@@ -1,7 +1,7 @@
 ---
 title: MENTORS BRIEF
 ---
-![](/hackathon-guide/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
+![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
 
 **This is a "work in progress" doc and is constantly getting updated.**
 
@@ -102,7 +102,8 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 ## **WHAT’S IN IT FOR YOU?**
 
-**_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**_\*\*\*\*_
+**_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
+_\*\*\*\*_
 
 ## **_Expect to learn_**
 
@@ -170,4 +171,4 @@ _Be prepared to be challenged as to your knowledge and programming skills - teen
 
 **For further info email Elena on elena.sinel@acornaspirations.co.uk**
 
-![](/hackathon-guide/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
+![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)

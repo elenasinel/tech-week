@@ -67,7 +67,7 @@ _Being able to support them to solve the problems they were encountering through
 
 At Teens in AI we are technology agnostic - our toolkit contains tools from Google, Microsoft, Amazon, Intel and what not. 
 
-Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for  more info on Challenges, Resources, Data Sets etc
+Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for  more info on Challenges, Resources, Data Sets etc
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
@@ -83,7 +83,7 @@ No code will be developed until a problem is researched and fully understood and
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
-Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
+Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for more info on Challenges, Resources, Data Sets etc
 
 - - -
 
@@ -93,7 +93,7 @@ Ethics is important and should be taught alongside coding and computer science a
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
-Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
+Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for more info on Challenges, Resources, Data Sets etc
 
 - - -
 
@@ -103,7 +103,7 @@ Some knowledge of business models, pitching and marketing - your expertise will 
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
-Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) for more info on Challenges, Resources, Data Sets etc
+Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for more info on Challenges, Resources, Data Sets etc
 
 ## **WHAT’S IN IT FOR YOU?**
 

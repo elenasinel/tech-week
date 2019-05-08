@@ -140,7 +140,7 @@ _“I have been working with startups since the tech giants started up but I hav
 
 **STEP 3:** Attend the event between 10-24 May. A school teacher will send you details about the event and your role in it.
 
-You will be assigned to 1 or 2 teams of 4 or 5 teenagers aged 11-18 to support them and their projects during the days when you have signed up to help.
+You will be assigned to 1 or 2 teams of 4 or 5 teenagers aged 11-18 to support them and their projects during the days when you have signed up to help. This could be after school (4-5 pm) over a couple of days or more, but you could also split you help and offer a combination of in-person mentoring and online via Slack/Skype - it is really up to you to communicate with the teacher and agree what suits you and the schedule of events.
 
 This is a volunteering opportunity and any fees associated with volunteering cannot be reimbursed.
 

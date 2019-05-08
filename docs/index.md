@@ -105,7 +105,7 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 **Round 1: Video pitch**
 
-Competition opens May 10, 2019
+Competition opens May 10, 2019 - closes on 24 May, 2019
 
 All videos must be submitted by **5 pm May 24, 2019** on Devpost 
 

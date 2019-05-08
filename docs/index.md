@@ -20,7 +20,7 @@ To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.o
 
 We are on a mission to encourage young people to pursue computing and technology, and promote diversity in this ever-growing field.
 
-Diverse teams of 2-4 students will be designing a product that solves a challenge proposed with the use of AI, they will then go on to create this product and create a short 3-minute video pitching this product.
+Diverse teams of 2-4 students will be designing a product that addresses one of the United Nations Sustainable Development Challenges with the use of AI, they will then go on to develop this product and create a short 3-minute video pitching this product.
 
 ![](/images/whatsapp-image-2019-04-25-at-8.54.07-pm.jpeg)
 

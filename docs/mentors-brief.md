@@ -31,21 +31,19 @@ We are on a mission to encourage young people to pursue computing and technology
 
 Teens in AI Hack runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
 
-**Round 1: Video pitch**
+**Round 1: Video pitch**
 
-Competition opens May 10, 2019
+Competition opens May 10, 2019
 
-All videos must be submitted by 5 pm May 24, 2019 on Devpost
+All videos must be submitted by 5 pm May 24, 2019 on Devpost
 
-Regional Shortlisting: (20 finalist teams announced June 1, 2019)
+Regional Shortlisting: (20 finalist teams announced June 1, 2019)
 
-**Final Round: Finals Demo Day** (June 10th and 12th at CogX)
+**Final Round: Finals Demo Day** (June 10th and 12th at CogX)
 
 10 June: Come and get inspired at Europe's largest festival for AI, CogX
 
-12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!
-
-
+12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!
 
 ## **Hear from a mentor...**
 
@@ -109,10 +107,10 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 ## **WHAT’S IN IT FOR YOU?**
 
-_**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
+## **_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
 _\*\*\*\*_
 
-## _**Expect to learn**_
+## **_Expect to learn_**
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -120,7 +118,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## _**Expect to be inspired**_
+## **_Expect to be inspired_**
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 
@@ -136,11 +134,13 @@ _“I have been working with startups since the tech giants started up but I hav
 
 **STEP 1:** Sign up on https://www.founders4schools.org.uk/partners/teensinai/leader/
 
+**\*\**** If you are a freelancer, student or not working in a company registered in Companies House, then when asked for "company" during sign up process on F4S platform choose "Acorn Aspirations Limited", mother company of Teens in AI. 
+
 **STEP 2:** You will receive an invitation to attend a mentoring session by a school via Founders4Schools platform.
 
 **STEP 3:** Attend the event between 10-24 May. A school teacher will send you details about the event and your role in it.
 
-You will be assigned to 1 or 2 teams of 4 or 5 teenagers aged 11-18 to support them and their projects throughout the two days.
+You will be assigned to 1 or 2 teams of 4 or 5 teenagers aged 11-18 to support them and their projects during the days when you have signed up to help.
 
 This is a volunteering opportunity and any fees associated with volunteering cannot be reimbursed.
 

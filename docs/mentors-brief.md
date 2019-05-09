@@ -71,6 +71,12 @@ Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for 
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
+**Time Commitment:**
+
+Tech Mentors are expected to commit to a **min of 4-5 hrs in total over a couple of days**, where tech mentors can help teens identify a range of technologies available to teens to tackle a specific problem they want to tackle. If applicable, help source publicly available data sets, teach them how to prepare that data and use it to build a model. If they can and willing, they can continue to mentor the team in person or online via Skype or Slack
+
+
+
 - - -
 
 **DESIGN THINKERS**
@@ -81,9 +87,15 @@ In this role you will guide young participants in the design thinking processes 
 
 No code will be developed until a problem is researched and fully understood and your role would be to help them to agree on the challenge, define a clear problem by research and discussions and do market research to validate/invalidate assumptions.
 
+Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for more info on Challenges, Resources, Data Sets etc
+
 **When we need you:** Please check with the school you signed up to volunteer at
 
-Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for more info on Challenges, Resources, Data Sets etc
+**Time Commitment:**
+
+Design Thinkers to commit a **minimum of 2-3 hrs in total over 1-2 days** to help teams ideate, research and understand the problem, narrow it down and go through basic flow of design thinking process.
+
+
 
 - - -
 
@@ -91,9 +103,15 @@ Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for 
 
 Ethics is important and should be taught alongside coding and computer science at school and at Uni - let's teach our kids how to develop code **responsibly**, shall we? And let's make sure the technology is only harnessed and used as a force for good.
 
+Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for more info on Challenges, Resources, Data Sets etc
+
 **When we need you:** Please check with the school you signed up to volunteer at
 
-Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for more info on Challenges, Resources, Data Sets etc
+**Time Commitment:**
+
+Ethicists to commit **1 -2 hrs in total** to help teens identify possible problems with the tools they are developing and ask them many questions, as well as bring to light and debate some of the many case studies where technology went wrong and how it impacted individuals/societies etc (ex AI in gender, race discrimination, social media, recruitment, chatbots (Microsoft's TAI) etc)
+
+
 
 - - -
 
@@ -105,12 +123,19 @@ Some knowledge of business models, pitching and marketing - your expertise will 
 
 Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for more info on Challenges, Resources, Data Sets etc
 
+**Time Commitment:**
+
+Business Coaches to commit **1.5-3 hrs in total** to help teens think of innovative models, route to market and even plan an execution plan. They will also be required to help teens with their video pitches.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 ## **WHAT’S IN IT FOR YOU?**
 
-## **_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
+## _**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
+
 _\*\*\*\*_
 
-## **_Expect to learn_**
+## _**Expect to learn**_
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -118,7 +143,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## **_Expect to be inspired_**
+## _**Expect to be inspired**_
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 
@@ -146,7 +171,7 @@ This is a volunteering opportunity and any fees associated with volunteering can
 
 By participating in our events you agree to comply to our [Code of Conduct](https://teensinai.com/code-of-conduct/).
 
-If you wish to volunteer, but are unable to attend in person, please join the Slack channel to offer help remotely: http://bit.ly/teensinaimentor
+**If you wish to volunteer, but are unable to attend in person, please join the Slack channel to offer help remotely: http://bit.ly/teensinaimentor**
 
 ## **Rules to Follow:**
 

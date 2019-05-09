@@ -75,8 +75,6 @@ Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for 
 
 Tech Mentors are expected to commit to a **min of 4-5 hrs in total over a couple of days**, where tech mentors can help teens identify a range of technologies available to teens to tackle a specific problem they want to tackle. If applicable, help source publicly available data sets, teach them how to prepare that data and use it to build a model. If they can and willing, they can continue to mentor the team in person or online via Skype or Slack
 
-
-
 - - -
 
 **DESIGN THINKERS**
@@ -95,8 +93,6 @@ Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for 
 
 Design Thinkers to commit a **minimum of 2-3 hrs in total over 1-2 days** to help teams ideate, research and understand the problem, narrow it down and go through basic flow of design thinking process.
 
-
-
 - - -
 
 **ETHICISTS**
@@ -110,8 +106,6 @@ Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for 
 **Time Commitment:**
 
 Ethicists to commit **1 -2 hrs in total** to help teens identify possible problems with the tools they are developing and ask them many questions, as well as bring to light and debate some of the many case studies where technology went wrong and how it impacted individuals/societies etc (ex AI in gender, race discrimination, social media, recruitment, chatbots (Microsoft's TAI) etc)
-
-
 
 - - -
 
@@ -131,11 +125,11 @@ Business Coaches to commit **1.5-3 hrs in total** to help teens think of innovat
 
 ## **WHAT’S IN IT FOR YOU?**
 
-## _**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
+## **_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
 
 _\*\*\*\*_
 
-## _**Expect to learn**_
+## **_Expect to learn_**
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -143,7 +137,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## _**Expect to be inspired**_
+## **_Expect to be inspired_**
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 

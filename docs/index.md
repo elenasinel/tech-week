@@ -135,7 +135,11 @@ See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/u
 
 Check our ML/AI section and the following in particular:
 
+1. [Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)), Haron Shams, Students4AI (Imperial College London)
 
+2. [Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
+
+3. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
 
 # **Resources** 
 
@@ -157,7 +161,7 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 [How Does Machine Learning Work (PDF)](https://drive.google.com/open?id=1eDvVetoHSkFDRWMFqOv7hAZhkR-kJa9R)
 
-[Introduction to AI Guide (PDF)](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)
+[Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)), Haron Shams, Students4AI (Imperial College London)
 
 [The Future of AI (PDF)](https://drive.google.com/open?id=1xTvq5VPSrFujHpfv6-9mRY_B4mxRYAyb)
 

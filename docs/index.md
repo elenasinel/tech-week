@@ -165,19 +165,19 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 **Our downloadable PDF guides:**
 
-\*\*\*\*[Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
+\*\*\*\*[Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv) - Kiran Arun, 17
 
-[How Does Machine Learning Work (PDF)](https://drive.google.com/open?id=1eDvVetoHSkFDRWMFqOv7hAZhkR-kJa9R)
+[How Does Machine Learning Work (PDF)](https://drive.google.com/open?id=1eDvVetoHSkFDRWMFqOv7hAZhkR-kJa9R) - Kiran Arun, 17
 
-[Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)), Haron Shams, Students4AI (Imperial College London)
-
-[The Future of AI (PDF)](https://drive.google.com/open?id=1xTvq5VPSrFujHpfv6-9mRY_B4mxRYAyb)
-
-[What is Artificial Intelligence (PDF)](https://drive.google.com/open?id=1aLIfXuxK9kDj5czLuSeso_JxATqyaN-z)
-
-[Getting Started with API’s Guide (PDF)](https://drive.google.com/open?id=19BiQNuYhHsCW863o5IvQU2L5z_k6cP2T)
+[Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)) - Haron Shams, Students4AI (Imperial College London)
 
 [Introduction to Neural Networks (PDF)](https://drive.google.com/open?id=1HMUeuAgOceytU7LtwBRiSvHfY7JPe924)
+
+[The Future of AI (PDF)](https://drive.google.com/open?id=1xTvq5VPSrFujHpfv6-9mRY_B4mxRYAyb) - Kiran Arun, 17
+
+[What is Artificial Intelligence (PDF)](https://drive.google.com/open?id=1aLIfXuxK9kDj5czLuSeso_JxATqyaN-z) - Kiran Arun
+
+[Getting Started with API’s Guide (PDF)](https://drive.google.com/open?id=19BiQNuYhHsCW863o5IvQU2L5z_k6cP2T) - Arman (14), Sebastian (15)
 
 **Have a go at these challenges:**
 
@@ -275,9 +275,9 @@ You should aim to communicate your business canvas, demonstrate your product, an
 
 For those who want to stretch themselves further and get hands on Maths for Machine Learning:
 
-[Download our Linear Algebra for Machine Learning Guide (PDF)](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9)
+[Download our Linear Algebra for Machine Learning Guide (PDF](https://drive.google.com/open?id=1SMNi0P764ZH2MUie9Kok4vek04PjkMi9)) - Jammie Sandy (19), Teens in AI Ambassador, Nigeria
 
-[Download our Multi-variable Calculus for Machine Learning Guide (PDF)](https://drive.google.com/open?id=1coNE2kHxBss2gHEvZrkW7cJyh6I_T8IN)
+[Download our Multi-variable Calculus for Machine Learning Guide (PDF](https://drive.google.com/open?id=1coNE2kHxBss2gHEvZrkW7cJyh6I_T8IN)) - Eito M., (17), Teens in AI Ambassador
 
 Here are some links to some YouTube videos you may find useful when researching maths for machine learning:
 

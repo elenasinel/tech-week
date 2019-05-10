@@ -45,6 +45,44 @@ Regional Shortlisting: (20 finalist teams announced June 1, 2019)
 
 12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!
 
+# **Suggested Curriculum for the Hackathon**
+
+Ideally, at a minimum, we would like teens to have covered the following during school hours or after school. Suggested times may vary and depend on depends on everyone's enthusiasm!
+
+**Day 1 -  AI, Now & Future** (1 hour in total)
+
+Speaker to introduce teens to AI - how is it changing the world? Why is it important?
+
+**Day 2 - Human-Centred Design** (2 hours in total or more depending on how deeply your mentor wishes to dive into)
+
+See our Human-Centred Design section below and this [Guide](https://drive.google.com/file/d/1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU/view)
+
+**Day 3 - Ethics in AI** (1-2 hrs)
+
+See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/uploads/2019/05/Ethics-in-AI-Guide-London-Tech-Week-Hack.pdf)
+
+**Day 4 - AI & Machine Learning (Tech)** (2-3 hrs or more depending on how deeply the mentor wishes to dive into and interest from teens)
+
+Check our ML/AI section and the following in particular:
+
+1. [Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)), Haron Shams, Students4AI (Imperial College London)
+
+2. [Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
+
+3. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
+
+**Day 5 - Business Models** (1-2 hrs)
+
+Please see our Business Models section and this [Guide](https://drive.google.com/file/d/1SLCSURVGCoKk2ahvA3aWga-l0J3XuiRo/view)
+
+**Day 6 - Video Pitch** (1 hour)
+
+Please see our Video Pitch section and this [Guide](https://drive.google.com/file/d/1NqrGYCoQU8HVXAJaaE1-3xNHzbvXEZLe/view)
+
+\*\* Please see section on **Datasets**.
+
+\*\****If you feel something is missing in this guide, tell us and we will include it. Otherwise, do use Google actively for more inspiration and resources!!**
+
 ## **Hear from a mentor...**
 
 _“Being a Mentor at the #teensinAI hackathon, meant being there to support and accompany young people through a very intense weekend where they had to work collaboratively and think creatively with a group of girls they had never met before._ 
@@ -125,11 +163,11 @@ Business Coaches to commit **1.5-3 hrs in total** to help teens think of innovat
 
 ## **WHAT’S IN IT FOR YOU?**
 
-## **_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
+## _**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
 
 _\*\*\*\*_
 
-## **_Expect to learn_**
+## _**Expect to learn**_
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -137,7 +175,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## **_Expect to be inspired_**
+## _**Expect to be inspired**_
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 

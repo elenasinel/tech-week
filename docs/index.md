@@ -113,7 +113,9 @@ All videos must be submitted by **5 pm May 24, 2019** on Devpost (https://teens-
 
 **12 June:** Demo Day in front of Judges on Impact Stage at CogX - winners announced! 
 
-# **Resources** 
+
+
+# **Suggested Curriculum for the Hackathon**
 
 Ideally, at a minimum, we would like teens to have covered the following during school hours or after school:
 
@@ -134,6 +136,8 @@ See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/u
 Check our ML/AI section and the following in particular:
 
 
+
+# **Resources** 
 
 ## **1. Machine Learning & Artificial Intelligence**
 

@@ -61,8 +61,6 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 Microbit Foundation goody bags to all finalists
 
-
-
 ## **DevPost**
 
 Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
@@ -129,7 +127,7 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 **Our downloadable PDF guides:**
 
-****[Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
+\*\*\*\*[Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
 
 [How Does Machine Learning Work (PDF)](https://drive.google.com/open?id=1eDvVetoHSkFDRWMFqOv7hAZhkR-kJa9R)
 
@@ -149,7 +147,7 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 **Here are some links to some YouTube videos you may find useful when researching Machine Learning & Artificial Intelligence:**
 
-****[Machine Learning (20 Lectures)](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Stanford University 
+\*\*\*\*[Machine Learning (20 Lectures)](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Stanford University 
 
 [Artificial Intelligence (24 Lectures)](https://www.youtube.com/playlist?list=PL6MuV0DF6AuoviA41dtji6q-PM4hvAcNk) - UC Berkeley
 
@@ -167,9 +165,15 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 ## **2. Ethics in AI**
 
+Recent advances in computing may place us at the threshold of a unique turning point in human history. Soon we are likely to partly entrust the management of our environment, economy, security, infrastructure, food production, healthcare, and to a large degree even our personal activities, to artificially intelligent computer systems.
+
+The role of Facebook’s “Free Basics” in Myanmar genocide and the Cambridge Analytica fiasco are only some of the dire situations where data has been exploited for horrendous activities. The blame game is only a part of post-mortem. The policy changes usually take place as a face-saving manoeuvre.
+
+It is therefore extremely crucial for the key players in AI and also for the aspirants to have an education imbued with the awareness of responsibilities that come with such expertise.
+
+[Download our Ethics in AI Guide (PDF)](https://teensinai.com/wp-content/uploads/2019/05/Ethics-in-AI-Guide-London-Tech-Week-Hack.pdf)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ItHlqVLjC-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ## **3. Human-Centred Design**
 
@@ -178,8 +182,6 @@ Human-centered design is a creative approach to problem solving and the backbone
 [Download our Human Centred Design Guide (PDF)](https://drive.google.com/open?id=1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/musmgKEPY2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ## **4. Business Model Canvas**
 

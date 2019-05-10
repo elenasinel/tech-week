@@ -149,6 +149,10 @@ Please see our Business Models section and this [Guide](https://drive.google.com
 
 Please see our Video Pitch section and this [Guide](https://drive.google.com/file/d/1NqrGYCoQU8HVXAJaaE1-3xNHzbvXEZLe/view)
 
+\*\* Please see section on **Datasets**.
+
+\*\****If you feel something is missing in this guide, tell us and we will include it. Otherwise, do use Google actively for more inspiration and resources!!**
+
 # **Resources** 
 
 ## **1. Machine Learning & Artificial Intelligence**

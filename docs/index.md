@@ -69,7 +69,7 @@ Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submi
 
 **You will need to do the following:**
 
-* Register all participants (as well as responsible teacher and mentors) for the TeensInAI hackathon in DevPost. To do this click the \[Register for this hackathon] button on the [TeensInAI](https://teensinai.com/) page, and sign up. Once you have created a DevPost account you will be able to create project pages.
+* Register all participants (as well as responsible teacher and mentors) for the TeensInAI hackathon in DevPost. To do this click the \[Register for this hackathon] button on the [TeensInAI ](https://teens-in-ai-hack-london.devpost.com/)Hack page, and sign up. Once you have created a DevPost account you will be able to create project pages.
 * Create a DevPost project page for your TeensInAI project - you can do this via the \[Enter a submission] button on the TeensInAI page, or via your Portfolio in DevPost.
 * Submit your DevPost project to the TeensInAI 2019 hackathon.
 

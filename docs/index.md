@@ -115,6 +115,16 @@ All videos must be submitted by **5 pm May 24, 2019** on Devpost (https://teens-
 
 # **Resources** 
 
+Ideally, at a minimum, we would like teens to have covered the following during school hours or after school:
+
+**1. Day 1 -  AI, Now & Future** (1 hour in total)
+
+Speaker to introduce teens to AI - how is it changing the world? Why is it important?
+
+**2. Day 2 Human-Centred Design** (2 hours in total or more depending on how deeply your mentor wishes to dive into)
+
+See our Human-Centred Design section below and this [Guide](https://drive.google.com/file/d/1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU/view)
+
 ## **1. Machine Learning & Artificial Intelligence**
 
 We have comprehensive guides that go over the basics of Machine Learning/Artificial Intelligence as well as basics of programming. Find these below.

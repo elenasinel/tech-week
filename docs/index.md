@@ -69,7 +69,7 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
 
-The TeensInAI 2019 DevPost page is here:
+The TeensInAI 2019 DevPost page is here: https://teens-in-ai-hack-london.devpost.com/
 
 **You will need to do the following:**
 
@@ -107,7 +107,7 @@ Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final
 
 Competition opens May 10, 2019 - closes on 24 May, 2019
 
-All videos must be submitted by **5 pm May 24, 2019** on Devpost 
+All videos must be submitted by **5 pm May 24, 2019** on Devpost (https://teens-in-ai-hack-london.devpost.com/)
 
 **Regional Shortlisting:** (20 finalist teams announced June 1, 2019)
 

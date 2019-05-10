@@ -94,7 +94,7 @@ Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submi
 * Parents are not allowed to mentor teams where participants are their children.
 * Code needs to be new and will be verified - it must not belong to any previous project
 
-# **Hackathon Schedule**
+# **Hackathon - Key Dates**
 
 Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
 ### In Depth Schedule
@@ -117,7 +117,7 @@ All videos must be submitted by **5 pm May 24, 2019** on Devpost (https://teens-
 
 # **Suggested Curriculum for the Hackathon**
 
-Ideally, at a minimum, we would like teens to have covered the following during school hours or after school:
+Ideally, at a minimum, we would like teens to have covered the following during school hours or after school. Suggested times may vary and depend on depends on everyone's enthusiasm!
 
 **Day 1 -  AI, Now & Future** (1 hour in total)
 
@@ -140,6 +140,14 @@ Check our ML/AI section and the following in particular:
 2. [Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
 
 3. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
+
+**Day 5 - Business Models** (1-2 hrs)
+
+Please see our Business Models section and this [Guide](https://drive.google.com/file/d/1SLCSURVGCoKk2ahvA3aWga-l0J3XuiRo/view)
+
+**Day 6 - Video Pitch** (1 hour)
+
+Please see our Video Pitch section and this [Guide](https://drive.google.com/file/d/1NqrGYCoQU8HVXAJaaE1-3xNHzbvXEZLe/view)
 
 # **Resources** 
 
@@ -171,9 +179,9 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 [Introduction to Neural Networks (PDF)](https://drive.google.com/open?id=1HMUeuAgOceytU7LtwBRiSvHfY7JPe924)
 
-**Have a go at these challanges:**
+**ch**
 
-[Neural Networks Challenge (PDF)](https://drive.google.com/open?id=1OIgep0Oog-4OnJ-apiNZmd7S9guJYvDl)
+[allenge (PDF)](https://drive.google.com/open?id=1OIgep0Oog-4OnJ-apiNZmd7S9guJYvDl)
 
 [Reinforcement Learning Challenge (PDF)](https://drive.google.com/open?id=1Ls2nFi6UfvqF_oPeZlWzWqyKp4h-B5ec)
 

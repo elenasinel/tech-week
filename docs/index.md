@@ -272,6 +272,10 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [UN Data ](http://data.un.org)
 
+https://www.data.gov
+
+https://data.world
+
 [Kaggle](https://www.kaggle.com/datasets)
 
 [UCI Machine Learning Repository ](http://archive.ics.uci.edu/ml/datasets.html)

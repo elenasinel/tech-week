@@ -36,9 +36,7 @@ See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/u
 Check our ML/AI section and the following in particular:
 
 1. [Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)), Haron Shams, Students4AI (Imperial College London)
-
 2. [Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
-
 3. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
 
 **Day 5 - Business Models** (1-2 hrs)
@@ -51,7 +49,7 @@ Please see our Video Pitch section and this [Guide](https://drive.google.com/fil
 
 \*\* Please see section on **Datasets**.
 
-\*\****If you feel something is missing in this guide, tell us and we will include it. Otherwise, do encourage teens to use Google actively for more inspiration and resources!!**
+\*\***\*If you feel something is missing in this guide, tell us and we will include it. Otherwise, do encourage teens to use Google actively for more inspiration and resources!!**
 
 # **FAQs for Educators:**
 
@@ -88,5 +86,17 @@ We have created comprehensive guides to guide you and mentors. If for whatever r
 **Entrepreneur/Business Coach -**  someone to inspire and demystify business models
 
 **Ethicists -** please see the guide on Ethics in AI. Ideally, everyone who learns to code should understand some basics of ethics and why it's important to code "responsibly"
+
+## Why should my students take part?
+
+* Get mentored by University Students from top universities, including UCL, Imperial, London Business School. 
+* Get mentored by industry experts from across London’s top startups, scaleups and corporates
+* Workshops on AI & Machine Learning, covering topics such as AI - Now and Future, AI Ethics, Neural Networks, Reinforcement Learning, Tensorflow, Design Thinking in AI
+  Workshops focused on product strategy, business development and design thinking skills
+* Workshops to build their presentation and pitching skills
+* Motivational presentations by influential figures of the Tech Industry on AI and the opportunities it presents
+* An Opportunity to pitch & present MVPs to Judges from Industry
+* Opportunity to boost UCAS applications
+* Opportunity to get work experience in the best data science companies across London
 
 ## \*\*\*\*

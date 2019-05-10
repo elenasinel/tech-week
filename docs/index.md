@@ -63,14 +63,6 @@ Microbit Foundation goody bags to all finalists
 
 
 
-## **How to Enter - Educators**
-
-1. Create teams of 2-4 students - max 3 teams per school
-2. Host an event 10-24 May and invite mentors (2-3 machine learning and artificial intelligence Developers, 1-2 Design Thinkers, 1-2 Entrepreneurs, 1-2 Ethicists) to ideate and help you submit videos by 24 May on DevPost (submission rules and Devpost link to be shared)
-3. If your team is selected into 20 Finalist teams, it will be invited to CogX AI Festival for inspiration on Monday morning 10 June
-4. Teams can return to school and carry on building their projects with or without the help of mentors
-5. Teams will return to pitch live at Demo Day on 12 June 9 am at CogX
-
 ## **DevPost**
 
 Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
@@ -135,9 +127,9 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
 
-Our downloadable PDF guides:
+**Our downloadable PDF guides:**
 
-[Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
+****[Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
 
 [How Does Machine Learning Work (PDF)](https://drive.google.com/open?id=1eDvVetoHSkFDRWMFqOv7hAZhkR-kJa9R)
 
@@ -155,9 +147,9 @@ Our downloadable PDF guides:
 
 [Reinforcement Learning Challenge (PDF)](https://drive.google.com/open?id=1Ls2nFi6UfvqF_oPeZlWzWqyKp4h-B5ec)
 
-Here are some links to some YouTube videos you may find useful when researching Machine Learning & Artificial Intelligence:
+**Here are some links to some YouTube videos you may find useful when researching Machine Learning & Artificial Intelligence:**
 
-[Machine Learning (20 Lectures)](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Stanford University 
+****[Machine Learning (20 Lectures)](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Stanford University 
 
 [Artificial Intelligence (24 Lectures)](https://www.youtube.com/playlist?list=PL6MuV0DF6AuoviA41dtji6q-PM4hvAcNk) - UC Berkeley
 
@@ -180,6 +172,8 @@ Here are some links to some YouTube videos you may find useful when researching 
 
 
 ## **3. Human-Centred Design**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/musmgKEPY2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Human-centered design is a creative approach to problem solving and the backbone of a product. It’s a process that starts with the people you’re designing for and ends with new solutions that are tailor made to suit their needs.
 

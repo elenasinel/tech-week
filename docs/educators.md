@@ -51,7 +51,7 @@ Please see our Video Pitch section and this [Guide](https://drive.google.com/fil
 
 \*\* Please see section on **Datasets**.
 
-\*\****If you feel something is missing in this guide, tell us and we will include it. Otherwise, do use Google actively for more inspiration and resources!!**
+\*\****If you feel something is missing in this guide, tell us and we will include it. Otherwise, do encourage teens to use Google actively for more inspiration and resources!!**
 
 # **FAQs for Educators:**
 

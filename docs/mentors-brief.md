@@ -9,7 +9,7 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 **Want to contribute to this guide or donate a resource?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions
 
-**Want to sponsor the hack and join Deepmind and Alan Turing Institute at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io 
+**Want to sponsor the hack and join Deepmind and IBM at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io 
 
 - - -
 
@@ -66,9 +66,7 @@ See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/u
 Check our ML/AI section and the following in particular:
 
 1. [Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)), Haron Shams, Students4AI (Imperial College London)
-
 2. [Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
-
 3. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
 
 **Day 5 - Business Models** (1-2 hrs)
@@ -81,7 +79,7 @@ Please see our Video Pitch section and this [Guide](https://drive.google.com/fil
 
 \*\* Please see section on **Datasets**.
 
-\*\****If you feel something is missing in this guide, tell us and we will include it. Otherwise, do use Google actively for more inspiration and resources!!**
+\*\***\*If you feel something is missing in this guide, tell us and we will include it. Otherwise, do use Google actively for more inspiration and resources!!**
 
 ## **Hear from a mentor...**
 
@@ -163,11 +161,11 @@ Business Coaches to commit **1.5-3 hrs in total** to help teens think of innovat
 
 ## **WHAT’S IN IT FOR YOU?**
 
-## _**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
+## **_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
 
 _\*\*\*\*_
 
-## _**Expect to learn**_
+## **_Expect to learn_**
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -175,7 +173,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## _**Expect to be inspired**_
+## **_Expect to be inspired_**
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 

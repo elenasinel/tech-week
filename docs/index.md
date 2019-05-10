@@ -24,7 +24,7 @@ Diverse teams of 2-4 students will be designing a product that addresses one of 
 
 ![](/images/whatsapp-image-2019-04-25-at-8.54.07-pm.jpeg)
 
-## **Challenges**
+## **Challenges - UN Sustainable Development Goals**
 
 This year we are focusing on [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). Within their teams, young people can 
 Focus on any one of the goals and tackle them using open source machine learning tools.
@@ -55,7 +55,13 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 ## **Prizes**
 
-**TBC**
+1st Prize: Lunch & Tour at Deepmind
+
+[Project Prep](https://www.projectprep.com/about) books to female finalists
+
+Microbit Foundation goody bags to all finalists
+
+
 
 ## **How to Enter - Educators**
 

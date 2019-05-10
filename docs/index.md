@@ -179,9 +179,9 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 [Introduction to Neural Networks (PDF)](https://drive.google.com/open?id=1HMUeuAgOceytU7LtwBRiSvHfY7JPe924)
 
-**ch**
+**Have a go at these challenges:**
 
-[allenge (PDF)](https://drive.google.com/open?id=1OIgep0Oog-4OnJ-apiNZmd7S9guJYvDl)
+[Neural Network Challenge (PDF)](https://drive.google.com/file/d/1OIgep0Oog-4OnJ-apiNZmd7S9guJYvDl/view)
 
 [Reinforcement Learning Challenge (PDF)](https://drive.google.com/open?id=1Ls2nFi6UfvqF_oPeZlWzWqyKp4h-B5ec)
 

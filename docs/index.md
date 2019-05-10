@@ -169,6 +169,10 @@ Here are some links to some YouTube videos you may find useful when researching 
 
 ## **2. Ethics in AI**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ItHlqVLjC-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ## **3. Human-Centred Design**
 
 Human-centered design is a creative approach to problem solving and the backbone of a product. It’s a process that starts with the people you’re designing for and ends with new solutions that are tailor made to suit their needs.

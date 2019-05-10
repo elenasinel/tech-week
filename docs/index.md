@@ -119,9 +119,11 @@ All videos must be submitted by **5 pm May 24, 2019** on Devpost (https://teens-
 
 We have comprehensive guides that go over the basics of Machine Learning/Artificial Intelligence as well as basics of programming. Find these below.
 
-[Python Tutorial - Sammy Hass](https://github.com/SammyHass)
+[Python Tutorial - Sammy Hass](https://github.com/SammyHass), 17 - Teens in AI Ambassador
 
-[Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun)
+[Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
+
+[Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun), 17 - Teens in AI Ambassador
 
 [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
 
@@ -140,6 +142,8 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 [Getting Started with API’s Guide (PDF)](https://drive.google.com/open?id=19BiQNuYhHsCW863o5IvQU2L5z_k6cP2T)
 
 [Introduction to Neural Networks (PDF)](https://drive.google.com/open?id=1HMUeuAgOceytU7LtwBRiSvHfY7JPe924)
+
+**Have a go at these challanges:**
 
 [Neural Networks Challenge (PDF)](https://drive.google.com/open?id=1OIgep0Oog-4OnJ-apiNZmd7S9guJYvDl)
 

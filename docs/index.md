@@ -173,11 +173,13 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 ## **3. Human-Centred Design**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/musmgKEPY2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Human-centered design is a creative approach to problem solving and the backbone of a product. It’s a process that starts with the people you’re designing for and ends with new solutions that are tailor made to suit their needs.
 
 [Download our Human Centred Design Guide (PDF)](https://drive.google.com/open?id=1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/musmgKEPY2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## **4. Business Model Canvas**
 

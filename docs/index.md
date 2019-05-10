@@ -270,17 +270,7 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [Other SDG data](https://unstats.un.org/sdgs/indicators/database/)
 
-UN Data Many other sources are listed under aggregations such as:
-
-
-
-
-
-https://www.kaggle.com/datasets
-
-
-
-https://github.com/awesomedata/awesome-public-datasets
+[UN Data ](http://data.un.org)
 
 [Kaggle](https://www.kaggle.com/datasets)
 

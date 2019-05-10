@@ -262,6 +262,26 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 ## **Datasets**
 
+[Development Data](http://databank.worldbank.org/data/home) - World Bank
+
+[Humanitarian data ](https://data.humdata.org)
+
+[Financial data](https://www.themix.org)
+
+[Other SDG data](https://unstats.un.org/sdgs/indicators/database/)
+
+UN Data Many other sources are listed under aggregations such as:
+
+
+
+
+
+https://www.kaggle.com/datasets
+
+
+
+https://github.com/awesomedata/awesome-public-datasets
+
 [Kaggle](https://www.kaggle.com/datasets)
 
 [UCI Machine Learning Repository ](http://archive.ics.uci.edu/ml/datasets.html)

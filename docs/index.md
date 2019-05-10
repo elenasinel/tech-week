@@ -7,7 +7,7 @@ title: London Tech Week Hack
 
 **Want to contribute to this guide or donate a resource?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions
 
-**Want to sponsor the hack and join Deepmind and Alan Turing Institute at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io
+**Want to sponsor the hack and join Deepmind and IBM at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io
 
 # **Teens in AI Hackathon Guide**
 
@@ -113,8 +113,6 @@ All videos must be submitted by **5 pm May 24, 2019** on Devpost (https://teens-
 
 **12 June:** Demo Day in front of Judges on Impact Stage at CogX - winners announced! 
 
-
-
 # **Suggested Curriculum for the Hackathon**
 
 Ideally, at a minimum, we would like teens to have covered the following during school hours or after school. Suggested times may vary and depend on depends on everyone's enthusiasm!
@@ -136,9 +134,7 @@ See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/u
 Check our ML/AI section and the following in particular:
 
 1. [Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)), Haron Shams, Students4AI (Imperial College London)
-
 2. [Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
-
 3. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
 
 **Day 5 - Business Models** (1-2 hrs)
@@ -151,9 +147,9 @@ Please see our Video Pitch section and this [Guide](https://drive.google.com/fil
 
 \*\* Please see section on **Datasets**.
 
-\*\****If you feel something is missing in this guide, tell us and we will include it. Otherwise, do use Google actively for more inspiration and resources!!**
+\*\***\*If you feel something is missing in this guide, tell us and we will include it. Otherwise, do use Google actively for more inspiration and resources!!**
 
-# **Resources** 
+# **Resources**
 
 ## **1. Machine Learning & Artificial Intelligence**
 
@@ -211,7 +207,7 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 Recent advances in computing may place us at the threshold of a unique turning point in human history. Soon we are likely to partly entrust the management of our environment, economy, security, infrastructure, food production, healthcare, and to a large degree even our personal activities, to artificially intelligent computer systems.
 
-The role of Facebook’s “Free Basics” in Myanmar genocide and the Cambridge Analytica fiasco are only some of the dire situations where data has been exploited for horrendous activities. The blame game is only a part of post-mortem. The policy changes usually take place as a face-saving manoeuvre.
+The role of Facebook’s “Free Basics” in Myanmar genocide and the Cambridge Analytica fiasco are only some of the dire situations where data has been exploited for horrendous activities. The blame game is only a part of post-mortem. The policy changes usually take place as a face-saving manoeuvre.
 
 It is therefore extremely crucial for the key players in AI and also for the aspirants to have an education imbued with the awareness of responsibilities that come with such expertise.
 
@@ -316,7 +312,7 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 
 [UN Data ](http://data.un.org)
 
-https://www.data.gov
+https://www.data.gov
 
 https://data.world
 

@@ -113,7 +113,7 @@ All videos must be submitted by **5 pm May 24, 2019** on Devpost (https://teens-
 
 **12 June:** Demo Day in front of Judges on Impact Stage at CogX - winners announced! 
 
-# **Resources**
+# **Resources** 
 
 ## **1. Machine Learning & Artificial Intelligence**
 
@@ -277,6 +277,8 @@ Guidance: [Click here](https://teens-in-ai.github.io/tech-week/resources/DataAI.
 [Datahub Collections](https://datahub.io/collections)
 
 [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
+**IMAGE/NLP Repos**
 
 [MS Coco](http://cocodataset.org/#home)
 

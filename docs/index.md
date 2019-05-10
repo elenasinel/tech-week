@@ -117,13 +117,23 @@ All videos must be submitted by **5 pm May 24, 2019** on Devpost (https://teens-
 
 Ideally, at a minimum, we would like teens to have covered the following during school hours or after school:
 
-**1. Day 1 -  AI, Now & Future** (1 hour in total)
+**Day 1 -  AI, Now & Future** (1 hour in total)
 
 Speaker to introduce teens to AI - how is it changing the world? Why is it important?
 
-**2. Day 2 Human-Centred Design** (2 hours in total or more depending on how deeply your mentor wishes to dive into)
+**Day 2 - Human-Centred Design** (2 hours in total or more depending on how deeply your mentor wishes to dive into)
 
 See our Human-Centred Design section below and this [Guide](https://drive.google.com/file/d/1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU/view)
+
+**Day 3 - Ethics in AI** (1-2 hrs)
+
+See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/uploads/2019/05/Ethics-in-AI-Guide-London-Tech-Week-Hack.pdf)
+
+**Day 4 - AI & Machine Learning (Tech)** (2-3 hrs or more depending on how deeply the mentor wishes to dive into and interest from teens)
+
+Check our ML/AI section and the following in particular:
+
+
 
 ## **1. Machine Learning & Artificial Intelligence**
 

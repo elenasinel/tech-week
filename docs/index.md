@@ -22,8 +22,6 @@ We are on a mission to encourage young people to pursue computing and technology
 
 Diverse teams of 2-4 students will be designing a product that addresses one of the United Nations Sustainable Development Challenges with the use of AI, they will then go on to develop this product and create a short 3-minute video pitching this product.
 
-![](/images/whatsapp-image-2019-04-25-at-8.54.07-pm.jpeg)
-
 ## **Challenges - UN Sustainable Development Goals**
 
 This year we are focusing on [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). Within their teams, young people can 

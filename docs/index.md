@@ -72,11 +72,13 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 ## **Prizes**
 
-1st Prize: Lunch & Tour at Deepmind
+1st Prize: Visit to Deepmind
 
 [Project Prep](https://www.projectprep.com/about) books to female finalists
 
 Microbit Foundation goody bags to all finalists
+
+TechWillSaveUs Micro:bot kits
 
 ## **DevPost**
 

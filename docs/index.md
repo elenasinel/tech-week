@@ -14,6 +14,25 @@ title: London Tech Week Hack
 !!! Info
 	This site provides much of the information you'll need to prepare your Teens in AI Hack competition entries, and links to resources to help you create a great project.
 
+# **Hackathon - Key Dates**
+
+Teens in AI Hack  runs from May 10- June 4 (Round 1) and through to June 10-12 (Final Round).
+### In Depth Schedule
+
+**Round 1: Video pitch**
+
+Competition opens May 10, 2019 - closes on 4 June, 2019
+
+All videos must be submitted by **5 pm June 4, 2019** by email to elena.sinel@teensinai.com
+
+**Regional Shortlisting:** (10 finalist teams announced June 1, 2019)
+
+**Final Round: Finals Demo Day** (June 10th and 12th at CogX)
+
+**10 June:** Come and get inspired at Europe's largest festival for AI, CogX
+
+**12 June:** Demo Day in front of Judges on Impact Stage at CogX - winners announced! 
+
 ## **What is Teens In AI London Tech Week Hackathon?**
 
 To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CogX](https://cogx.co/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
@@ -86,30 +105,11 @@ Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submi
 * Participants must be between the ages of 11 and 18.
 * Participants must be studying in a secondary school, Sixth Form or college based in London
 * Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
-* You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on May 24th for Round 1 
+* You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on 4 June for Round 1 
 * You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.
 * You must be able to demonstrate that everyone within your group has contributed.
 * Parents are not allowed to mentor teams where participants are their children.
 * Code needs to be new and will be verified - it must not belong to any previous project
-
-# **Hackathon - Key Dates**
-
-Teens in AI Hack  runs from May 10-24 (Round 1) and through to June 10-12 (Final Round).
-### In Depth Schedule
-
-**Round 1: Video pitch**
-
-Competition opens May 10, 2019 - closes on 24 May, 2019
-
-All videos must be submitted by **5 pm May 24, 2019** on Devpost (https://teens-in-ai-hack-london.devpost.com/)
-
-**Regional Shortlisting:** (20 finalist teams announced June 1, 2019)
-
-**Final Round: Finals Demo Day** (June 10th and 12th at CogX)
-
-**10 June:** Come and get inspired at Europe's largest festival for AI, CogX
-
-**12 June:** Demo Day in front of Judges on Impact Stage at CogX - winners announced! 
 
 # **Suggested Curriculum for the Hackathon**
 

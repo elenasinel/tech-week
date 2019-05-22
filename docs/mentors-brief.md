@@ -35,9 +35,9 @@ Teens in AI Hack runs from May 10-24 (Round 1) and through to June 10-12 (Final 
 
 Competition opens May 10, 2019
 
-All videos must be submitted by 5 pm May 24, 2019 on Devpost
+All videos must be submitted by 5 pm June 4th, 2019 by email to elena.sinel@teensinai.com
 
-Regional Shortlisting: (20 finalist teams announced June 1, 2019)
+Regional Shortlisting: (10 finalist teams announced June 1, 2019)
 
 **Final Round: Finals Demo Day** (June 10th and 12th at CogX)
 
@@ -161,11 +161,11 @@ Business Coaches to commit **1.5-3 hrs in total** to help teens think of innovat
 
 ## **WHAT’S IN IT FOR YOU?**
 
-## **_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
+## _**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
 
 _\*\*\*\*_
 
-## **_Expect to learn_**
+## _**Expect to learn**_
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -173,7 +173,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## **_Expect to be inspired_**
+## _**Expect to be inspired**_
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 

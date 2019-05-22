@@ -69,11 +69,11 @@ Teens in AI Hack is a pilot project run over 2 weeks in partnership with Founder
 ## **How do I enter a team?**
 
 1. Create teams of 2-4 students - max 3 teams per school
-2. Host an event 10-24 May and invite mentors via [Founders4Schools](https://www.founders4schools.org.uk/partners/teensinai/) platform
-3. Submit videos by 5 pm 24 May on DevPost 
-4. If your team is selected into 20 Finalist teams, it will be invited to CogX AI Festival for inspiration on Monday morning 10 June
+2. Host an event 10-4 June and invite mentors via [Founders4Schools](https://www.founders4schools.org.uk/partners/teensinai/) platform
+3. Submit videos by 5 pm 4 June by emailing Elena at elena.sinel@teensinai.com
+4. If your team is selected into 10 Finalist teams, it will be invited to CogX AI Festival for inspiration on Monday morning 10 June
 5. Teams can return to school and carry on building their projects with or without the help of mentors
-6. Teams will return to pitch live at Demo Day on 12 June 9 am at CogX
+6. Teams will return to pitch live at Demo Day on 12 June 2-4.30 pm at CogX
 
 ## **What kind of mentors do I need to invite?**
 

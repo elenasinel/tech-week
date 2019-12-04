@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Teens-in-AI/tech-week
+  repo: elenasinel/tech-week
 #publish_mode: editorial_workflow
 media_folder: "docs/images"
 public_folder: "images"

@@ -55,16 +55,11 @@ Please see our Video Pitch section and this [Guide](https://drive.google.com/fil
 
 ## **What is a Hackathon?**
 
-Traditionally, hackathons are technology development marathons that draw on the talents and initiative  of bright-minded volunteers –such as software developers, engineers, technologists, designers,
- scientists, and anyone with a passion and desire to have an immediate impact on the world.
+Traditionally, hackathons are technology development marathons that draw on the talents and initiative  of bright-minded volunteers –such as software developers, engineers, technologists, designers, scientists, and anyone with a passion and desire to have an immediate impact on the world.
 
-Hackathons are open to anyone, and are focused on developing real solutions to global challenges by
- the end of the event.
+Hackathons are open to anyone, and are focused on developing real solutions to global challenges by the end of the event.
 
-Teens in AI Hack is a pilot project run over 2 weeks in partnership with Founders4Schools and CogX. It aims to
- inspire young people ages 11-18 into artificial intelligence and offer a chance to solve problems
- affecting humanity. At Teens in AI hackathons, young people lead the process and are guided by
- mentors to solve problems.
+Teens in AI Hack is a pilot project run over 2 weeks in partnership with Founders4Schools and CogX. It aims to inspire young people ages 11-18 into artificial intelligence and offer a chance to solve problems affecting humanity. At Teens in AI hackathons, young people lead the process and are guided by mentors to solve problems.
 
 ## **How do I enter a team?**
 
@@ -81,11 +76,11 @@ We have created comprehensive guides to guide you and mentors. If for whatever r
 
 **Tech Mentors** - Full stack developers are great, but if they have expertise in Machine learning and Artificial Intelligence, it would be a bonus (1 or 2, ideally)
 
-**Design Thinkers** - one design thinker will be sufficient (Please see relevant guide in Hackathon Guide section on Human-Centred Design/Design Thinking)
+**Design Thinkers** - One or two design thinkers will be sufficient (Please see relevant guide in Hackathon Guide section on Human-Centred Design/Design Thinking)
 
-**Entrepreneur/Business Coach -**  someone to inspire and demystify business models
+**Entrepreneur/Business Coach -**  Someone to inspire and demystify business models
 
-**Ethicists -** please see the guide on Ethics in AI. Ideally, everyone who learns to code should understand some basics of ethics and why it's important to code "responsibly"
+**Ethicists -** Please see the guide on Ethics in AI. Ideally, everyone who learns to code should understand some basics of ethics and why it's important to code "responsibly"
 
 ## Why should my students take part?
 

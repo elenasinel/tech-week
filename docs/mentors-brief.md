@@ -1,7 +1,7 @@
 ---
-title: MENTORS BRIEF
+title: Mentors Brief
 ---
-![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
+![](/images/girls-in-ai-header.png)
 
 **This is a "work in progress" doc and is constantly getting updated.**
 
@@ -9,7 +9,7 @@ Please check this [Hackathon Guide](https://london-tech-week-hack.netlify.com/) 
 
 **Want to contribute to this guide or donate a resource?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions
 
-**Want to sponsor the hack and join Deepmind and IBM at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io 
+**Want to sponsor the hack and join Deepmind and IBM at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@teensinai.com. 
 
 - - -
 
@@ -161,11 +161,11 @@ Business Coaches to commit **1.5-3 hrs in total** to help teens think of innovat
 
 ## **WHAT’S IN IT FOR YOU?**
 
-## _**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
+## **_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
 
 _\*\*\*\*_
 
-## _**Expect to learn**_
+## **_Expect to learn_**
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -173,7 +173,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## _**Expect to be inspired**_
+## **_Expect to be inspired_**
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 

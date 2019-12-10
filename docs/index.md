@@ -1,13 +1,13 @@
 ---
-title: London Tech Week Hack
+title: Girls In AI Hackathon
 ---
-![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
+![](/images/girls-in-ai-header.png)
 
 **\*\*\*This is a "work in progress" doc and is constantly getting updated\*\*\***
 
 **Want to contribute to this guide or donate a resource?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk with your suggestions
 
-**Want to sponsor the hack and join Deepmind and IBM at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@acornaspirations.co.uk or Tabitha Goldstaub on tabitha@cognitionx.io
+**Want to sponsor the hack and join Deepmind and IBM at nurturing the next generation of AI technologist, innovators and entrepreneurs?** Email Elena Sinel on elena.sinel@teensinai.com.
 
 # **Teens in AI Hackathon Guide**
 
@@ -16,26 +16,26 @@ title: London Tech Week Hack
 
 # **Hackathon - Key Dates**
 
-Teens in AI Hack  runs from May 10- June 4 (Round 1) and through to June 10-12 (Final Round).
-### In Depth Schedule
+Girls in AI Hackathon runs on the weekend of International Women's Day which is on the 7th and 8th March 2020.
+**_\### In Depth Schedule_**
 
-**Round 1: Video pitch**
+_**Round 1: Video pitch**_
 
-Competition opens May 10, 2019 - closes on 4 June, 2019
+**_Competition opens 7th March 2020 and closes on 8th March 2020._**
 
-All videos must be submitted by **5 pm June 4, 2019** by email to elena.sinel@teensinai.com
+**_All videos must be submitted by 17:00 (GMT) 9th March, 2020 by email to harv@teensinai.com_**
 
-**Regional Shortlisting:** (10 finalist teams announced June 1, 2019)
+**_Regional Shortlisting: (10 finalist teams announced June 1, 2019)_**
 
-**Final Round: Finals Demo Day** (June 10th and 12th at CogX)
+**_Final Round: Finals Demo Day (June 10th and 12th at CogX)_**
 
-**10 June:** Come and get inspired at Europe's largest festival for AI, CogX
+**_10 June: Come and get inspired at Europe's largest festival for AI, CogX_**
 
-**12 June:** Demo Day in front of Judges on Impact Stage at CogX - winners announced! 
+**_12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!_** 
 
-## **What is Teens In AI London Tech Week Hackathon?**
+## **What is the Girls In AI Hackathon?**
 
-To celebrate London Tech Week, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CogX](https://cogx.co/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
+To celebrate International Womens Day, [Founders4Schools](https://www.founders4schools.org.uk/about/), [Teens in AI](https://teensinai.com/) and [CogX](https://cogx.co/) are running a Hackathon to inspire young people aged 11-18 into Artificial Intelligence.
 
 We are on a mission to encourage young people to pursue computing and technology, and promote diversity in this ever-growing field.
 
@@ -43,8 +43,7 @@ Diverse teams of 2-4 students will be designing a product that addresses one of 
 
 ## **Challenges - UN Sustainable Development Goals**
 
-This year we are focusing on [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). Within their teams, young people can 
-Focus on any one of the goals and tackle them using open source machine learning tools.
+This year we are focusing on [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/). Within their teams, young people can focus on any one of the goals and tackle them using open source machine learning tools.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/5G0ndS3uRdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -60,37 +59,34 @@ Focus on any one of the goals and tackle them using open source machine learning
 
 Our panel of judges will analyse projects based on the criteria listed below. They will base their judgement on both the product you produce, the code you write and your video pitch.
 
-* **Design & Implementation** - Does it work? Is it implementable? Did the team think about the user interface (UI) and user experience (UX)?
-  Was the product designed with humans in mind?
+* **Design & Implementation** - Does it work? Is it implementable? Did the team think about the user interface (UI) and user experience (UX)? Was the product designed with humans in mind?
 * **Innovation:** How innovative / creative / unique is the idea? Was there a novel approach applied to solve the problem?
 * **Technical Complexity** - Is the project technically impressive? Complex? 
   How technically sophisticated / advanced / elegant was the solution?
 * **Social Impact** - How impactful is the idea? Can it impact the lives of many people in a significant way? Is the idea aligned with and addresses any of the UN Sustainable Development Goals?  
-* **Commercial Viability** - Is there a business potential?
-  How original is the business model? Has the team considered route to market and has made proactive actions to execute an action plan?  Is the idea feasible, does it have economic and societal value,
-   and is it sustainable?
+* **Commercial Viability** - Is there a business potential? How original is the business model? Has the team considered route to market and has made proactive actions to execute an action plan? Is the idea feasible, does it have economic and societal value, and is it sustainable?
 
 ## **Prizes**
 
-1st Prize: Visit to Deepmind
+**_1st Prize: Visit to Deepmind_**
 
-[Project Prep](https://www.projectprep.com/about) books to female finalists
+**__**[**_Project Prep_**](https://www.projectprep.com/about) **_books to female finalists_**
 
-Microbit Foundation goody bags to all finalists
+**_Microbit Foundation goody bags to all finalists_**
 
-TechWillSaveUs Micro:bot kits
+**_TechWillSaveUs Micro:bot kits_**
 
 ## **DevPost**
 
-Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
+Girls In AI Hack utilises [DevPost](https://devpost.com) to manage project submissions for judging. DevPost is a free service for managing hackathons and project pages.
 
 **The TeensInAI 2019 DevPost page is here: https://teens-in-ai-hack-london.devpost.com/**
 
 **You will need to do the following:**
 
 * Register all participants (as well as responsible teacher and mentors) for the TeensInAI hackathon in DevPost. To do this click the \[Register for this hackathon] button on the [TeensInAI ](https://teens-in-ai-hack-london.devpost.com/)Hack page, and sign up. Once you have created a DevPost account you will be able to create project pages.
-* Create a DevPost project page for your TeensInAI project - you can do this via the \[Enter a submission] button on the TeensInAI page, or via your Portfolio in DevPost.
-* Submit your DevPost project to the TeensInAI 2019 hackathon.
+* Create a DevPost project page for your GirlsInAI project - you can do this via the \[Enter a submission] button on the GirlsInAI page, or via your Portfolio in DevPost.
+* Submit your DevPost project to the Girls In AI 2020 hackathon.
 
 **When creating and editing your DevPost project make sure you:**
 
@@ -104,14 +100,14 @@ Teens in AI Hack utilises [DevPost](https://devpost.com) to manage project submi
 
 ## **Entry Requirement Rules**
 
-* Participants must be between the ages of 11 and 18.
-* Participants must be studying in a secondary school, Sixth Form or college based in London
-* Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT
-* You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on 4 June for Round 1 
-* You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.
-* You must be able to demonstrate that everyone within your group has contributed.
-* Parents are not allowed to mentor teams where participants are their children.
-* Code needs to be new and will be verified - it must not belong to any previous project
+* **_Participants must be between the ages of 11 and 18._**
+* **_Participants must be studying in a secondary school, Sixth Form or college based in London_**
+* **_Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT_**
+* **_You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on 4 June for Round 1_** 
+* **_You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run._**
+* **_You must be able to demonstrate that everyone within your group has contributed._**
+* **_Parents are not allowed to mentor teams where participants are their children._**
+* **_Code needs to be new and will be verified - it must not belong to any previous project_**
 
 # **Suggested Curriculum for the Hackathon**
 
@@ -239,7 +235,7 @@ A good starting place is on the [Strategyzer](https://www.strategyzer.com/canvas
 
 ## **5. Tips for Pitch Video**
 
-Your pitch video is a core component of your TeensInAI submissions, and should be a maximum of three (3) minutes.
+Your pitch video is a core component of your Girls In AI submissions, and should be a maximum of three (3) minutes.
 
 You should aim to communicate your business canvas, demonstrate your product, and engage would-be users in 3 minutes. Use the video medium to create excitement and demand for your solution. What evidence can you provide or discuss that adds credibility to your team and your solution? Do you need more resources to take it to the next level – would your video attract crowd funding, the interest of an angel investors or philanthropist – or just get you on the news?
 
@@ -356,4 +352,4 @@ https://data.world
 
 [Open Corporates](https://opencorporates.com/)
 
-![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
+![](/images/girls-in-ai-header.png)

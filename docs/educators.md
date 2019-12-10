@@ -1,5 +1,5 @@
 ---
-title: EDUCATORS BRIEF
+title: Educators Brief
 ---
 **\*\*\*This is a "work in progress" doc and is constantly getting updated\*\*\***
 
@@ -59,7 +59,7 @@ Traditionally, hackathons are technology development marathons that draw on the 
 
 Hackathons are open to anyone, and are focused on developing real solutions to global challenges by the end of the event.
 
-Teens in AI Hack is a pilot project run over 2 weeks in partnership with Founders4Schools and CogX. It aims to inspire young people ages 11-18 into artificial intelligence and offer a chance to solve problems affecting humanity. At Teens in AI hackathons, young people lead the process and are guided by mentors to solve problems.
+Girls In AI Hack is a pilot project run over 2 weeks in partnership with Founders4Schools and CogX. It aims to inspire young people ages 11-18 into artificial intelligence and offer a chance to solve problems affecting humanity. At Teens in AI hackathons, young people lead the process and are guided by mentors to solve problems.
 
 ## **How do I enter a team?**
 

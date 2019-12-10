@@ -49,19 +49,19 @@ Regional Shortlisting: (10 finalist teams announced June 1, 2019)
 
 Ideally, at a minimum, we would like teens to have covered the following during school hours or after school. Suggested times may vary and depend on depends on everyone's enthusiasm!
 
-**Day 1 -  AI, Now & Future** (1 hour in total)
+**Session 1 -  AI, Now & Future** (1 hour in total)
 
 Speaker to introduce teens to AI - how is it changing the world? Why is it important?
 
-**Day 2 - Human-Centred Design** (2 hours in total or more depending on how deeply your mentor wishes to dive into)
+**Session 2 - Human-Centred Design** (2 hours in total or more depending on how deeply your mentor wishes to dive into)
 
 See our Human-Centred Design section below and this [Guide](https://drive.google.com/file/d/1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU/view)
 
-**Day 3 - Ethics in AI** (1-2 hrs)
+**Session 3 - Ethics in AI** (1-2 hrs)
 
 See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/uploads/2019/05/Ethics-in-AI-Guide-London-Tech-Week-Hack.pdf)
 
-**Day 4 - AI & Machine Learning (Tech)** (2-3 hrs or more depending on how deeply the mentor wishes to dive into and interest from teens)
+**Session 4 - AI & Machine Learning (Tech)** (2-3 hrs or more depending on how deeply the mentor wishes to dive into and interest from teens)
 
 Check our ML/AI section and the following in particular:
 
@@ -69,21 +69,21 @@ Check our ML/AI section and the following in particular:
 2. [Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
 3. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
 
-**Day 5 - Business Models** (1-2 hrs)
+**Session 5 - Business Models** (1-2 hrs)
 
 Please see our Business Models section and this [Guide](https://drive.google.com/file/d/1SLCSURVGCoKk2ahvA3aWga-l0J3XuiRo/view)
 
-**Day 6 - Video Pitch** (1 hour)
+**Session 6 - Video Pitch** (1 hour)
 
 Please see our Video Pitch section and this [Guide](https://drive.google.com/file/d/1NqrGYCoQU8HVXAJaaE1-3xNHzbvXEZLe/view)
 
 \*\* Please see section on **Datasets**.
 
-\*\***\*If you feel something is missing in this guide, tell us and we will include it. Otherwise, do use Google actively for more inspiration and resources!!**
+\*\***\*If you feel something is missing in this guide, tell us and we will include it. Otherwise, do encourage teens to use Google actively for more inspiration and resources!!**
 
 ## **Hear from a mentor...**
 
-_“Being a Mentor at the #teensinAI hackathon, meant being there to support and accompany young people through a very intense weekend where they had to work collaboratively and think creatively with a group of girls they had never met before._ 
+_“Being a Mentor at the #tGirlsInAI hackathon, meant being there to support and accompany young people through a very intense weekend where they had to work collaboratively and think creatively with a group of girls they had never met before._ 
 
 _Our role as mentors is to remind them to make the most out of the experience, reminding them to have fun, but at the same time, encourage them to work to their fullest potential. We are there to make sure that the team dynamics are positive and that everyone is involved. It was one of the greatest experiences I have ever had._
 
@@ -93,13 +93,13 @@ _Being able to support them to solve the problems they were encountering through
 
 ## **We Are Looking For:**
 
-**Tech mentors, Design Thinkers, Ethicists and Entrepreneurs** to help teams create their products in the **FIRST ROUND** of the competition - **10-24 May, 2019**
+**Tech mentors, Design Thinkers, Ethicists and Entrepreneurs** to help teams create their products on **7th-8th March, 2020**
 
 **TECH MENTORS**
 
- AI/ML developers. Any stack is suitable, but an appreciation of data science and machine learning is a bonus.
+AI/ML developers. Any stack is suitable, but an appreciation of data science and machine learning is a bonus.
 
- Teens usually have mixed experiences of coding - from none to expert. We teach them how to code in Python but some will know HTML and Java as taught at school. 
+Teens usually have mixed experiences of coding - from none to expert. We teach them how to code in Python but some will know HTML and Java as taught at school. 
 
 At Teens in AI we are technology agnostic - our toolkit contains tools from Google, Microsoft, Amazon, Intel and what not. 
 
@@ -109,7 +109,7 @@ Please check this [Hackathon Guide](https://teensinai.com/hackathon-guide/) for 
 
 **Time Commitment:**
 
-Tech Mentors are expected to commit to a **min of 4-5 hrs in total over a couple of days**, where tech mentors can help teens identify a range of technologies available to teens to tackle a specific problem they want to tackle. If applicable, help source publicly available data sets, teach them how to prepare that data and use it to build a model. If they can and willing, they can continue to mentor the team in person or online via Skype or Slack
+Tech Mentors are expected to commit to a **minimum of 4-5 hrs in total over a couple of days**, where tech mentors can help teens identify a range of technologies available to teens to tackle a specific problem they want to tackle. If applicable, help source publicly available data sets, teach them how to prepare that data and use it to build a model. If they can and willing, they can continue to mentor the team in person or online via Skype or Slack.
 
 - - -
 
@@ -147,7 +147,7 @@ Ethicists to commit **1 -2 hrs in total** to help teens identify possible proble
 
 **ENTREPRENEURS**
 
-Some knowledge of business models, pitching and marketing - your expertise will be vital throughout the building process, particularly when teams will be finalising their pitch decks to post on Devpost for Round 1 judging (deadline 24 May) and getting ready for the demo and presentation in front of judges at Cogx2019 on 12 June.
+Some knowledge of business models, pitching and marketing - your expertise will be vital throughout the building process, particularly when teams will be finalising their pitch decks to post on Devpost for **_Round 1 judging (deadline 24 May) and getting ready for the demo and presentation in front of judges at Cogx2019 on 12 June._**
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
@@ -161,11 +161,11 @@ Business Coaches to commit **1.5-3 hrs in total** to help teens think of innovat
 
 ## **WHAT’S IN IT FOR YOU?**
 
-## **_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
+## _**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
 
 _\*\*\*\*_
 
-## **_Expect to learn_**
+## _**Expect to learn**_
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -173,7 +173,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## **_Expect to be inspired_**
+## _**Expect to be inspired**_
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 
@@ -185,21 +185,21 @@ _“I have been working with startups since the tech giants started up but I hav
 
 \    **DESIGN THINKER Jane Evans (Founder, Janee)**
 
-## **ARE YOU IN?**
+## _**ARE YOU IN?**_
 
-**STEP 1:** Sign up on https://www.founders4schools.org.uk/partners/teensinai/leader/
+**_STEP 1: Sign up on https://www.founders4schools.org.uk/partners/teensinai/leader/_**
 
-**\*\**** If you are a freelancer, student or not working in a company registered in Companies House, then when asked for "company" during sign up process on F4S platform choose "Acorn Aspirations Limited", mother company of Teens in AI. 
+**_\*\** If you are a freelancer, student or not working in a company registered in Companies House, then when asked for "company" during sign up process on F4S platform choose "Acorn Aspirations Limited", mother company of Teens in AI._** 
 
-**STEP 2:** You will receive an invitation to attend a mentoring session by a school via Founders4Schools platform.
+**_STEP 2: You will receive an invitation to attend a mentoring session by a school via Founders4Schools platform._**
 
-**STEP 3:** Attend the event between 10-24 May. A school teacher will send you details about the event and your role in it.
+**_STEP 3: Attend the event between 10-24 May. A school teacher will send you details about the event and your role in it._**
 
-You will be assigned to 1 or 2 teams of 4 or 5 teenagers aged 11-18 to support them and their projects during the days when you have signed up to help. This could be after school (4-5 pm) over a couple of days or more, but you could also split you help and offer a combination of in-person mentoring and online via Slack/Skype - it is really up to you to communicate with the teacher and agree what suits you and the schedule of events.
+**_You will be assigned to 1 or 2 teams of 4 or 5 teenagers aged 11-18 to support them and their projects during the days when you have signed up to help. This could be after school (4-5 pm) over a couple of days or more, but you could also split you help and offer a combination of in-person mentoring and online via Slack/Skype - it is really up to you to communicate with the teacher and agree what suits you and the schedule of events._**
 
-This is a volunteering opportunity and any fees associated with volunteering cannot be reimbursed.
+**_This is a volunteering opportunity and any fees associated with volunteering cannot be reimbursed._**
 
-By participating in our events you agree to comply to our [Code of Conduct](https://teensinai.com/code-of-conduct/).
+**_By participating in our events you agree to comply to our_** [**_Code of Conduct_**](https://teensinai.com/code-of-conduct/)**_._**
 
 **If you wish to volunteer, but are unable to attend in person, please join the Slack channel to offer help remotely: http://bit.ly/teensinaimentor**
 
@@ -231,6 +231,6 @@ _Be prepared to be challenged as to your knowledge and programming skills - teen
 
 **Join the Slack channel to help remotely: http://bit.ly/teensinaimentor**
 
-**For further info email Elena on elena.sinel@acornaspirations.co.uk**
+**For further info email Elena on elena.sinel@teensinai.com**
 
-![](/images/whatsapp-image-2019-04-27-at-3.26.55-pm.jpeg)
+![](/images/girls-in-ai-header.png)

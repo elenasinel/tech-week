@@ -25,27 +25,31 @@ Speaker to introduce teens to AI - how is it changing the world? Why is it impor
 
 **Session 2 - Human-Centred Design** (2 hours in total or more depending on how deeply your mentor wishes to dive into)
 
-See our Human-Centred Design section below and this [Guide](https://drive.google.com/file/d/1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU/view)
+See our Human-Centred Design section below and this [Guide](https://docs.google.com/presentation/d/186pyPssfXPyEWAFxVXSaF2_PWRJLe-UEoLFl-8uoFSo/edit?usp=sharing)
 
 **Session 3 - Ethics in AI** (1-2 hrs)
 
-See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/uploads/2019/05/Ethics-in-AI-Guide-London-Tech-Week-Hack.pdf)
+See our Ethics in AI section and this [Guide](https://docs.google.com/presentation/d/1xAzrpN7ZUhFiT-J-ikV_xDP7CGfNaPkAozwins8ZSx8/edit?usp=sharing)
 
 **Session 4 - AI & Machine Learning (Tech)** (2-3 hrs or more depending on how deeply the mentor wishes to dive into and interest from teens)
 
 Check our ML/AI section and the following in particular:
 
-1. [Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)), Haron Shams, Students4AI (Imperial College London)
-2. [Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
-3. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
+1. [What is AI?](https://docs.google.com/presentation/d/1A9g6L9YQVScr9MmtOaA2fvTLXdAyubdX4du5ci03nsk/edit?usp=sharing)
+2. [Introduction to AI](https://docs.google.com/presentation/d/1lu_zKLZ4YIQrY7mOWNqKT-AHHDJWonD4DlCDZy5SNRY/edit?usp=sharing)
+3. [Getting started with Machine Learning - A Teen's Perspective ](https://docs.google.com/presentation/d/1tm3p91J2KgZb_fJkIaCiaQ7Rd5biYigS6v0CH0Dbgeo/edit?usp=sharing)
+4. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
+5. [API Workshop](https://docs.google.com/presentation/d/1C_phvBaBanoESfV2o1hp56tzt0JO08y5FfmToNjHlaM/edit?usp=sharing)
+6. [Neural Networks Challenge](https://docs.google.com/presentation/d/15tQO6GGVWoO1DvNktNMKzR4upgRiCEEI1q-vkl19E9Y/edit?usp=sharing)
+7. [Reinforcement Learning Challenge](https://docs.google.com/presentation/d/1UrBPE4uLj3vrrdb2hgOzAyCsJQlT8_D7YvWKrhB2Xpg/edit?usp=sharing)
 
 **Session 5 - Business Models** (1-2 hrs)
 
-Please see our Business Models section and this [Guide](https://drive.google.com/file/d/1SLCSURVGCoKk2ahvA3aWga-l0J3XuiRo/view)
+Please see our Business Models section and this [Guide](https://docs.google.com/presentation/d/1Af3Q78hkN7wTzmVxFU9h5uaJEE8QL7QFzT8QPePXScM/edit?usp=sharing)
 
 **Session 6 - Video Pitch** (1 hour)
 
-Please see our Video Pitch section and this [Guide](https://drive.google.com/file/d/1NqrGYCoQU8HVXAJaaE1-3xNHzbvXEZLe/view)
+Please see our Video Pitch section and this [Guide](https://docs.google.com/presentation/d/1zEwLTgHm7OKAm7FaIHKV_SsRLOqRrh33vNIZRgGGao8/edit?usp=sharing)
 
 \*\* Please see section on **Datasets**.
 

@@ -17,21 +17,21 @@ title: Girls In AI Hackathon
 # **Hackathon - Key Dates**
 
 Girls in AI Hackathon runs on the weekend of International Women's Day which is on the 7th and 8th March 2020.
-**_\### In Depth Schedule_**
+_**\### In Depth Schedule**_
 
-_**Round 1: Video pitch**_
+**_Round 1: Video pitch_**
 
-**_Competition opens 7th March 2020 and closes on 8th March 2020._**
+_**Competition opens 7th March 2020 and closes on 8th March 2020.**_
 
-**_All videos must be submitted by 17:00 (GMT) 9th March, 2020 by email to harv@teensinai.com_**
+_**All videos must be submitted by 17:00 (GMT) 9th March, 2020 by email to harv@teensinai.com**_
 
-**_Regional Shortlisting: (10 finalist teams announced June 1, 2019)_**
+_**Regional Shortlisting: (10 finalist teams announced June 1, 2019)**_
 
-**_Final Round: Finals Demo Day (June 10th and 12th at CogX)_**
+_**Final Round: Finals Demo Day (June 10th and 12th at CogX)**_
 
-**_10 June: Come and get inspired at Europe's largest festival for AI, CogX_**
+_**10 June: Come and get inspired at Europe's largest festival for AI, CogX**_
 
-**_12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!_** 
+_**12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!**_ 
 
 ## **What is the Girls In AI Hackathon?**
 
@@ -68,13 +68,13 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 ## **Prizes**
 
-**_1st Prize: Visit to Deepmind_**
+_**1st Prize: Visit to Deepmind**_
 
-**__**[**_Project Prep_**](https://www.projectprep.com/about) **_books to female finalists_**
+**__**[_**Project Prep**_](https://www.projectprep.com/about) _**books to female finalists**_
 
-**_Microbit Foundation goody bags to all finalists_**
+_**Microbit Foundation goody bags to all finalists**_
 
-**_TechWillSaveUs Micro:bot kits_**
+_**TechWillSaveUs Micro:bot kits**_
 
 ## **DevPost**
 
@@ -100,50 +100,54 @@ Girls In AI Hack utilises [DevPost](https://devpost.com) to manage project submi
 
 ## **Entry Requirement Rules**
 
-* **_Participants must be between the ages of 11 and 18._**
-* **_Participants must be studying in a secondary school, Sixth Form or college based in London_**
-* **_Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT_**
-* **_You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on 4 June for Round 1_** 
-* **_You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run._**
-* **_You must be able to demonstrate that everyone within your group has contributed._**
-* **_Parents are not allowed to mentor teams where participants are their children._**
-* **_Code needs to be new and will be verified - it must not belong to any previous project_**
+* _**Participants must be between the ages of 11 and 18.**_
+* _**Participants must be studying in a secondary school, Sixth Form or college based in London**_
+* _**Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT**_
+* _**You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on 4 June for Round 1**_ 
+* _**You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.**_
+* _**You must be able to demonstrate that everyone within your group has contributed.**_
+* _**Parents are not allowed to mentor teams where participants are their children.**_
+* _**Code needs to be new and will be verified - it must not belong to any previous project**_
 
 # **Suggested Curriculum for the Hackathon**
 
 Ideally, at a minimum, we would like teens to have covered the following during school hours or after school. Suggested times may vary and depend on depends on everyone's enthusiasm!
 
-**Day 1 -  AI, Now & Future** (1 hour in total)
+**Session 1 -  AI, Now & Future** (1 hour in total)
 
 Speaker to introduce teens to AI - how is it changing the world? Why is it important?
 
-**Day 2 - Human-Centred Design** (2 hours in total or more depending on how deeply your mentor wishes to dive into)
+**Session 2 - Human-Centred Design** (2 hours in total or more depending on how deeply your mentor wishes to dive into)
 
-See our Human-Centred Design section below and this [Guide](https://drive.google.com/file/d/1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU/view)
+See our Human-Centred Design section below and this [Guide](https://docs.google.com/presentation/d/186pyPssfXPyEWAFxVXSaF2_PWRJLe-UEoLFl-8uoFSo/edit?usp=sharing)
 
-**Day 3 - Ethics in AI** (1-2 hrs)
+**Session 3 - Ethics in AI** (1-2 hrs)
 
-See our Ethics in AI section and this [Guide](https://teensinai.com/wp-content/uploads/2019/05/Ethics-in-AI-Guide-London-Tech-Week-Hack.pdf)
+See our Ethics in AI section and this [Guide](https://docs.google.com/presentation/d/1xAzrpN7ZUhFiT-J-ikV_xDP7CGfNaPkAozwins8ZSx8/edit?usp=sharing)
 
-**Day 4 - AI & Machine Learning (Tech)** (2-3 hrs or more depending on how deeply the mentor wishes to dive into and interest from teens)
+**Session 4 - AI & Machine Learning (Tech)** (2-3 hrs or more depending on how deeply the mentor wishes to dive into and interest from teens)
 
 Check our ML/AI section and the following in particular:
 
-1. [Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)), Haron Shams, Students4AI (Imperial College London)
-2. [Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv)
-3. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
+1. [What is AI?](https://docs.google.com/presentation/d/1A9g6L9YQVScr9MmtOaA2fvTLXdAyubdX4du5ci03nsk/edit?usp=sharing)
+2. [Introduction to AI](https://docs.google.com/presentation/d/1lu_zKLZ4YIQrY7mOWNqKT-AHHDJWonD4DlCDZy5SNRY/edit?usp=sharing)
+3. [Getting started with Machine Learning - A Teen's Perspective ](https://docs.google.com/presentation/d/1tm3p91J2KgZb_fJkIaCiaQ7Rd5biYigS6v0CH0Dbgeo/edit?usp=sharing)
+4. [Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
+5. [API Workshop](https://docs.google.com/presentation/d/1C_phvBaBanoESfV2o1hp56tzt0JO08y5FfmToNjHlaM/edit?usp=sharing)
+6. [Neural Networks Challenge](https://docs.google.com/presentation/d/15tQO6GGVWoO1DvNktNMKzR4upgRiCEEI1q-vkl19E9Y/edit?usp=sharing)
+7. [Reinforcement Learning Challenge](https://docs.google.com/presentation/d/1UrBPE4uLj3vrrdb2hgOzAyCsJQlT8_D7YvWKrhB2Xpg/edit?usp=sharing)
 
-**Day 5 - Business Models** (1-2 hrs)
+**Session 5 - Business Models** (1-2 hrs)
 
-Please see our Business Models section and this [Guide](https://drive.google.com/file/d/1SLCSURVGCoKk2ahvA3aWga-l0J3XuiRo/view)
+Please see our Business Models section and this [Guide](https://docs.google.com/presentation/d/1Af3Q78hkN7wTzmVxFU9h5uaJEE8QL7QFzT8QPePXScM/edit?usp=sharing)
 
-**Day 6 - Video Pitch** (1 hour)
+**Session 6 - Video Pitch** (1 hour)
 
-Please see our Video Pitch section and this [Guide](https://drive.google.com/file/d/1NqrGYCoQU8HVXAJaaE1-3xNHzbvXEZLe/view)
+Please see our Video Pitch section and this [Guide](https://docs.google.com/presentation/d/1zEwLTgHm7OKAm7FaIHKV_SsRLOqRrh33vNIZRgGGao8/edit?usp=sharing)
 
 \*\* Please see section on **Datasets**.
 
-\*\***\*If you feel something is missing in this guide, tell us and we will include it. Otherwise, do use Google actively for more inspiration and resources!!**
+\*\***\*If you feel something is missing in this guide, tell us and we will include it. Otherwise, do encourage teens to use Google actively for more inspiration and resources!!**
 
 # **Resources**
 
@@ -153,33 +157,19 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 
 [Python Tutorial - Sammy Hass](https://github.com/SammyHass), 17 - Teens in AI Ambassador
 
-[Great Intro to AI Course](https://github.com/life-efficient/Academy-of-AI) - Harry Berg, Academy of AI (Imperial College London)
-
 [Intro to Neural Networks - Kiran Arun](https://github.com/KiranArun), 17 - Teens in AI Ambassador
 
 [Intro to Reinforcement Learning - Kiran Arun](https://github.com/KiranArun/Reinforcement_Learning-101-demo)
 
 **Our downloadable PDF guides:**
 
-\*\*\*\*[Getting Started with Machine Learning Guide (A Teens Perspective)  (PDF)](https://drive.google.com/open?id=1JhmVrrI5JhPylJVna4NFU7UWyDhTRNnv) - Kiran Arun, 17
-
 [How Does Machine Learning Work (PDF)](https://drive.google.com/open?id=1eDvVetoHSkFDRWMFqOv7hAZhkR-kJa9R) - Kiran Arun, 17
-
-[Introduction to AI Guide (PDF](https://drive.google.com/open?id=1sHcZzhHqwhZ86arIqWhmbvUTqb5vT5tc)) - Haron Shams, Students4AI (Imperial College London)
 
 [Introduction to Neural Networks (PDF)](https://drive.google.com/open?id=1HMUeuAgOceytU7LtwBRiSvHfY7JPe924)
 
 [The Future of AI (PDF)](https://drive.google.com/open?id=1xTvq5VPSrFujHpfv6-9mRY_B4mxRYAyb) - Kiran Arun, 17
 
-[What is Artificial Intelligence (PDF)](https://drive.google.com/open?id=1aLIfXuxK9kDj5czLuSeso_JxATqyaN-z) - Kiran Arun
-
-[Getting Started with API’s Guide (PDF)](https://drive.google.com/open?id=19BiQNuYhHsCW863o5IvQU2L5z_k6cP2T) - Arman (14), Sebastian (15)
-
-**Have a go at these challenges:**
-
-[Neural Network Challenge (PDF)](https://drive.google.com/file/d/1OIgep0Oog-4OnJ-apiNZmd7S9guJYvDl/view)
-
-[Reinforcement Learning Challenge (PDF)](https://drive.google.com/open?id=1Ls2nFi6UfvqF_oPeZlWzWqyKp4h-B5ec)
+[What is AI?](https://docs.google.com/presentation/d/1A9g6L9YQVScr9MmtOaA2fvTLXdAyubdX4du5ci03nsk/edit?usp=sharing) - Kiran Arun
 
 **Here are some links to some YouTube videos you may find useful when researching Machine Learning & Artificial Intelligence:**
 
@@ -207,7 +197,7 @@ The role of Facebook’s “Free Basics” in Myanmar genocide and the Cambridge
 
 It is therefore extremely crucial for the key players in AI and also for the aspirants to have an education imbued with the awareness of responsibilities that come with such expertise.
 
-[Download our Ethics in AI Guide (PDF)](https://teensinai.com/wp-content/uploads/2019/05/Ethics-in-AI-Guide-London-Tech-Week-Hack.pdf)
+[Download our Ethics in AI Guide (PDF)](https://docs.google.com/presentation/d/1xAzrpN7ZUhFiT-J-ikV_xDP7CGfNaPkAozwins8ZSx8/edit?usp=sharing)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ItHlqVLjC-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -215,7 +205,7 @@ It is therefore extremely crucial for the key players in AI and also for the asp
 
 Human-centered design is a creative approach to problem solving and the backbone of a product. It’s a process that starts with the people you’re designing for and ends with new solutions that are tailor made to suit their needs.
 
-[Download our Human Centred Design Guide (PDF)](https://drive.google.com/open?id=1zpjIXhG5X6DtwytUJwC8UqgG-SibMXEU)
+[Download our Human Centred Design Guide (PDF)](https://docs.google.com/presentation/d/186pyPssfXPyEWAFxVXSaF2_PWRJLe-UEoLFl-8uoFSo/edit?usp=sharing)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/musmgKEPY2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -225,7 +215,7 @@ The Business Model Canvas (BMC), is a strategic management and entrepreneurial t
 
 A good starting place is on the [Strategyzer](https://www.strategyzer.com/canvas) sites. Strategyzer have a lot of free resources on their site, but you'll need to register to access them.
 
-[Download our Business Model Guide (PDF)](http://bit.ly/2vkTfyS)
+[Download our Business Model Guide (PDF)](https://docs.google.com/presentation/d/1Af3Q78hkN7wTzmVxFU9h5uaJEE8QL7QFzT8QPePXScM/edit?usp=sharing)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7mEISPNVv3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

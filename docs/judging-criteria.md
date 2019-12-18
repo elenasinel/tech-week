@@ -1,6 +1,8 @@
 ---
 title: Judging Criteria
 ---
+![](/images/girls-in-ai-header.png)
+
 Our panel of judges will analyse projects based on the criteria listed below. They will base their judgement on both the product you produce, the code you write and your video pitch.
 
 **Design & Implementation:** Does it work? Is it implementable? Did the team think about the user interface (UI) and user experience (UX)? Was the product designed with humans in mind?

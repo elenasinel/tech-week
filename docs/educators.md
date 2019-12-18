@@ -1,6 +1,8 @@
 ---
 title: Educators Brief
 ---
+![](/images/girls-in-ai-header.png)
+
 **\*\*\*This is a "work in progress" doc and is constantly getting updated\*\*\***
 
 Dear Educator,

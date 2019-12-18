@@ -1,6 +1,8 @@
 ---
 title: FAQ
 ---
+![](/images/girls-in-ai-header.png)
+
 # FAQ
 
 ## What is a Hackathon?

@@ -1,6 +1,8 @@
 ---
 title: 'Rules of the Competition '
 ---
+![](/images/girls-in-ai-header.png)
+
 **1. Submitting**
 
 1.1 DevPost is the Official Teens in AI competition submission site and allows you to submit all components required for your team’s entry. Note: submission elements and times are system controlled so no extensions are available!
@@ -85,4 +87,4 @@ title: 'Rules of the Competition '
 
 By participating in Teens in AI Hackathon, you agree to comply with [Teens in AI Code of Conduct.](https://teensinai.com/code-of-conduct/)
 
-# ****
+# \*\*\*\*

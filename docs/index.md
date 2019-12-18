@@ -17,21 +17,21 @@ title: Girls In AI Hackathon
 # **Hackathon - Key Dates**
 
 Girls in AI Hackathon runs on the weekend of International Women's Day which is on the 7th and 8th March 2020.
-_**\### In Depth Schedule**_
+**_\### In Depth Schedule_**
 
-**_Round 1: Video pitch_**
+_**Round 1: Video pitch**_
 
-_**Competition opens 7th March 2020 and closes on 8th March 2020.**_
+**_Competition opens 7th March 2020 and closes on 8th March 2020._**
 
-_**All videos must be submitted by 17:00 (GMT) 9th March, 2020 by email to harv@teensinai.com**_
+**_All videos must be submitted by 17:00 (GMT) 9th March, 2020 by email to harv@teensinai.com_**
 
-_**Regional Shortlisting: (10 finalist teams announced June 1, 2019)**_
+**_Regional Shortlisting: (10 finalist teams announced June 1, 2019)_**
 
-_**Final Round: Finals Demo Day (June 10th and 12th at CogX)**_
+**_Final Round: Finals Demo Day (June 10th and 12th at CogX)_**
 
-_**10 June: Come and get inspired at Europe's largest festival for AI, CogX**_
+**_10 June: Come and get inspired at Europe's largest festival for AI, CogX_**
 
-_**12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!**_ 
+**_12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!_** 
 
 ## **What is the Girls In AI Hackathon?**
 
@@ -68,13 +68,13 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 ## **Prizes**
 
-_**1st Prize: Visit to Deepmind**_
+**_1st Prize: Visit to Deepmind_**
 
-**__**[_**Project Prep**_](https://www.projectprep.com/about) _**books to female finalists**_
+**__**[**_Project Prep_**](https://www.projectprep.com/about) **_books to female finalists_**
 
-_**Microbit Foundation goody bags to all finalists**_
+**_Microbit Foundation goody bags to all finalists_**
 
-_**TechWillSaveUs Micro:bot kits**_
+**_TechWillSaveUs Micro:bot kits_**
 
 ## **DevPost**
 
@@ -100,14 +100,14 @@ Girls In AI Hack utilises [DevPost](https://devpost.com) to manage project submi
 
 ## **Entry Requirement Rules**
 
-* _**Participants must be between the ages of 11 and 18.**_
-* _**Participants must be studying in a secondary school, Sixth Form or college based in London**_
-* _**Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT**_
-* _**You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on 4 June for Round 1**_ 
-* _**You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.**_
-* _**You must be able to demonstrate that everyone within your group has contributed.**_
-* _**Parents are not allowed to mentor teams where participants are their children.**_
-* _**Code needs to be new and will be verified - it must not belong to any previous project**_
+* **_Participants must be between the ages of 11 and 18._**
+* **_Participants must be studying in a secondary school, Sixth Form or college based in London_**
+* **_Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT_**
+* **_You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on 4 June for Round 1_** 
+* **_You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run._**
+* **_You must be able to demonstrate that everyone within your group has contributed._**
+* **_Parents are not allowed to mentor teams where participants are their children._**
+* **_Code needs to be new and will be verified - it must not belong to any previous project_**
 
 # **Suggested Curriculum for the Hackathon**
 

@@ -151,7 +151,7 @@ Ethicists to commit **1 -2 hrs in total** to help teens identify possible proble
 
 **ENTREPRENEURS**
 
-Some knowledge of business models, pitching and marketing - your expertise will be vital throughout the building process, particularly when teams will be finalising their pitch decks to post on Devpost for _**Round 1 judging (deadline 24 May) and getting ready for the demo and presentation in front of judges at Cogx2019 on 12 June.**_
+Some knowledge of business models, pitching and marketing - your expertise will be vital throughout the building process, particularly when teams will be finalising their pitch decks to post on Devpost for **_Round 1 judging (deadline 24 May) and getting ready for the demo and presentation in front of judges at Cogx2019 on 12 June._**
 
 **When we need you:** Please check with the school you signed up to volunteer at
 
@@ -165,11 +165,11 @@ Business Coaches to commit **1.5-3 hrs in total** to help teens think of innovat
 
 ## **WHAT’S IN IT FOR YOU?**
 
-## **_\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!_**
+## _**\*\** ALL mentors will receive FREE 3 Day, 2 Topics Passes to CogX2019!**_
 
 _\*\*\*\*_
 
-## **_Expect to learn_**
+## _**Expect to learn**_
 
 _"The girls were very impressive. I work with digital marketing, software developers, traditional IT teams all day, every day and I thought these girls could teach us lot a thing or two!"_
 
@@ -177,7 +177,7 @@ _"The girls were very impressive. I work with digital marketing, software develo
 
 [Read an article](https://www.linkedin.com/pulse/learning-through-mentoring-ashish-bansal/) about one mentor’s experience:
 
-## **_Expect to be inspired_**
+## _**Expect to be inspired**_
 
 _“Mentoring at the Teens in AI hackathon was an incredibly rewarding and inspirational experience!_
 
@@ -189,21 +189,21 @@ _“I have been working with startups since the tech giants started up but I hav
 
 \    **DESIGN THINKER Jane Evans (Founder, Janee)**
 
-## **_ARE YOU IN?_**
+## _**ARE YOU IN?**_
 
-_**STEP 1: Sign up on https://www.founders4schools.org.uk/partners/teensinai/leader/**_
+**_STEP 1: Sign up on https://www.founders4schools.org.uk/partners/teensinai/leader/_**
 
-_**\*\** If you are a freelancer, student or not working in a company registered in Companies House, then when asked for "company" during sign up process on F4S platform choose "Acorn Aspirations Limited", mother company of Teens in AI.**_ 
+**_\*\** If you are a freelancer, student or not working in a company registered in Companies House, then when asked for "company" during sign up process on F4S platform choose "Acorn Aspirations Limited", mother company of Teens in AI._** 
 
-_**STEP 2: You will receive an invitation to attend a mentoring session by a school via Founders4Schools platform.**_
+**_STEP 2: You will receive an invitation to attend a mentoring session by a school via Founders4Schools platform._**
 
-_**STEP 3: Attend the event between 10-24 May. A school teacher will send you details about the event and your role in it.**_
+**_STEP 3: Attend the event between 10-24 May. A school teacher will send you details about the event and your role in it._**
 
-_**You will be assigned to 1 or 2 teams of 4 or 5 teenagers aged 11-18 to support them and their projects during the days when you have signed up to help. This could be after school (4-5 pm) over a couple of days or more, but you could also split you help and offer a combination of in-person mentoring and online via Slack/Skype - it is really up to you to communicate with the teacher and agree what suits you and the schedule of events.**_
+**_You will be assigned to 1 or 2 teams of 4 or 5 teenagers aged 11-18 to support them and their projects during the days when you have signed up to help. This could be after school (4-5 pm) over a couple of days or more, but you could also split you help and offer a combination of in-person mentoring and online via Slack/Skype - it is really up to you to communicate with the teacher and agree what suits you and the schedule of events._**
 
-_**This is a volunteering opportunity and any fees associated with volunteering cannot be reimbursed.**_
+**_This is a volunteering opportunity and any fees associated with volunteering cannot be reimbursed._**
 
-_**By participating in our events you agree to comply to our**_ [_**Code of Conduct**_](https://teensinai.com/code-of-conduct/)_**.**_
+**_By participating in our events you agree to comply to our_** [**_Code of Conduct_**](https://teensinai.com/code-of-conduct/)**_._**
 
 **If you wish to volunteer, but are unable to attend in person, please join the Slack channel to offer help remotely: http://bit.ly/teensinaimentor**
 

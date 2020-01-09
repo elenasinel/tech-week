@@ -11,27 +11,25 @@ title: Girls In AI Hackathon
 
 # **Teens in AI Hackathon Guide**
 
-!!! Info
-	This site provides much of the information you'll need to prepare your Teens in AI Hack competition entries, and links to resources to help you create a great project.
+!!! Info 	This site provides much of the information you'll need to prepare your Teens in AI Hack competition entries, and links to resources to help you create a great project.
 
 # **Hackathon - Key Dates**
 
-Girls in AI Hackathon runs on the weekend of International Women's Day which is on the 7th and 8th March 2020.
-**_\### In Depth Schedule_**
+Girls in AI Hackathon runs on the weekend of International Women's Day which is on the 7th and 8th March 2020. ***\### In Depth Schedule***
 
-_**Round 1: Video pitch**_
+***Round 1: Video pitch***
 
-**_Competition opens 7th March 2020 and closes on 8th March 2020._**
+***Competition opens 7th March 2020 and closes on 8th March 2020.***
 
-**_All videos must be submitted by 17:00 (GMT) 9th March, 2020 by email to harv@teensinai.com_**
+***All videos must be submitted by 17:00 (GMT) 9th March, 2020 by email to harv@teensinai.com***
 
-**_Regional Shortlisting: (10 finalist teams announced June 1, 2019)_**
+***Regional Shortlisting: (10 finalist teams announced June 1, 2019)***
 
-**_Final Round: Finals Demo Day (June 10th and 12th at CogX)_**
+***Final Round: Finals Demo Day (June 10th and 12th at CogX)***
 
-**_10 June: Come and get inspired at Europe's largest festival for AI, CogX_**
+***10 June: Come and get inspired at Europe's largest festival for AI, CogX***
 
-**_12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!_** 
+***12 June: Demo Day in front of Judges on Impact Stage at CogX - winners announced!*** 
 
 ## **What is the Girls In AI Hackathon?**
 
@@ -61,20 +59,19 @@ Our panel of judges will analyse projects based on the criteria listed below. Th
 
 * **Design & Implementation** - Does it work? Is it implementable? Did the team think about the user interface (UI) and user experience (UX)? Was the product designed with humans in mind?
 * **Innovation:** How innovative / creative / unique is the idea? Was there a novel approach applied to solve the problem?
-* **Technical Complexity** - Is the project technically impressive? Complex? 
-  How technically sophisticated / advanced / elegant was the solution?
+* **Technical Complexity** - Is the project technically impressive? Complex?  How technically sophisticated / advanced / elegant was the solution?
 * **Social Impact** - How impactful is the idea? Can it impact the lives of many people in a significant way? Is the idea aligned with and addresses any of the UN Sustainable Development Goals?  
 * **Commercial Viability** - Is there a business potential? How original is the business model? Has the team considered route to market and has made proactive actions to execute an action plan? Is the idea feasible, does it have economic and societal value, and is it sustainable?
 
 ## **Prizes**
 
-**_1st Prize: Visit to Deepmind_**
+***1st Prize: Visit to Deepmind***
 
-**__**[**_Project Prep_**](https://www.projectprep.com/about) **_books to female finalists_**
+**__*[Project Prep](https://www.projectprep.com/about)*** ***books to female finalists***
 
-**_Microbit Foundation goody bags to all finalists_**
+***Microbit Foundation goody bags to all finalists***
 
-**_TechWillSaveUs Micro:bot kits_**
+***TechWillSaveUs Micro:bot kits***
 
 ## **DevPost**
 
@@ -100,14 +97,14 @@ Girls In AI Hack utilises [DevPost](https://devpost.com) to manage project submi
 
 ## **Entry Requirement Rules**
 
-* **_Participants must be between the ages of 11 and 18._**
-* **_Participants must be studying in a secondary school, Sixth Form or college based in London_**
-* **_Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT_**
-* **_You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on 4 June for Round 1_** 
-* **_You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run._**
-* **_You must be able to demonstrate that everyone within your group has contributed._**
-* **_Parents are not allowed to mentor teams where participants are their children._**
-* **_Code needs to be new and will be verified - it must not belong to any previous project_**
+* ***Participants must be between the ages of 11 and 18.***
+* ***Participants must be studying in a secondary school, Sixth Form or college based in London***
+* ***Each group must be made up of 2-4 members and has to be gender-diverse, unless it is a single gender school, i.e. per group there must be a minimum of one boy and girl. Multi-ethnicity, children from BAME groups and on Free Schools Meals are encouraged, so are LGBT***
+* ***You must upload your video on YouTube and submit your video pitch no longer than 3 mins by 5 pm on 4 June for Round 1*** 
+* ***You must publish any and all code written on Github and provide links. You must document and provide an explanation of how it can be run.***
+* ***You must be able to demonstrate that everyone within your group has contributed.***
+* ***Parents are not allowed to mentor teams where participants are their children.***
+* ***Code needs to be new and will be verified - it must not belong to any previous project***
 
 # **Suggested Curriculum for the Hackathon**
 
@@ -166,10 +163,6 @@ We have comprehensive guides that go over the basics of Machine Learning/Artific
 [How Does Machine Learning Work (PDF)](https://drive.google.com/open?id=1eDvVetoHSkFDRWMFqOv7hAZhkR-kJa9R) - Kiran Arun, 17
 
 [Introduction to Neural Networks (PDF)](https://drive.google.com/open?id=1HMUeuAgOceytU7LtwBRiSvHfY7JPe924)
-
-[The Future of AI (PDF)](https://drive.google.com/open?id=1xTvq5VPSrFujHpfv6-9mRY_B4mxRYAyb) - Kiran Arun, 17
-
-[What is AI?](https://docs.google.com/presentation/d/1A9g6L9YQVScr9MmtOaA2fvTLXdAyubdX4du5ci03nsk/edit?usp=sharing) - Kiran Arun
 
 **Here are some links to some YouTube videos you may find useful when researching Machine Learning & Artificial Intelligence:**
 
